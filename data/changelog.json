@@ -660,46 +660,6 @@
     "occurred_at": "2026-05-28T20:29:16.314518+00:00"
   },
   {
-    "event_id": 22,
-    "tf_id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
-    "event_type": "created",
-    "diff": null,
-    "snapshot": {
-      "id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
-      "city": null,
-      "name": "Asociația eLiberare",
-      "email": "alert@eliberare.com",
-      "website": "https://eliberare.com/",
-      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) |National Authority for Management and Regulation in Communications",
-      "legal_form": null,
-      "address_raw": "Calea Văcărești nr. 338, bl. 15, sc. 2, apt. 30, sect. 4, Bucharest, Romania",
-      "postal_code": null,
-      "source_hash": "95f00a446eb26cbed2767d2deeaed079ea4e6a2722a6707438e0599110fe7559",
-      "country_code": "RO",
-      "email_domain": "eliberare.com",
-      "designation_date": "2025-10-13",
-      "dsc_country_code": "RO",
-      "areas_of_expertise": [
-        "cyber_violence",
-        "gender_based_violence",
-        "illegal_speech",
-        "protection_of_minors",
-        "public_security",
-        "violence"
-      ],
-      "areas_of_expertise_raw": [
-        "Cyberviolence",
-        "Cyber violence against women",
-        "Illegal Speech",
-        "Protection of minors violations",
-        "Risk for public security",
-        "Violence"
-      ]
-    },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
-  },
-  {
     "event_id": 23,
     "tf_id": "f80b7674-8075-5f87-b0ef-edeb1ee055ca",
     "event_type": "created",
@@ -2402,5 +2362,45 @@
     },
     "scrape_run_id": "21b6f2bf-ecc1-4e67-aaec-79a773001233",
     "occurred_at": "2026-05-29T19:12:43.536522+00:00"
+  },
+  {
+    "event_id": 74,
+    "tf_id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
+    "event_type": "created",
+    "diff": null,
+    "snapshot": {
+      "id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
+      "city": null,
+      "name": "Asociația eLiberare",
+      "email": "alert@eliberare.com",
+      "website": "https://eliberare.com/",
+      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) |National Authority for Management and Regulation in Communications",
+      "legal_form": null,
+      "address_raw": "Calea Văcărești nr. 338, bl. 15, sc. 2, apt. 30, sect. 4, Bucharest, Romania",
+      "postal_code": null,
+      "source_hash": "95f00a446eb26cbed2767d2deeaed079ea4e6a2722a6707438e0599110fe7559",
+      "country_code": "RO",
+      "email_domain": "eliberare.com",
+      "designation_date": "2025-10-13",
+      "dsc_country_code": "RO",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_speech",
+        "protection_of_minors",
+        "public_security",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Risk for public security",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "335eda83-f33b-44f1-9b22-18fa49cc6968",
+    "occurred_at": "2026-05-29T19:17:48.420638+00:00"
   }
 ]

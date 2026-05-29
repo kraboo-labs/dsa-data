@@ -23,10 +23,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-12-03",
-    "status": "active",
-    "first_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "90f1bed3fe12ed3d710df85f1ad5772f093b4a63009cf80118f58d095931b469"
+    "status": "active"
   },
   {
     "id": "8ffbc3fe-0c27-508c-bb3e-2f170f84e4a8",
@@ -56,10 +53,7 @@
       "scams_fraud"
     ],
     "designation_date": "2026-03-20",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "620e314acae8da9f7dfccf07f5f5cfcc207ecaf831a347628db0a14245178823"
+    "status": "active"
   },
   {
     "id": "889c4762-ae46-51f4-981e-033b80089c58",
@@ -81,10 +75,7 @@
       "illegal_products"
     ],
     "designation_date": "2025-12-17",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "df53cb6dc9bfd9de9a01628e274b2015f438e164387fedfcdb44488cd085adf8"
+    "status": "active"
   },
   {
     "id": "72a58c96-eb56-50b9-a7e4-d62531e6e155",
@@ -108,10 +99,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-01-22",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "4ac99a852a949890c2feb81fd46725493d45f4eb919ac9752109b38815e688be"
+    "status": "active"
   },
   {
     "id": "c45c6bd0-ece6-5593-8f91-cf403a17e03b",
@@ -133,10 +121,7 @@
       "illegal_speech"
     ],
     "designation_date": "2026-05-17",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "abc092c1e784fbc20e9718852f6be2de97ad5255110f6ab5132ff1d1f4c1f654"
+    "status": "active"
   },
   {
     "id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
@@ -168,10 +153,7 @@
       "violence"
     ],
     "designation_date": "2025-10-13",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "95f00a446eb26cbed2767d2deeaed079ea4e6a2722a6707438e0599110fe7559"
+    "status": "active"
   },
   {
     "id": "ddf53b73-4064-5dff-8c38-1e1233109bfa",
@@ -205,10 +187,7 @@
       "violence"
     ],
     "designation_date": "2025-03-12",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "520f35e86f278b00a53acdc84ff940db9d04aed92a9b4e0425963a03356c9d9e"
+    "status": "active"
   },
   {
     "id": "0467acd4-cd64-5c3e-b575-a97ec3632b77",
@@ -230,10 +209,7 @@
       "ip_infringement"
     ],
     "designation_date": "2025-03-12",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "6b1c9793099c412ec6748da84aafe11aa4167b29a21b792074f0ac03e623b406"
+    "status": "active"
   },
   {
     "id": "351274ec-6089-51e8-aee2-7286968ddea8",
@@ -255,10 +231,7 @@
       "public_security"
     ],
     "designation_date": "2025-04-02",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "993dd8b593803ee3ff47450695868562e7f44fdf205144fd0e8c00428f46e517"
+    "status": "active"
   },
   {
     "id": "174191cb-c118-53a0-aff6-4264603bf3ca",
@@ -284,10 +257,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2025-10-28",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "69b36581f9ef4822191b38c0c4c0612ac784050e59be91bfeacae5bf1f070f18"
+    "status": "active"
   },
   {
     "id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
@@ -309,10 +279,7 @@
       "ip_infringement"
     ],
     "designation_date": "2025-09-30",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "70c47b60a6cee3f445a18ea54f173f6cbc86c56b7170a1d4fa003c4fa4e87fff"
+    "status": "active"
   },
   {
     "id": "e1e5af41-5c74-56b1-9486-1536d7a963a7",
@@ -336,10 +303,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-03-06",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "8f1b667ccb8d5497d5414e9723c5d89d9c749ca970c6bd4e69fb467f5309e9a7"
+    "status": "active"
   },
   {
     "id": "84236f67-fbe4-578e-a02c-1414bfb75252",
@@ -363,10 +327,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2025-12-22",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "6bcccc997ac969f7d784acbc3024e75d516a9cf40e02d738c996b7e9eabb471b"
+    "status": "active"
   },
   {
     "id": "a0cbcf8e-8888-53d8-8316-bfdc67da6a2a",
@@ -392,10 +353,7 @@
       "ip_infringement"
     ],
     "designation_date": "2025-06-02",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "c5e7f246e46eb7b5fdf8a8457b7d98ecbd4a401d66f9f23e5a9415b50e508300"
+    "status": "active"
   },
   {
     "id": "ec01c51a-9ba8-5b91-bba8-577da9fa1973",
@@ -423,10 +381,7 @@
       "public_security"
     ],
     "designation_date": "2025-07-29",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "9d5cb6ebe378c68f48e23510cb75b9447029cf87fba8b1a374f429108a50d5e1"
+    "status": "active"
   },
   {
     "id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
@@ -448,10 +403,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-04-02",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "486ed51ddf605257c7bf088e9e767f31bbf0d60fccbf4b59718286d63b3ffc6e"
+    "status": "active"
   },
   {
     "id": "05dc4bec-e30f-565e-902e-0fa42a16cc68",
@@ -473,10 +425,7 @@
       "illegal_speech"
     ],
     "designation_date": "2025-11-12",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "06d6c642c6b5f57334d135a024ef66921239b9640a8c5d83722a2c118adea53a"
+    "status": "active"
   },
   {
     "id": "48ce08ff-64e5-50e1-9c8c-edb4b3402668",
@@ -502,10 +451,7 @@
       "public_security"
     ],
     "designation_date": "2025-04-16",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "3be46653dac2473d92b144b2d3c0a52d1de41b20e020f1c9fa8c0a7b92916822"
+    "status": "active"
   },
   {
     "id": "3b555c7f-b71b-5c52-b409-864a78f83d0b",
@@ -527,10 +473,7 @@
       "ip_infringement"
     ],
     "designation_date": "2025-10-01",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "17fe70d6e77de3c19ea79c7f62ac4e93303e95fc86107d6df086ad8d5b18b035"
+    "status": "active"
   },
   {
     "id": "998292dd-b18d-502d-a348-39afc2b9395a",
@@ -552,10 +495,7 @@
       "illegal_products"
     ],
     "designation_date": "2024-12-10",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "db9315e4eaa0193a8f18c3a89a4532a434d17e29aa223a8884db86231866812b"
+    "status": "active"
   },
   {
     "id": "ae1ccc3f-5ba8-56bd-82e6-fdee080edf67",
@@ -585,10 +525,7 @@
       "violence"
     ],
     "designation_date": "2024-11-05",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "fdfebc2e35fff8f1886af638ae61240e0dd05c539eb89b401d818641f5297742"
+    "status": "active"
   },
   {
     "id": "2b15d6cd-c306-53ef-a081-447d942dfdbe",
@@ -616,10 +553,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-03-21",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "8954b4684fd253c1c8bac08211ed115ca196bf523dd087c81c6fdd8d3286cddf"
+    "status": "active"
   },
   {
     "id": "cb983b7f-1197-5b0d-aaa0-e5d5aa6ae145",
@@ -641,10 +575,7 @@
       "illegal_speech"
     ],
     "designation_date": "2026-03-31",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "51351d0206b5442933a2c09c61a7aeb217b95ce9d94833fbf369b24ca2d8b67e"
+    "status": "active"
   },
   {
     "id": "6f0826a0-4bab-5558-b2f5-54d7b7ee46a4",
@@ -666,10 +597,7 @@
       "ip_infringement"
     ],
     "designation_date": "2026-01-19",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "9d76e974d100f3752c5d38ccccf4666afbfef63c8d7e58744999be2d89d0d7f6"
+    "status": "active"
   },
   {
     "id": "db016449-892b-5e1e-b195-aae7d5953145",
@@ -691,10 +619,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2024-07-04",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "308fdb682909d4261a65ee7d542930fef41b8745afc36203f0a10ccdc51b4593"
+    "status": "active"
   },
   {
     "id": "494fdfe3-5325-5c6b-acba-0668a7a11fe4",
@@ -716,10 +641,7 @@
       "ip_infringement"
     ],
     "designation_date": "2025-07-21",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "a126b64a1d0fd6e99f712788db0ac78d167dad0dc1ca37f2ceb25c32810bbfb9"
+    "status": "active"
   },
   {
     "id": "e9c32124-1328-5379-a681-a8f23fad2bbf",
@@ -745,10 +667,7 @@
       "scams_fraud"
     ],
     "designation_date": "2026-01-12",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "454a8c0b7f0d8b45db1092f207437c14b720a1f020d8b55f9178229e762a7317"
+    "status": "active"
   },
   {
     "id": "c5c0ec7a-6344-5af8-9526-55f2a332f77e",
@@ -774,10 +693,7 @@
       "scams_fraud"
     ],
     "designation_date": "2026-01-28",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "887f552b7f8c0cc4ea690a2704e30a54429af8f348eb40599bbba3d32622dfe8"
+    "status": "active"
   },
   {
     "id": "8dffc873-6657-50c1-bfa0-89364f353beb",
@@ -803,10 +719,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-04-30",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "a7c5de668fc3ba94e2632159ce938a14a5c557cb800a72e70f72eb7bb618ca2c"
+    "status": "active"
   },
   {
     "id": "9f88fb4e-1a93-56f2-bd54-1a06570e0f87",
@@ -836,10 +749,7 @@
       "self_harm"
     ],
     "designation_date": "2025-04-08",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "b475272bb33dd4ec9de826151368fbbb2cec039b0182a80cdbd16603ec18df76"
+    "status": "active"
   },
   {
     "id": "23e5daf7-f763-5fa4-8f1b-be6f86743b16",
@@ -861,10 +771,7 @@
       "animal_welfare"
     ],
     "designation_date": "2025-03-12",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "d5830da60e584ab179666c23975c6780325a6c602562e7bb15902b47b2446085"
+    "status": "active"
   },
   {
     "id": "d8c8c398-11fc-5bd7-a577-eea09cb2cf53",
@@ -886,10 +793,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2025-02-25",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "6c706264a7a37fc87bb2dcef1af9dee33459f7973255c13c9834a5387b7dee10"
+    "status": "active"
   },
   {
     "id": "a307b8a6-5923-565d-a0cc-1ae1a117f1b7",
@@ -915,10 +819,7 @@
       "illegal_speech"
     ],
     "designation_date": "2025-06-02",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "cb86cf7647dd128fd25c0e308dd25211615df4794dd36a063505fdc45fd34c75"
+    "status": "active"
   },
   {
     "id": "46fb4a14-5c2c-52e5-b8b7-3011ad10e6c7",
@@ -948,10 +849,7 @@
       "violence"
     ],
     "designation_date": "2026-03-20",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "10fdc8f7f3213a3e0fb6e5ddaf9f1c17a5c82d3caaa0536d0e640ba157d97e40"
+    "status": "active"
   },
   {
     "id": "5a21dd13-0c9f-569b-a09c-6731878cb2c7",
@@ -975,10 +873,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-03-05",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "7bbb56c483ca163207f0f3602ae140f9ded80c58344f8540315d51c1219ac3a4"
+    "status": "active"
   },
   {
     "id": "a58d0d27-76bc-5afd-9020-a153bfa9e99f",
@@ -1000,10 +895,7 @@
       "illegal_speech"
     ],
     "designation_date": "2024-11-04",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "e0e31e80829da0229a370a656c5015f0e0112dd13fa53ddb5d6dcdd23a22e662"
+    "status": "active"
   },
   {
     "id": "4370c3ef-19c6-5cad-aef3-287f4500a3d1",
@@ -1031,10 +923,7 @@
       "illegal_products"
     ],
     "designation_date": "2024-11-12",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "66bcc42e99de0559b18ff8947fa85a3e6e4b0abf92137e369db57968578d7fa9"
+    "status": "active"
   },
   {
     "id": "ed03410f-14f7-55eb-8554-a8b02ae17b0b",
@@ -1058,10 +947,7 @@
       "data_privacy"
     ],
     "designation_date": "2024-11-28",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "147886d33f8a961db28fa7ea53fa211affa6e09bab64c847350787a73b2918d6"
+    "status": "active"
   },
   {
     "id": "0df0f4d5-739c-52e4-a095-81849d2ca5f4",
@@ -1089,10 +975,7 @@
       "violence"
     ],
     "designation_date": "2026-02-10",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "593ec5831eb1fbbc64ed453adfc18e60d7a8cc850af8d74b4456a55466b3d893"
+    "status": "active"
   },
   {
     "id": "e8a75015-6bf7-5b8c-a38f-c527a1e8d1c9",
@@ -1116,10 +999,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-12-17",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "d63f3d6219187e5d4d2a85a87e7e7a1a5de29c539ccf03b916c2fb724a4d71b8"
+    "status": "active"
   },
   {
     "id": "2654a620-94cb-58f8-b003-e70ff28fa375",
@@ -1141,10 +1021,7 @@
       "ip_infringement"
     ],
     "designation_date": "2024-11-08",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "e7de2320e22336cc6c7f48afe5c46a0dd32afdd420839f7ff153755b3556afed"
+    "status": "active"
   },
   {
     "id": "93e70139-dd9a-562f-8cdb-5ad29052ae80",
@@ -1166,10 +1043,7 @@
       "cyber_violence"
     ],
     "designation_date": "2026-03-25",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "fc53923cc51a52b19bdf314ea281d4145e557ce93989126b5b36aaf4c5e72dc3"
+    "status": "active"
   },
   {
     "id": "d22b85e2-3c3c-5718-b97c-ddc16f536c1e",
@@ -1191,10 +1065,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2025-12-18",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "7081f5d2fb9c8028a5db5aa3b1554f27b7ee6891c1d586b58fea84e4e792b7a5"
+    "status": "active"
   },
   {
     "id": "eabb696c-9680-5461-9f4d-f96d2ca593d9",
@@ -1218,10 +1089,7 @@
       "public_security"
     ],
     "designation_date": "2025-07-23",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "b6c4aa5a08dd78451ad54ec47d3cf46ab6fdab71154022de81be3a7278ef05f3"
+    "status": "active"
   },
   {
     "id": "906389fa-5b2b-5918-b916-e85c9282fe72",
@@ -1245,10 +1113,7 @@
       "scams_fraud"
     ],
     "designation_date": "2026-03-20",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "618807c6b33c9cd8bf3171272a9892f9fbbfb0bf730c37ad0f6f1473270c6c66"
+    "status": "active"
   },
   {
     "id": "02bc1dfb-4c1a-511e-9bbd-cc3d702b92ac",
@@ -1280,10 +1145,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-12-17",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "709fd454857f657d5f90f61918d31107ba89b792c13b0017caa6991d51af48ff"
+    "status": "active"
   },
   {
     "id": "e76c0609-6842-5d78-b21e-10103d8f3de9",
@@ -1305,10 +1167,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2024-10-02",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "4c3d94d044a5008ec9681ef7428749a61eec00cb1031b5675c65bf93157405cb"
+    "status": "active"
   },
   {
     "id": "8ae4638d-4c8c-520e-aba3-8229c2bf5ad3",
@@ -1330,10 +1189,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2024-06-18",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "9d4ddfb909956b5d5d578ae8cdf9230600fbd1c3e4cd3dca82b082aa320900e0"
+    "status": "active"
   },
   {
     "id": "05943ef4-49e9-5c62-8043-8f390968227f",
@@ -1363,10 +1219,7 @@
       "violence"
     ],
     "designation_date": "2025-12-03",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "50341e85090267691eb43c4a2b282986bc99687c42a2d6221f64d8e92228b99e"
+    "status": "active"
   },
   {
     "id": "a68ecc9e-c511-53ff-b241-bdf9f06aafd1",
@@ -1388,10 +1241,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2024-06-21",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "cc548948840bef59bd669f242e42b11c950010289d11ea126906120a0dccf249"
+    "status": "active"
   },
   {
     "id": "86f18e66-8e3e-52ec-b553-5962188e874b",
@@ -1423,10 +1273,7 @@
       "violence"
     ],
     "designation_date": "2025-01-28",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "95f9dd72dcfa63973d6449715fae1393b120dc043911b18ea046062b51a62c37"
+    "status": "active"
   },
   {
     "id": "840b8ec9-0316-5435-bb18-322e2c0c21e0",
@@ -1448,10 +1295,7 @@
       "ip_infringement"
     ],
     "designation_date": "2024-08-14",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "a2922ad1415315df89c80a9f047b089027233eb111c39e81c1de8c8b7da48a7d"
+    "status": "active"
   },
   {
     "id": "e0d5f60a-987f-585f-907f-eb338109b680",
@@ -1477,10 +1321,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-07-23",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "4501ed0fbc77a52d61b3be61e46872dadbb9462f9a74e1ba47645c8f3ce186a6"
+    "status": "active"
   },
   {
     "id": "52ab992b-54a8-566d-b31e-e88091b5fb91",
@@ -1504,10 +1345,7 @@
       "consumer_protection"
     ],
     "designation_date": "2024-06-05",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "963c4315bb455485b5f430d1485b16b3a5f73df7684671246f53fb73aa054332"
+    "status": "active"
   },
   {
     "id": "37ae1211-c8d1-5a7f-a1bc-deef4078d6b0",
@@ -1535,10 +1373,7 @@
       "scams_fraud"
     ],
     "designation_date": "2024-06-18",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "d55ae69ca284484ee62bdde8254e6f49c0549bae79da0af34eb3e9c5e28c204c"
+    "status": "active"
   },
   {
     "id": "3a987ca5-bda0-5244-a899-2e9a12873109",
@@ -1560,10 +1395,7 @@
       "ip_infringement"
     ],
     "designation_date": "2025-09-29",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "9864f18eb16ef39ba7200553ca6dd9f85422468c63fbb0fe9a0910e48d543cd3"
+    "status": "active"
   },
   {
     "id": "bbd652aa-e84f-5330-9079-e8a4a24e9cce",
@@ -1587,10 +1419,7 @@
       "illegal_speech"
     ],
     "designation_date": "2025-10-08",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "f14685133995a3abd28201aa97560430952029d44f5c9788ba58acf3796b2fd5"
+    "status": "active"
   },
   {
     "id": "1ff0088b-5f85-5e30-9ff3-b948c9c0c338",
@@ -1616,10 +1445,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-09-09",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "693a1dd5b0fd7d608421e9a6b70b6e0795ffc62588bd17cb7290dd6cf585eee4"
+    "status": "active"
   },
   {
     "id": "d39c8ca6-3c55-529c-8367-28421cfa80aa",
@@ -1649,10 +1475,7 @@
       "violence"
     ],
     "designation_date": "2024-10-01",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "f12c5d8f931b6fd697d234c71ca89d7e4f984b61897442061fc640f663d7a0d8"
+    "status": "active"
   },
   {
     "id": "23817ca9-63d2-513b-bb4b-5ef8ab0333df",
@@ -1674,10 +1497,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-05-22",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "65884baf2be67f9f9458900277b9aa822f615c034c3ce34df664287158b04046"
+    "status": "active"
   },
   {
     "id": "a60ce4be-c8c7-5561-94f1-6cab2497ff27",
@@ -1699,10 +1519,7 @@
       "ip_infringement"
     ],
     "designation_date": "2024-03-07",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "a158d3ae6d6ddf18d027252eed49ba7b6646149c5c8d70960b910b359f7a784b"
+    "status": "active"
   },
   {
     "id": "7c53d1dc-5cd5-5a07-b5ae-1768c559ced4",
@@ -1724,10 +1541,7 @@
       "ip_infringement"
     ],
     "designation_date": "2025-03-21",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "0deadf1af8e6c53604474576b6f733f3e2eef110fed757c2fd550ec0421898af"
+    "status": "active"
   },
   {
     "id": "6a9a3c93-caf6-5ab2-829a-9a86ce317a58",
@@ -1755,10 +1569,7 @@
       "scams_fraud"
     ],
     "designation_date": "2025-06-02",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "b29b2759d09af0954003d9cf2e7b8006d7deadab64c6a7df1d0b0f3918bf874a"
+    "status": "active"
   },
   {
     "id": "f80b7674-8075-5f87-b0ef-edeb1ee055ca",
@@ -1792,10 +1603,7 @@
       "violence"
     ],
     "designation_date": "2025-10-13",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "ce5c0b4d75a2c0434c8613f04df42765ab606d444d09e6c1770078780c5ab0ed"
+    "status": "active"
   },
   {
     "id": "673ea232-53ea-52f9-8bd5-cb716505d821",
@@ -1819,10 +1627,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2026-03-31",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "f738a977fe13e63c5f9c2fd30822d796160dcf9e57e02cecf0521ef6d019e56a"
+    "status": "active"
   },
   {
     "id": "de7aed7a-3824-58ab-966a-e370ac2911f5",
@@ -1848,10 +1653,7 @@
       "gender_based_violence"
     ],
     "designation_date": "2025-05-15",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "ca439e55fdd0732d71ce80e4ec776be133b5db4d7a6c8cff90553b7fcf045679"
+    "status": "active"
   },
   {
     "id": "e53119db-d68d-587d-8568-903d3158bd7a",
@@ -1877,10 +1679,7 @@
       "protection_of_minors"
     ],
     "designation_date": "2025-08-01",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "847faee94102e1e30b2c0903ebae6ae2746aee3f1c0f20c86c8ac00688985d56"
+    "status": "active"
   },
   {
     "id": "395a61af-4c36-5fbc-95a4-2e7016cb0504",
@@ -1916,10 +1715,7 @@
       "violence"
     ],
     "designation_date": "2024-11-06",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "46e3fa878cfce9fd547d5ce7bde0443e874fa3072e8525760bf757cb98c18efd"
+    "status": "active"
   },
   {
     "id": "dcd54a49-b566-5a84-a499-5710a31b8ee7",
@@ -1943,10 +1739,7 @@
       "scams_fraud"
     ],
     "designation_date": "2024-08-27",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "98b414a5d2b147d3ff17a8587a1c319ca4ca880f9ff650e2c9afda2db35db59c"
+    "status": "active"
   },
   {
     "id": "717eac4b-4208-536d-8251-195df8f4fca5",
@@ -1978,10 +1771,7 @@
       "violence"
     ],
     "designation_date": "2024-11-05",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "594fab853e83ba55fbc601b76dc1990c99f05070e78779d19b3b2853e942d32d"
+    "status": "active"
   },
   {
     "id": "3ff8447f-caa0-5f8e-8397-0eeb48e7924e",
@@ -2003,10 +1793,7 @@
       "ip_infringement"
     ],
     "designation_date": "2026-02-04",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "852e1d23516e9ae539e4ca81615afefd34efd0e0dbe6d28bdec87dd8b8a1e01d"
+    "status": "active"
   },
   {
     "id": "f19205e5-0574-5770-96f6-424c1f2c3f9c",
@@ -2038,9 +1825,6 @@
       "violence"
     ],
     "designation_date": "2024-11-29",
-    "status": "active",
-    "first_seen_at": "2026-05-28T20:29:15.764463+00:00",
-    "last_seen_at": "2026-05-29T19:12:42.767742+00:00",
-    "source_hash": "62f850660c52e8f5c1212c028ad62d390537f8f9192bc82c312bb205498900f9"
+    "status": "active"
   }
 ]
