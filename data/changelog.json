@@ -558,40 +558,6 @@
     "occurred_at": "2026-05-28T20:29:16.314518+00:00"
   },
   {
-    "event_id": 18,
-    "tf_id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
-    "event_type": "created",
-    "diff": null,
-    "snapshot": {
-      "id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
-      "city": null,
-      "name": "ABI Lab– Centro di ricerca e sviluppo delle tecnologie per la banca",
-      "email": "ISAC@certfin.it",
-      "website": "https://www.abilab.it",
-      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
-      "legal_form": null,
-      "address_raw": "Piazza del Gesù 49, Rome, 00186, Italy",
-      "postal_code": null,
-      "source_hash": "90f1bed3fe12ed3d710df85f1ad5772f093b4a63009cf80118f58d095931b469",
-      "country_code": "IT",
-      "email_domain": "certfin.it",
-      "designation_date": "2025-12-03",
-      "dsc_country_code": "IT",
-      "areas_of_expertise": [
-        "data_privacy",
-        "illegal_products",
-        "scams_fraud"
-      ],
-      "areas_of_expertise_raw": [
-        "Data protection and privacy violations",
-        "Illegal products",
-        "Scams and fraud"
-      ]
-    },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
-  },
-  {
     "event_id": 19,
     "tf_id": "05943ef4-49e9-5c62-8043-8f390968227f",
     "event_type": "created",
@@ -2402,5 +2368,39 @@
     },
     "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
     "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+  },
+  {
+    "event_id": 73,
+    "tf_id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
+    "event_type": "created",
+    "diff": null,
+    "snapshot": {
+      "id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
+      "city": null,
+      "name": "ABI Lab– Centro di ricerca e sviluppo delle tecnologie per la banca",
+      "email": "ISAC@certfin.it",
+      "website": "https://www.abilab.it",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Piazza del Gesù 49, Rome, 00186, Italy",
+      "postal_code": null,
+      "source_hash": "90f1bed3fe12ed3d710df85f1ad5772f093b4a63009cf80118f58d095931b469",
+      "country_code": "IT",
+      "email_domain": "certfin.it",
+      "designation_date": "2025-12-03",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "data_privacy",
+        "illegal_products",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Illegal products",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "21b6f2bf-ecc1-4e67-aaec-79a773001233",
+    "occurred_at": "2026-05-29T19:12:43.536522+00:00"
   }
 ]
