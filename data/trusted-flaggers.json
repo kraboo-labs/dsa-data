@@ -56,28 +56,6 @@
     "status": "active"
   },
   {
-    "id": "889c4762-ae46-51f4-981e-033b80089c58",
-    "name": "AUSTRO-MECHANA Gesellschaft zur Wahrnehmung mechanisch-musikalischer Urheberrechte Gesellschaft mbH",
-    "legal_form": null,
-    "website": "https://www.akm.at/",
-    "email": "paul.fischer@akm.at",
-    "email_domain": "akm.at",
-    "address_raw": "Baumannstraße 10, Vienna, 1030, Austria",
-    "country_code": "AT",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
-    "dsc_country_code": "AT",
-    "areas_of_expertise_raw": [
-      "Illegal products"
-    ],
-    "areas_of_expertise": [
-      "illegal_products"
-    ],
-    "designation_date": "2025-12-17",
-    "status": "active"
-  },
-  {
     "id": "72a58c96-eb56-50b9-a7e4-d62531e6e155",
     "name": "Argo Business Solutions S.r.L.",
     "legal_form": null,
@@ -99,28 +77,6 @@
       "scams_fraud"
     ],
     "designation_date": "2025-01-22",
-    "status": "active"
-  },
-  {
-    "id": "c45c6bd0-ece6-5593-8f91-cf403a17e03b",
-    "name": "Asociatia Serviciul Iezuitilor pentru Refugiatii din Romania",
-    "legal_form": null,
-    "website": "https://jrsromania.org/ro/acasa/",
-    "email": "flagger@jrsromania.ro",
-    "email_domain": "jrsromania.ro",
-    "address_raw": "strada Maior Ilie Opriș nr. 54, sector 4, Bucharest, Romania",
-    "country_code": "RO",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) | National Authority for Management and Regulation in Communications (ANCOM) (RO)",
-    "dsc_country_code": "RO",
-    "areas_of_expertise_raw": [
-      "Illegal Speech"
-    ],
-    "areas_of_expertise": [
-      "illegal_speech"
-    ],
-    "designation_date": "2026-05-17",
     "status": "active"
   },
   {
@@ -156,37 +112,25 @@
     "status": "active"
   },
   {
-    "id": "ddf53b73-4064-5dff-8c38-1e1233109bfa",
-    "name": "Association Point de Contact",
+    "id": "c45c6bd0-ece6-5593-8f91-cf403a17e03b",
+    "name": "Asociatia Serviciul Iezuitilor pentru Refugiatii din Romania",
     "legal_form": null,
-    "website": "https://www.pointdecontact.net",
-    "email": "contact@pointdecontact.net",
-    "email_domain": "pointdecontact.net",
-    "address_raw": "2 rue de la roquette, Paris, France",
-    "country_code": "FR",
+    "website": "https://jrsromania.org/ro/acasa/",
+    "email": "flagger@jrsromania.ro",
+    "email_domain": "jrsromania.ro",
+    "address_raw": "strada Maior Ilie Opriș nr. 54, sector 4, Bucharest, Romania",
+    "country_code": "RO",
     "city": null,
     "postal_code": null,
-    "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
-    "dsc_country_code": "FR",
+    "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) | National Authority for Management and Regulation in Communications (ANCOM) (RO)",
+    "dsc_country_code": "RO",
     "areas_of_expertise_raw": [
-      "Cyberviolence",
-      "Cyber violence against women",
-      "Illegal Speech",
-      "Incitement to self-harm",
-      "Protection of minors violations",
-      "Risk for public security",
-      "Violence"
+      "Illegal Speech"
     ],
     "areas_of_expertise": [
-      "cyber_violence",
-      "gender_based_violence",
-      "illegal_speech",
-      "self_harm",
-      "protection_of_minors",
-      "public_security",
-      "violence"
+      "illegal_speech"
     ],
-    "designation_date": "2025-03-12",
+    "designation_date": "2026-05-17",
     "status": "active"
   },
   {
@@ -234,6 +178,40 @@
     "status": "active"
   },
   {
+    "id": "ddf53b73-4064-5dff-8c38-1e1233109bfa",
+    "name": "Association Point de Contact",
+    "legal_form": null,
+    "website": "https://www.pointdecontact.net",
+    "email": "contact@pointdecontact.net",
+    "email_domain": "pointdecontact.net",
+    "address_raw": "2 rue de la roquette, Paris, France",
+    "country_code": "FR",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+    "dsc_country_code": "FR",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Cyber violence against women",
+      "Illegal Speech",
+      "Incitement to self-harm",
+      "Protection of minors violations",
+      "Risk for public security",
+      "Violence"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "gender_based_violence",
+      "illegal_speech",
+      "self_harm",
+      "protection_of_minors",
+      "public_security",
+      "violence"
+    ],
+    "designation_date": "2025-03-12",
+    "status": "active"
+  },
+  {
     "id": "174191cb-c118-53a0-aff6-4264603bf3ca",
     "name": "Associazione METER ETS di Don Fortunato di Noto",
     "legal_form": null,
@@ -257,6 +235,28 @@
       "protection_of_minors"
     ],
     "designation_date": "2025-10-28",
+    "status": "active"
+  },
+  {
+    "id": "889c4762-ae46-51f4-981e-033b80089c58",
+    "name": "AUSTRO-MECHANA Gesellschaft zur Wahrnehmung mechanisch-musikalischer Urheberrechte Gesellschaft mbH",
+    "legal_form": null,
+    "website": "https://www.akm.at/",
+    "email": "paul.fischer@akm.at",
+    "email_domain": "akm.at",
+    "address_raw": "Baumannstraße 10, Vienna, 1030, Austria",
+    "country_code": "AT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+    "dsc_country_code": "AT",
+    "areas_of_expertise_raw": [
+      "Illegal products"
+    ],
+    "areas_of_expertise": [
+      "illegal_products"
+    ],
+    "designation_date": "2025-12-17",
     "status": "active"
   },
   {
@@ -356,18 +356,18 @@
     "status": "active"
   },
   {
-    "id": "ec01c51a-9ba8-5b91-bba8-577da9fa1973",
+    "id": "769bf357-ff03-5765-9338-0a253cd374ba",
     "name": "Caritas - Jeunes et Familles A.s.b.l. - entity Kanner-Jugendtelefon (KJT)",
     "legal_form": null,
     "website": "https://www.bee-secure.lu/fr/",
     "email": "ntf@kjt.lu",
     "email_domain": "kjt.lu",
     "address_raw": "2, Rue Peternelchen – Cubus C2, Howald, L-2370, Luxembourg",
-    "country_code": "BE",
+    "country_code": "LU",
     "city": null,
     "postal_code": null,
-    "dsc_name": "Institut belge des services postaux et des télécommunications | Belgisch Instituut voor postdiensten en telecommunicatie | Belgisches Institut für Postdienste und Telekommunikation | Belgian Institute for Postal Services and Telecommunications",
-    "dsc_country_code": "BE",
+    "dsc_name": "Autorité de la concurrence | Competition Authority",
+    "dsc_country_code": "LU",
     "areas_of_expertise_raw": [
       "Data protection and privacy violations",
       "Illegal Speech",
@@ -498,36 +498,6 @@
     "status": "active"
   },
   {
-    "id": "ae1ccc3f-5ba8-56bd-82e6-fdee080edf67",
-    "name": "DIGITAT ΔΙΑΔΙΚΤΥΑΚΗ ΕΝΗΜΕΡΩΣΗ Ο.Ε.",
-    "legal_form": null,
-    "website": "https://factreview.gr",
-    "email": "sarchontis@factreview.gr",
-    "email_domain": "factreview.gr",
-    "address_raw": "Ορέστη 14 (Oresti 14), Λάρισα (Larissa), 41335, Greece",
-    "country_code": "EL",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission",
-    "dsc_country_code": "EL",
-    "areas_of_expertise_raw": [
-      "Cyberviolence",
-      "Illegal products",
-      "Negative effects on civil discourse and elections",
-      "Scams and fraud",
-      "Violence"
-    ],
-    "areas_of_expertise": [
-      "cyber_violence",
-      "illegal_products",
-      "civil_discourse",
-      "scams_fraud",
-      "violence"
-    ],
-    "designation_date": "2024-11-05",
-    "status": "active"
-  },
-  {
     "id": "2b15d6cd-c306-53ef-a081-447d942dfdbe",
     "name": "Debunk EU",
     "legal_form": null,
@@ -578,6 +548,36 @@
     "status": "active"
   },
   {
+    "id": "ae1ccc3f-5ba8-56bd-82e6-fdee080edf67",
+    "name": "DIGITAT ΔΙΑΔΙΚΤΥΑΚΗ ΕΝΗΜΕΡΩΣΗ Ο.Ε.",
+    "legal_form": null,
+    "website": "https://factreview.gr",
+    "email": "sarchontis@factreview.gr",
+    "email_domain": "factreview.gr",
+    "address_raw": "Ορέστη 14 (Oresti 14), Λάρισα (Larissa), 41335, Greece",
+    "country_code": "EL",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission",
+    "dsc_country_code": "EL",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Illegal products",
+      "Negative effects on civil discourse and elections",
+      "Scams and fraud",
+      "Violence"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "illegal_products",
+      "civil_discourse",
+      "scams_fraud",
+      "violence"
+    ],
+    "designation_date": "2024-11-05",
+    "status": "active"
+  },
+  {
     "id": "6f0826a0-4bab-5558-b2f5-54d7b7ee46a4",
     "name": "Društvo Kopriva",
     "legal_form": null,
@@ -619,6 +619,42 @@
       "protection_of_minors"
     ],
     "designation_date": "2024-07-04",
+    "status": "active"
+  },
+  {
+    "id": "395a61af-4c36-5fbc-95a4-2e7016cb0504",
+    "name": "e-Enfance (3018)",
+    "legal_form": null,
+    "website": "https://e-enfance.org",
+    "email": "3018-signalement@e-enfance.org",
+    "email_domain": "e-enfance.org",
+    "address_raw": "30 rue Notre Dame des Victoires, Paris, 750002, France",
+    "country_code": "FR",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+    "dsc_country_code": "FR",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Data protection and privacy violations",
+      "Illegal products",
+      "Illegal Speech",
+      "Protection of minors violations",
+      "Risk for public security",
+      "Scams and fraud",
+      "Violence"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "data_privacy",
+      "illegal_products",
+      "illegal_speech",
+      "protection_of_minors",
+      "public_security",
+      "scams_fraud",
+      "violence"
+    ],
+    "designation_date": "2024-11-06",
     "status": "active"
   },
   {
@@ -822,36 +858,6 @@
     "status": "active"
   },
   {
-    "id": "46fb4a14-5c2c-52e5-b8b7-3011ad10e6c7",
-    "name": "ISCTE - Instituto Universitário de Lisboa",
-    "legal_form": null,
-    "website": "https://www.cies.iscte-iul.pt",
-    "email": "gustavo.cardoso@iscte-iul.pt",
-    "email_domain": "iscte-iul.pt",
-    "address_raw": "Av. das Forças Armadas, 1649-026 Lisbon, Portugal",
-    "country_code": "PT",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Autoridade Nacional de Comunicações (ANACOM)  |  National Communications Authority (ANACOM)",
-    "dsc_country_code": "PT",
-    "areas_of_expertise_raw": [
-      "Illegal Speech",
-      "Negative effects on civil discourse and elections",
-      "Risk for public security",
-      "Scams and fraud",
-      "Violence"
-    ],
-    "areas_of_expertise": [
-      "illegal_speech",
-      "civil_discourse",
-      "public_security",
-      "scams_fraud",
-      "violence"
-    ],
-    "designation_date": "2026-03-20",
-    "status": "active"
-  },
-  {
     "id": "5a21dd13-0c9f-569b-a09c-6731878cb2c7",
     "name": "Information et Défense des Consommateurs Salariés – Confédération Générale du Travail",
     "legal_form": null,
@@ -923,6 +929,36 @@
       "illegal_products"
     ],
     "designation_date": "2024-11-12",
+    "status": "active"
+  },
+  {
+    "id": "46fb4a14-5c2c-52e5-b8b7-3011ad10e6c7",
+    "name": "ISCTE - Instituto Universitário de Lisboa",
+    "legal_form": null,
+    "website": "https://www.cies.iscte-iul.pt",
+    "email": "gustavo.cardoso@iscte-iul.pt",
+    "email_domain": "iscte-iul.pt",
+    "address_raw": "Av. das Forças Armadas, 1649-026 Lisbon, Portugal",
+    "country_code": "PT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Autoridade Nacional de Comunicações (ANACOM)  |  National Communications Authority (ANACOM)",
+    "dsc_country_code": "PT",
+    "areas_of_expertise_raw": [
+      "Illegal Speech",
+      "Negative effects on civil discourse and elections",
+      "Risk for public security",
+      "Scams and fraud",
+      "Violence"
+    ],
+    "areas_of_expertise": [
+      "illegal_speech",
+      "civil_discourse",
+      "public_security",
+      "scams_fraud",
+      "violence"
+    ],
+    "designation_date": "2026-03-20",
     "status": "active"
   },
   {
@@ -1002,50 +1038,6 @@
     "status": "active"
   },
   {
-    "id": "2654a620-94cb-58f8-b003-e70ff28fa375",
-    "name": "LSG Wahrnehmung von Leistungsschutzrechten GmbH",
-    "legal_form": null,
-    "website": "https://www.lsg.at/",
-    "email": "office@lsg.at",
-    "email_domain": "lsg.at",
-    "address_raw": "Seilerstätte 18-20, 1010, Vienna, Austria",
-    "country_code": "AT",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
-    "dsc_country_code": "AT",
-    "areas_of_expertise_raw": [
-      "Intellectual property infringements"
-    ],
-    "areas_of_expertise": [
-      "ip_infringement"
-    ],
-    "designation_date": "2024-11-08",
-    "status": "active"
-  },
-  {
-    "id": "93e70139-dd9a-562f-8cdb-5ad29052ae80",
-    "name": "LU MII Kiberincidentu novēršanas institūcija CERT.LV",
-    "legal_form": null,
-    "website": "https://cert.lv",
-    "email": "cert@cert.lv",
-    "email_domain": "cert.lv",
-    "address_raw": "Raiņa bulvāris 29, Riga, LV-1459, Latvia",
-    "country_code": "LV",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Patērētāju tiesību aizsardzības centrs | Consumer Rights Protection Centre",
-    "dsc_country_code": "LV",
-    "areas_of_expertise_raw": [
-      "Cyberviolence"
-    ],
-    "areas_of_expertise": [
-      "cyber_violence"
-    ],
-    "designation_date": "2026-03-25",
-    "status": "active"
-  },
-  {
     "id": "d22b85e2-3c3c-5718-b97c-ddc16f536c1e",
     "name": "Latvijas Interneta asociācija",
     "legal_form": null,
@@ -1089,6 +1081,50 @@
       "public_security"
     ],
     "designation_date": "2025-07-23",
+    "status": "active"
+  },
+  {
+    "id": "2654a620-94cb-58f8-b003-e70ff28fa375",
+    "name": "LSG Wahrnehmung von Leistungsschutzrechten GmbH",
+    "legal_form": null,
+    "website": "https://www.lsg.at/",
+    "email": "office@lsg.at",
+    "email_domain": "lsg.at",
+    "address_raw": "Seilerstätte 18-20, 1010, Vienna, Austria",
+    "country_code": "AT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+    "dsc_country_code": "AT",
+    "areas_of_expertise_raw": [
+      "Intellectual property infringements"
+    ],
+    "areas_of_expertise": [
+      "ip_infringement"
+    ],
+    "designation_date": "2024-11-08",
+    "status": "active"
+  },
+  {
+    "id": "93e70139-dd9a-562f-8cdb-5ad29052ae80",
+    "name": "LU MII Kiberincidentu novēršanas institūcija CERT.LV",
+    "legal_form": null,
+    "website": "https://cert.lv",
+    "email": "cert@cert.lv",
+    "email_domain": "cert.lv",
+    "address_raw": "Raiņa bulvāris 29, Riga, LV-1459, Latvia",
+    "country_code": "LV",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Patērētāju tiesību aizsardzības centrs | Consumer Rights Protection Centre",
+    "dsc_country_code": "LV",
+    "areas_of_expertise_raw": [
+      "Cyberviolence"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence"
+    ],
+    "designation_date": "2026-03-25",
     "status": "active"
   },
   {
@@ -1167,6 +1203,30 @@
       "protection_of_minors"
     ],
     "designation_date": "2024-10-02",
+    "status": "active"
+  },
+  {
+    "id": "dcd54a49-b566-5a84-a499-5710a31b8ee7",
+    "name": "Österreichisches Institut für angewandte Telekommunikation",
+    "legal_form": null,
+    "website": "https://oiat.at",
+    "email": "dsa@oiat.at",
+    "email_domain": "oiat.at",
+    "address_raw": "Ungargasse 64-66/3/404, Wien, Austria",
+    "country_code": "AT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+    "dsc_country_code": "AT",
+    "areas_of_expertise_raw": [
+      "Intellectual property infringements",
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "ip_infringement",
+      "scams_fraud"
+    ],
+    "designation_date": "2024-08-27",
     "status": "active"
   },
   {
@@ -1298,32 +1358,6 @@
     "status": "active"
   },
   {
-    "id": "e0d5f60a-987f-585f-907f-eb338109b680",
-    "name": "SP Tech srl",
-    "legal_form": null,
-    "website": "https://www.sptechlegal.com",
-    "email": "info@sptechlegal.it",
-    "email_domain": "sptechlegal.it",
-    "address_raw": "Via Cicerone 60, Rome, Italy",
-    "country_code": "IT",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
-    "dsc_country_code": "IT",
-    "areas_of_expertise_raw": [
-      "Data protection and privacy violations",
-      "Intellectual property infringements",
-      "Scams and fraud"
-    ],
-    "areas_of_expertise": [
-      "data_privacy",
-      "ip_infringement",
-      "scams_fraud"
-    ],
-    "designation_date": "2025-07-23",
-    "status": "active"
-  },
-  {
     "id": "52ab992b-54a8-566d-b31e-e88091b5fb91",
     "name": "Schutzverband gegen unlauteren Wettbewerb",
     "legal_form": null,
@@ -1373,6 +1407,32 @@
       "scams_fraud"
     ],
     "designation_date": "2024-06-18",
+    "status": "active"
+  },
+  {
+    "id": "e0d5f60a-987f-585f-907f-eb338109b680",
+    "name": "SP Tech srl",
+    "legal_form": null,
+    "website": "https://www.sptechlegal.com",
+    "email": "info@sptechlegal.it",
+    "email_domain": "sptechlegal.it",
+    "address_raw": "Via Cicerone 60, Rome, Italy",
+    "country_code": "IT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+    "dsc_country_code": "IT",
+    "areas_of_expertise_raw": [
+      "Data protection and privacy violations",
+      "Intellectual property infringements",
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "data_privacy",
+      "ip_infringement",
+      "scams_fraud"
+    ],
+    "designation_date": "2025-07-23",
     "status": "active"
   },
   {
@@ -1682,63 +1742,25 @@
     "status": "active"
   },
   {
-    "id": "395a61af-4c36-5fbc-95a4-2e7016cb0504",
-    "name": "e-Enfance (3018)",
+    "id": "3ff8447f-caa0-5f8e-8397-0eeb48e7924e",
+    "name": "Εταιρία Προστασίας Οπτικοακουστικών Έργων Α.Μ.Κ.Ε. Audiovisual Works Protection Society",
     "legal_form": null,
-    "website": "https://e-enfance.org",
-    "email": "3018-signalement@e-enfance.org",
-    "email_domain": "e-enfance.org",
-    "address_raw": "30 rue Notre Dame des Victoires, Paris, 750002, France",
-    "country_code": "FR",
+    "website": "https://www.epoe.org/",
+    "email": "epoe@epoe.org",
+    "email_domain": "epoe.org",
+    "address_raw": "VIOPA, Pallini, Vakalopoulou Street, 153 51/GP Studios/building K1, Pallini-Attiki, 15351, Greece",
+    "country_code": "EL",
     "city": null,
     "postal_code": null,
-    "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
-    "dsc_country_code": "FR",
+    "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission (EETT)",
+    "dsc_country_code": "EL",
     "areas_of_expertise_raw": [
-      "Cyberviolence",
-      "Data protection and privacy violations",
-      "Illegal products",
-      "Illegal Speech",
-      "Protection of minors violations",
-      "Risk for public security",
-      "Scams and fraud",
-      "Violence"
+      "Intellectual property infringements"
     ],
     "areas_of_expertise": [
-      "cyber_violence",
-      "data_privacy",
-      "illegal_products",
-      "illegal_speech",
-      "protection_of_minors",
-      "public_security",
-      "scams_fraud",
-      "violence"
+      "ip_infringement"
     ],
-    "designation_date": "2024-11-06",
-    "status": "active"
-  },
-  {
-    "id": "dcd54a49-b566-5a84-a499-5710a31b8ee7",
-    "name": "Österreichisches Institut für angewandte Telekommunikation",
-    "legal_form": null,
-    "website": "https://oiat.at",
-    "email": "dsa@oiat.at",
-    "email_domain": "oiat.at",
-    "address_raw": "Ungargasse 64-66/3/404, Wien, Austria",
-    "country_code": "AT",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
-    "dsc_country_code": "AT",
-    "areas_of_expertise_raw": [
-      "Intellectual property infringements",
-      "Scams and fraud"
-    ],
-    "areas_of_expertise": [
-      "ip_infringement",
-      "scams_fraud"
-    ],
-    "designation_date": "2024-08-27",
+    "designation_date": "2026-02-04",
     "status": "active"
   },
   {
@@ -1771,28 +1793,6 @@
       "violence"
     ],
     "designation_date": "2024-11-05",
-    "status": "active"
-  },
-  {
-    "id": "3ff8447f-caa0-5f8e-8397-0eeb48e7924e",
-    "name": "Εταιρία Προστασίας Οπτικοακουστικών Έργων Α.Μ.Κ.Ε. Audiovisual Works Protection Society",
-    "legal_form": null,
-    "website": "https://www.epoe.org/",
-    "email": "epoe@epoe.org",
-    "email_domain": "epoe.org",
-    "address_raw": "VIOPA, Pallini, Vakalopoulou Street, 153 51/GP Studios/building K1, Pallini-Attiki, 15351, Greece",
-    "country_code": "EL",
-    "city": null,
-    "postal_code": null,
-    "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission (EETT)",
-    "dsc_country_code": "EL",
-    "areas_of_expertise_raw": [
-      "Intellectual property infringements"
-    ],
-    "areas_of_expertise": [
-      "ip_infringement"
-    ],
-    "designation_date": "2026-02-04",
     "status": "active"
   },
   {

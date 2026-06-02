@@ -14,7 +14,7 @@
       "legal_form": null,
       "address_raw": "strada Maior Ilie Opriș nr. 54, sector 4, Bucharest, Romania",
       "postal_code": null,
-      "source_hash": "abc092c1e784fbc20e9718852f6be2de97ad5255110f6ab5132ff1d1f4c1f654",
+      "source_hash": "b294d31ba9345557ddcddb662ff118c43bd1fbd2162b02cf612a6c5f2e48e761",
       "country_code": "RO",
       "email_domain": "jrsromania.ro",
       "designation_date": "2026-05-17",
@@ -26,8 +26,8 @@
         "Illegal Speech"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 2,
@@ -44,7 +44,7 @@
       "legal_form": null,
       "address_raw": "Algirdo g. 31, Vilnius, 03219, Lithuania",
       "postal_code": null,
-      "source_hash": "f738a977fe13e63c5f9c2fd30822d796160dcf9e57e02cecf0521ef6d019e56a",
+      "source_hash": "d2e77bdf6eb428a55c866d76a4afc0ee1f17527aad626882d5b8dfd4e8eab22c",
       "country_code": "LT",
       "email_domain": "vaikulinija.lt",
       "designation_date": "2026-03-31",
@@ -58,8 +58,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 3,
@@ -76,7 +76,7 @@
       "legal_form": null,
       "address_raw": "Rubínová 12852/28, Bratislava, 831 52, Slovakia",
       "postal_code": null,
-      "source_hash": "51351d0206b5442933a2c09c61a7aeb217b95ce9d94833fbf369b24ca2d8b67e",
+      "source_hash": "e8da6281ed4abcc5f1d044cb339105687607c521ef528f9acedccdb1e9d2d917",
       "country_code": "SK",
       "email_domain": "digiq.sk",
       "designation_date": "2026-03-31",
@@ -88,8 +88,8 @@
         "Illegal Speech"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 4,
@@ -106,7 +106,7 @@
       "legal_form": null,
       "address_raw": "Raiņa bulvāris 29, Riga, LV-1459, Latvia",
       "postal_code": null,
-      "source_hash": "fc53923cc51a52b19bdf314ea281d4145e557ce93989126b5b36aaf4c5e72dc3",
+      "source_hash": "2659e56bb4dbdfd1c9c3bc9c19cf53d4dc8b39c969170dbddedc8a8bb8439036",
       "country_code": "LV",
       "email_domain": "cert.lv",
       "designation_date": "2026-03-25",
@@ -118,8 +118,8 @@
         "Cyberviolence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 5,
@@ -136,7 +136,7 @@
       "legal_form": null,
       "address_raw": "Unidade de Cibercrime | Linha Internet Segura; Rua José Estêvão 135 A, 1150-201 Lisbon, Portugal",
       "postal_code": null,
-      "source_hash": "620e314acae8da9f7dfccf07f5f5cfcc207ecaf831a347628db0a14245178823",
+      "source_hash": "a8d0d0a250eb1f6663bdb113f2d03678209b6f34c3b29bdcad2ff8b4486540f1",
       "country_code": "PT",
       "email_domain": "apav.pt",
       "designation_date": "2026-03-20",
@@ -156,8 +156,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 6,
@@ -174,7 +174,7 @@
       "legal_form": null,
       "address_raw": "Av. das Forças Armadas, 1649-026 Lisbon, Portugal",
       "postal_code": null,
-      "source_hash": "10fdc8f7f3213a3e0fb6e5ddaf9f1c17a5c82d3caaa0536d0e640ba157d97e40",
+      "source_hash": "512597c26f9e75fedd76c1bda8add23daff63cc3e8fbda87c8fb429b0a623eb3",
       "country_code": "PT",
       "email_domain": "iscte-iul.pt",
       "designation_date": "2026-03-20",
@@ -194,8 +194,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 7,
@@ -212,7 +212,7 @@
       "legal_form": null,
       "address_raw": "Saltoniškių str. 2-12, Vilnius, LT-08105, Lithuania",
       "postal_code": null,
-      "source_hash": "618807c6b33c9cd8bf3171272a9892f9fbbfb0bf730c37ad0f6f1473270c6c66",
+      "source_hash": "2373c1de37ca76fbaf2fbb3dd9e119e02e445285615f9d3a9a524f54eedc312f",
       "country_code": "LT",
       "email_domain": "nexa.watch",
       "designation_date": "2026-03-20",
@@ -226,8 +226,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 8,
@@ -244,7 +244,7 @@
       "legal_form": null,
       "address_raw": "Energiestraße 2, Linz, 4021, Austria",
       "postal_code": null,
-      "source_hash": "593ec5831eb1fbbc64ed453adfc18e60d7a8cc850af8d74b4456a55466b3d893",
+      "source_hash": "10df2da6123df14c7570501ae5329fd36fd58c97043d79e3149554138e43c0f7",
       "country_code": "AT",
       "email_domain": "ooe.gv.at",
       "designation_date": "2026-02-10",
@@ -262,8 +262,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 9,
@@ -280,7 +280,7 @@
       "legal_form": null,
       "address_raw": "VIOPA, Pallini, Vakalopoulou Street, 153 51/GP Studios/building K1, Pallini-Attiki, 15351, Greece",
       "postal_code": null,
-      "source_hash": "852e1d23516e9ae539e4ca81615afefd34efd0e0dbe6d28bdec87dd8b8a1e01d",
+      "source_hash": "e9bc8a7dea0739b35f0253d35d9ba16f0eb1668a6513ed08ed675f1e6e7d798a",
       "country_code": "EL",
       "email_domain": "epoe.org",
       "designation_date": "2026-02-04",
@@ -292,8 +292,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 10,
@@ -310,7 +310,7 @@
       "legal_form": null,
       "address_raw": "Viale Regina Margherita 286, Rome, Italy",
       "postal_code": null,
-      "source_hash": "887f552b7f8c0cc4ea690a2704e30a54429af8f348eb40599bbba3d32622dfe8",
+      "source_hash": "cb507dabfe433f335311a73fc9671be79a9f7440ca731aa3bb14e732ef7faca8",
       "country_code": "IT",
       "email_domain": "fapav.it",
       "designation_date": "2026-01-28",
@@ -326,8 +326,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 11,
@@ -344,7 +344,7 @@
       "legal_form": null,
       "address_raw": "Kolodvorska ulica 7, Ljubljana, 1000, Slovenia",
       "postal_code": null,
-      "source_hash": "9d76e974d100f3752c5d38ccccf4666afbfef63c8d7e58744999be2d89d0d7f6",
+      "source_hash": "a73e317cab5008a61dfbf0f915ab06446df3c9286a3874d8e313802ded7ebf30",
       "country_code": "SI",
       "email_domain": "kopriva.si",
       "designation_date": "2026-01-19",
@@ -356,8 +356,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 12,
@@ -374,7 +374,7 @@
       "legal_form": null,
       "address_raw": "Maakri tn 30, Tallinn, 10145, Estonia",
       "postal_code": null,
-      "source_hash": "454a8c0b7f0d8b45db1092f207437c14b720a1f020d8b55f9178229e762a7317",
+      "source_hash": "a2392d192dec96f341c4e998282da5940569b70d57dbe34be485c048abdcdcab",
       "country_code": "EE",
       "email_domain": "pangaliit.ee",
       "designation_date": "2026-01-12",
@@ -390,8 +390,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 13,
@@ -408,7 +408,7 @@
       "legal_form": null,
       "address_raw": "Houba de Strooperlaan 292, Brussels, 1020, Belgium",
       "postal_code": null,
-      "source_hash": "6bcccc997ac969f7d784acbc3024e75d516a9cf40e02d738c996b7e9eabb471b",
+      "source_hash": "37cc3a8cc7ca8fb290ee347b543d991c6edde8b2ebdd28f6d597b06a4d4e911e",
       "country_code": "BE",
       "email_domain": "childfocus.org",
       "designation_date": "2025-12-22",
@@ -422,8 +422,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 14,
@@ -440,7 +440,7 @@
       "legal_form": null,
       "address_raw": "Gustava Zemgala gatve 78 - 1, Riga, LV-1039, Latvia",
       "postal_code": null,
-      "source_hash": "7081f5d2fb9c8028a5db5aa3b1554f27b7ee6891c1d586b58fea84e4e792b7a5",
+      "source_hash": "b5ea58b34a18b68eca679133a77a08101c6c6d089d1edd28fc8a9f68d7a3b1a8",
       "country_code": "LV",
       "email_domain": "drossinternets.lv",
       "designation_date": "2025-12-18",
@@ -452,8 +452,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 15,
@@ -470,7 +470,7 @@
       "legal_form": null,
       "address_raw": "Bezručova 4942/8A, Bratislava, 811 09, Slovakia",
       "postal_code": null,
-      "source_hash": "709fd454857f657d5f90f61918d31107ba89b792c13b0017caa6991d51af48ff",
+      "source_hash": "46e1bd59425e29ed22542a949dd1979532b80421ab4650750274ddf662bcb868",
       "country_code": "SK",
       "email_domain": "ochranma.sk",
       "designation_date": "2025-12-17",
@@ -492,8 +492,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 16,
@@ -510,7 +510,7 @@
       "legal_form": null,
       "address_raw": "Baumannstraße 10, Vienna, 1030, Austria",
       "postal_code": null,
-      "source_hash": "df53cb6dc9bfd9de9a01628e274b2015f438e164387fedfcdb44488cd085adf8",
+      "source_hash": "37776af76a3faf3c7135d07641961ffe44e8eeadd9e82a65a62eaea584795402",
       "country_code": "AT",
       "email_domain": "akm.at",
       "designation_date": "2025-12-17",
@@ -522,8 +522,8 @@
         "Illegal products"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 17,
@@ -540,7 +540,7 @@
       "legal_form": null,
       "address_raw": "Via Rizzoli 1/2, Bologna, Italy",
       "postal_code": null,
-      "source_hash": "d63f3d6219187e5d4d2a85a87e7e7a1a5de29c539ccf03b916c2fb724a4d71b8",
+      "source_hash": "ee47d3d46565accb2033c7ed7e320492cebceceeb52afa82c3b1ef3a09669bea",
       "country_code": "IT",
       "email_domain": "kopjra.com",
       "designation_date": "2025-12-17",
@@ -554,8 +554,42 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
+  },
+  {
+    "event_id": 18,
+    "tf_id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
+    "event_type": "created",
+    "diff": null,
+    "snapshot": {
+      "id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
+      "city": null,
+      "name": "ABI Lab– Centro di ricerca e sviluppo delle tecnologie per la banca",
+      "email": "ISAC@certfin.it",
+      "website": "https://www.abilab.it",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Piazza del Gesù 49, Rome, 00186, Italy",
+      "postal_code": null,
+      "source_hash": "71b356c63123c4dd21a6bc1485d4275d490b8a2c98635f935045a06ffd8d9057",
+      "country_code": "IT",
+      "email_domain": "certfin.it",
+      "designation_date": "2025-12-03",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "data_privacy",
+        "illegal_products",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Illegal products",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 19,
@@ -572,7 +606,7 @@
       "legal_form": null,
       "address_raw": "Via Vitruvio 1, Milano, 20124, Italy",
       "postal_code": null,
-      "source_hash": "50341e85090267691eb43c4a2b282986bc99687c42a2d6221f64d8e92228b99e",
+      "source_hash": "afc2f3ab795b47c70f38b2ca465b009ada828d257c5ff6d798ba18c8614892c4",
       "country_code": "IT",
       "email_domain": "permessonegato.it",
       "designation_date": "2025-12-03",
@@ -592,8 +626,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 20,
@@ -610,7 +644,7 @@
       "legal_form": null,
       "address_raw": "Place Victor Horta, Saint-Gilles, 1060, Belgium",
       "postal_code": null,
-      "source_hash": "06d6c642c6b5f57334d135a024ef66921239b9640a8c5d83722a2c118adea53a",
+      "source_hash": "48e93b37e4489544024ff9fe51caf9f10b4c9187e2301fe61c90f8198e83c90e",
       "country_code": "BE",
       "email_domain": "unia.be",
       "designation_date": "2025-11-12",
@@ -622,8 +656,8 @@
         "Illegal Speech"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 21,
@@ -640,7 +674,7 @@
       "legal_form": null,
       "address_raw": "Via Domenico Cirillo 2, Avola, 96012, Italy",
       "postal_code": null,
-      "source_hash": "69b36581f9ef4822191b38c0c4c0612ac784050e59be91bfeacae5bf1f070f18",
+      "source_hash": "89c2c18ece15696fb68a6c87dfedd53acc2e8f57e167af66bc4437cd7672b58c",
       "country_code": "IT",
       "email_domain": "associazionemeter.org",
       "designation_date": "2025-10-28",
@@ -656,8 +690,48 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
+  },
+  {
+    "event_id": 22,
+    "tf_id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
+    "event_type": "created",
+    "diff": null,
+    "snapshot": {
+      "id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
+      "city": null,
+      "name": "Asociația eLiberare",
+      "email": "alert@eliberare.com",
+      "website": "https://eliberare.com/",
+      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) |National Authority for Management and Regulation in Communications",
+      "legal_form": null,
+      "address_raw": "Calea Văcărești nr. 338, bl. 15, sc. 2, apt. 30, sect. 4, Bucharest, Romania",
+      "postal_code": null,
+      "source_hash": "8369c8899c83f58dc5d6e39191a5c7d6298c111a384c931a564441ce22b261ac",
+      "country_code": "RO",
+      "email_domain": "eliberare.com",
+      "designation_date": "2025-10-13",
+      "dsc_country_code": "RO",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_speech",
+        "protection_of_minors",
+        "public_security",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Risk for public security",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 23,
@@ -674,7 +748,7 @@
       "legal_form": null,
       "address_raw": "Marie-Elisabeth Belpaire Building, Simon Bolivarlaan 17, Brussels, Belgium",
       "postal_code": null,
-      "source_hash": "ce5c0b4d75a2c0434c8613f04df42765ab606d444d09e6c1770078780c5ab0ed",
+      "source_hash": "3dcad0a681f4005182099e7fc8acece69c3f3ede3cc619ecbc99edac41c11faa",
       "country_code": "BE",
       "email_domain": "vmri.be",
       "designation_date": "2025-10-13",
@@ -698,8 +772,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 24,
@@ -716,7 +790,7 @@
       "legal_form": null,
       "address_raw": "Postbus 200, Hoevelaken, 3870 CE, Netherlands",
       "postal_code": null,
-      "source_hash": "f14685133995a3abd28201aa97560430952029d44f5c9788ba58acf3796b2fd5",
+      "source_hash": "d5e3d8eb2c986eed95e53a68a2ca344eee426fb7f85d564658fcd25dbe04552a",
       "country_code": "NL",
       "email_domain": "onlinediscriminatie.nl",
       "designation_date": "2025-10-08",
@@ -730,8 +804,8 @@
         "Illegal Speech"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 25,
@@ -748,7 +822,7 @@
       "legal_form": null,
       "address_raw": "de Cuserstraat 89, Amsterdam, 1081 CN, Netherlands",
       "postal_code": null,
-      "source_hash": "17fe70d6e77de3c19ea79c7f62ac4e93303e95fc86107d6df086ad8d5b18b035",
+      "source_hash": "c1934084e61d68f0cd1d9f043074b402621a899d1750288fae03c0a482fab344",
       "country_code": "NL",
       "email_domain": "react.org",
       "designation_date": "2025-10-01",
@@ -760,8 +834,38 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
+  },
+  {
+    "event_id": 26,
+    "tf_id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
+    "event_type": "created",
+    "diff": null,
+    "snapshot": {
+      "id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
+      "city": null,
+      "name": "Axghouse antipiracy OÜ",
+      "email": "removals@axghouse.com",
+      "website": "https://axghouse.com",
+      "dsc_name": "Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA) | Consumer Protection and Technical Regulatory Authority (CPTRA)",
+      "legal_form": null,
+      "address_raw": "Vesivärava tn 50-201, Tallin 10152, Estonia",
+      "postal_code": null,
+      "source_hash": "3ebfc271a8915192c35502bb942aab86ba10af080c5db50c6f7070b8d262845d",
+      "country_code": "EE",
+      "email_domain": "axghouse.com",
+      "designation_date": "2025-09-30",
+      "dsc_country_code": "EE",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 27,
@@ -778,7 +882,7 @@
       "legal_form": null,
       "address_raw": "Kruisweg 813 A, Hoofddorp, 2132 NG, Netherlands",
       "postal_code": null,
-      "source_hash": "9864f18eb16ef39ba7200553ca6dd9f85422468c63fbb0fe9a0910e48d543cd3",
+      "source_hash": "63712114c5cc174bd8ed5211c5ff30d95aa21bdd88d5a63e61616b27bd52efb7",
       "country_code": "NL",
       "email_domain": "stichtingbrein.nl",
       "designation_date": "2025-09-29",
@@ -790,8 +894,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 28,
@@ -808,7 +912,7 @@
       "legal_form": null,
       "address_raw": "Postbus 51323, Amsterdam, 1007EH, Netherlands",
       "postal_code": null,
-      "source_hash": "693a1dd5b0fd7d608421e9a6b70b6e0795ffc62588bd17cb7290dd6cf585eee4",
+      "source_hash": "cf357338b157272f0bdc555123fd1dc835cb0dfcbafbbdc5c9daa6633eb31c98",
       "country_code": "NL",
       "email_domain": "trustedflagger.offlimits.nl",
       "designation_date": "2025-09-09",
@@ -824,8 +928,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 29,
@@ -842,7 +946,7 @@
       "legal_form": null,
       "address_raw": "Gosposvetska cesta 83, Maribor, 2000, Slovenia",
       "postal_code": null,
-      "source_hash": "847faee94102e1e30b2c0903ebae6ae2746aee3f1c0f20c86c8ac00688985d56",
+      "source_hash": "40a32d2b3e280ced9638f457deb8b4529d904859f8dda5b35350a79fda81cd74",
       "country_code": "SI",
       "email_domain": "zavodpip.si",
       "designation_date": "2025-08-01",
@@ -858,29 +962,29 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 30,
-    "tf_id": "ec01c51a-9ba8-5b91-bba8-577da9fa1973",
+    "tf_id": "769bf357-ff03-5765-9338-0a253cd374ba",
     "event_type": "created",
     "diff": null,
     "snapshot": {
-      "id": "ec01c51a-9ba8-5b91-bba8-577da9fa1973",
+      "id": "769bf357-ff03-5765-9338-0a253cd374ba",
       "city": null,
       "name": "Caritas - Jeunes et Familles A.s.b.l. - entity Kanner-Jugendtelefon (KJT)",
       "email": "ntf@kjt.lu",
       "website": "https://www.bee-secure.lu/fr/",
-      "dsc_name": "Institut belge des services postaux et des télécommunications | Belgisch Instituut voor postdiensten en telecommunicatie | Belgisches Institut für Postdienste und Telekommunikation | Belgian Institute for Postal Services and Telecommunications",
+      "dsc_name": "Autorité de la concurrence | Competition Authority",
       "legal_form": null,
       "address_raw": "2, Rue Peternelchen – Cubus C2, Howald, L-2370, Luxembourg",
       "postal_code": null,
-      "source_hash": "9d5cb6ebe378c68f48e23510cb75b9447029cf87fba8b1a374f429108a50d5e1",
-      "country_code": "BE",
+      "source_hash": "e8ff14b29680ef34ac7822ce0b86dd044adfc596f00fdd068b7be808fed34d5f",
+      "country_code": "LU",
       "email_domain": "kjt.lu",
       "designation_date": "2025-07-29",
-      "dsc_country_code": "BE",
+      "dsc_country_code": "LU",
       "areas_of_expertise": [
         "data_privacy",
         "illegal_speech",
@@ -894,8 +998,8 @@
         "Risk for public security"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 31,
@@ -912,7 +1016,7 @@
       "legal_form": null,
       "address_raw": "42 rue du Louvre, 75001, Paris, France",
       "postal_code": null,
-      "source_hash": "b6c4aa5a08dd78451ad54ec47d3cf46ab6fdab71154022de81be3a7278ef05f3",
+      "source_hash": "38fc47f0b43c1b7e934e31008887567c3e9bbd31ceda5c68425479410fcb045e",
       "country_code": "FR",
       "email_domain": "licra.org",
       "designation_date": "2025-07-23",
@@ -926,8 +1030,8 @@
         "Risk for public security"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 32,
@@ -944,7 +1048,7 @@
       "legal_form": null,
       "address_raw": "Via Cicerone 60, Rome, Italy",
       "postal_code": null,
-      "source_hash": "4501ed0fbc77a52d61b3be61e46872dadbb9462f9a74e1ba47645c8f3ce186a6",
+      "source_hash": "dc4e279f338018e643b50dc2ae6d4358d271f3b4a8a4a654afdf02a8227df6eb",
       "country_code": "IT",
       "email_domain": "sptechlegal.it",
       "designation_date": "2025-07-23",
@@ -960,8 +1064,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 33,
@@ -978,7 +1082,7 @@
       "legal_form": null,
       "address_raw": "Laki tn 25, Tallinn, 12915, Estonia",
       "postal_code": null,
-      "source_hash": "a126b64a1d0fd6e99f712788db0ac78d167dad0dc1ca37f2ceb25c32810bbfb9",
+      "source_hash": "fbf17bdf4201ad5907ea04cf1ac1c7a5d0b022f7cff2ec57f836cb1998be2249",
       "country_code": "EE",
       "email_domain": "eako.ee",
       "designation_date": "2025-07-21",
@@ -990,8 +1094,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 34,
@@ -1008,7 +1112,7 @@
       "legal_form": null,
       "address_raw": "Blasewitzer Straße 41, 01307 Dresden, Germany",
       "postal_code": null,
-      "source_hash": "c5e7f246e46eb7b5fdf8a8457b7d98ecbd4a401d66f9f23e5a9415b50e508300",
+      "source_hash": "5e18986ff06ebb1dad82fab2b9f4cc65faee3abff9b0b00b6fd0bad09a475c26",
       "country_code": "DE",
       "email_domain": "bvoh.de",
       "designation_date": "2025-06-02",
@@ -1024,8 +1128,38 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
+  },
+  {
+    "event_id": 43,
+    "tf_id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
+    "event_type": "created",
+    "diff": null,
+    "snapshot": {
+      "id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
+      "city": null,
+      "name": "Central Bank of Ireland",
+      "email": "Financial_Crime@centralbank.ie",
+      "website": "https://www.centralbank.ie/",
+      "dsc_name": "Coimisiún na Meán (CnaM) | Media Commission",
+      "legal_form": null,
+      "address_raw": "New Wapping Street, North Wall Quay, Dublin 1, D01 F7X3, Ireland",
+      "postal_code": null,
+      "source_hash": "171cdaac710fee97eca27be1babde45caaf6924b3a0700ac35993fbc4ebe4880",
+      "country_code": "IE",
+      "email_domain": "centralbank.ie",
+      "designation_date": "2025-04-02",
+      "dsc_country_code": "IE",
+      "areas_of_expertise": [
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 35,
@@ -1042,7 +1176,7 @@
       "legal_form": null,
       "address_raw": "Rudi-Dutschke-Str. 17, 10969 Berlin, Germany",
       "postal_code": null,
-      "source_hash": "b29b2759d09af0954003d9cf2e7b8006d7deadab64c6a7df1d0b0f3918bf874a",
+      "source_hash": "38da687da0052cb0b19747e239b9b02338b5c732ecb3a40aa9db8d76fbd971bf",
       "country_code": "DE",
       "email_domain": "vzbv.de",
       "designation_date": "2025-06-02",
@@ -1060,8 +1194,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 36,
@@ -1078,7 +1212,7 @@
       "legal_form": null,
       "address_raw": "Greifswalder Str. 4, 10405 Berlin, Germany",
       "postal_code": null,
-      "source_hash": "cb86cf7647dd128fd25c0e308dd25211615df4794dd36a063505fdc45fd34c75",
+      "source_hash": "285219f4fb78c1046f41ded40338e1197b4b164753663d381b5f0ef873e7055f",
       "country_code": "DE",
       "email_domain": "hateaid.org",
       "designation_date": "2025-06-02",
@@ -1094,8 +1228,8 @@
         "Illegal Speech"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 37,
@@ -1112,7 +1246,7 @@
       "legal_form": null,
       "address_raw": "Rosenlundsgatan 29A Stockholm 118 63 Sweden",
       "postal_code": null,
-      "source_hash": "65884baf2be67f9f9458900277b9aa822f615c034c3ce34df664287158b04046",
+      "source_hash": "23f0558a17da19d0716cffee38c2c6801e7624372d4f0f7333de5b3377df9f1b",
       "country_code": "SE",
       "email_domain": "stoldskyddsforeningen.se",
       "designation_date": "2025-05-22",
@@ -1124,8 +1258,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 38,
@@ -1142,7 +1276,7 @@
       "legal_form": null,
       "address_raw": "Schönbrunner Straße 119/13, 1050 Wien, Austria",
       "postal_code": null,
-      "source_hash": "ca439e55fdd0732d71ce80e4ec776be133b5db4d7a6c8cff90553b7fcf045679",
+      "source_hash": "c66df6ec0dcd29c31ed367c59dae79b7ea7b0d80e679d9ede7e807886eea8c8c",
       "country_code": "AT",
       "email_domain": "zara.or.at",
       "designation_date": "2025-05-15",
@@ -1158,8 +1292,8 @@
         "Cyber violence against women"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 39,
@@ -1176,7 +1310,7 @@
       "legal_form": null,
       "address_raw": "Via Leone XIII n. 14, Milano, 20145, Italy",
       "postal_code": null,
-      "source_hash": "a7c5de668fc3ba94e2632159ce938a14a5c557cb800a72e70f72eb7bb618ca2c",
+      "source_hash": "4e70e3ed16e6468c7f769f6d51ffcd6f3b84702e1a021f81f5431c82f959dc7c",
       "country_code": "IT",
       "email_domain": "fpm-antipiracy.it",
       "designation_date": "2025-04-30",
@@ -1192,8 +1326,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 40,
@@ -1210,7 +1344,7 @@
       "legal_form": null,
       "address_raw": "Rue Broca 39, 75005, Paris, France",
       "postal_code": null,
-      "source_hash": "3be46653dac2473d92b144b2d3c0a52d1de41b20e020f1c9fa8c0a7b92916822",
+      "source_hash": "bd9cc129f5dbe70e69565eb2d636226e2b7f66ef7a5c9e112b53fadddf118d8b",
       "country_code": "FR",
       "email_domain": "crif.org",
       "designation_date": "2025-04-16",
@@ -1226,8 +1360,8 @@
         "Risk for public security"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 41,
@@ -1244,7 +1378,7 @@
       "legal_form": null,
       "address_raw": "Via Copernico 1, Milano, 20125, Italy",
       "postal_code": null,
-      "source_hash": "b475272bb33dd4ec9de826151368fbbb2cec039b0182a80cdbd16603ec18df76",
+      "source_hash": "3c801bec20c2567bc992e87810d72c849b493d68c3cb5586ff6664a7db256d26",
       "country_code": "IT",
       "email_domain": "azzurro.it",
       "designation_date": "2025-04-08",
@@ -1264,8 +1398,8 @@
         "Incitement to self-harm"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 42,
@@ -1282,7 +1416,7 @@
       "legal_form": null,
       "address_raw": "20 rue Saint-Fiacre, Paris, France",
       "postal_code": null,
-      "source_hash": "993dd8b593803ee3ff47450695868562e7f44fdf205144fd0e8c00428f46e517",
+      "source_hash": "6017c0674d0dd9de80dbc1f79336bacd3a464a53afcd78d0bee765a8f93cd1d7",
       "country_code": "FR",
       "email_domain": "addictions-france.org",
       "designation_date": "2025-04-02",
@@ -1294,8 +1428,8 @@
         "Risk for public security"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 44,
@@ -1312,7 +1446,7 @@
       "legal_form": null,
       "address_raw": "Šturmanų g. 4-1, Klaipėda, LT-93201, Lithuania",
       "postal_code": null,
-      "source_hash": "8954b4684fd253c1c8bac08211ed115ca196bf523dd087c81c6fdd8d3286cddf",
+      "source_hash": "ad0df0fad0da2fbc42ea2a07e88ca393254a991848bd08f906e3614a2762a36b",
       "country_code": "LT",
       "email_domain": "debunk.org",
       "designation_date": "2025-03-21",
@@ -1330,8 +1464,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 45,
@@ -1348,7 +1482,7 @@
       "legal_form": null,
       "address_raw": "J. Savickio g. 4-7, Vilnius, LT-011-8, Lithuania",
       "postal_code": null,
-      "source_hash": "0deadf1af8e6c53604474576b6f733f3e2eef110fed757c2fd550ec0421898af",
+      "source_hash": "ebe51acd60f1050bbc325a8b7c3d2d084f48075d526115351b08bd77978ff8f6",
       "country_code": "LT",
       "email_domain": "piracymeter.com",
       "designation_date": "2025-03-21",
@@ -1360,8 +1494,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 46,
@@ -1378,7 +1512,7 @@
       "legal_form": null,
       "address_raw": "6 rue de Madrid, Paris, 75008, France",
       "postal_code": null,
-      "source_hash": "6b1c9793099c412ec6748da84aafe11aa4167b29a21b792074f0ac03e623b406",
+      "source_hash": "a42e1a793131607c69f2b6e0a323d71834344fc5edba89f143a52da2b064a1bc",
       "country_code": "FR",
       "email_domain": "alpa.asso.fr",
       "designation_date": "2025-03-12",
@@ -1390,8 +1524,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 47,
@@ -1408,7 +1542,7 @@
       "legal_form": null,
       "address_raw": "2 rue de la roquette, Paris, France",
       "postal_code": null,
-      "source_hash": "520f35e86f278b00a53acdc84ff940db9d04aed92a9b4e0425963a03356c9d9e",
+      "source_hash": "b8e8ffe7544ab5d6b86689c3ffc2fe483a52650345c1e2af0dc039c90f051b57",
       "country_code": "FR",
       "email_domain": "pointdecontact.net",
       "designation_date": "2025-03-12",
@@ -1432,8 +1566,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 48,
@@ -1450,7 +1584,7 @@
       "legal_form": null,
       "address_raw": "14 rue Edouard Mignot, Reims, 51100, France",
       "postal_code": null,
-      "source_hash": "d5830da60e584ab179666c23975c6780325a6c602562e7bb15902b47b2446085",
+      "source_hash": "7e8300437d46e7a626f835afbfd964c5e3978e9e33192b3dcd7203c6d9dcfa79",
       "country_code": "FR",
       "email_domain": "ifaw.org",
       "designation_date": "2025-03-12",
@@ -1462,8 +1596,8 @@
         "Animal Welfare"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 49,
@@ -1480,7 +1614,7 @@
       "legal_form": null,
       "address_raw": "Via Piemonte 26, ROMA, 00187, Italy",
       "postal_code": null,
-      "source_hash": "8f1b667ccb8d5497d5414e9723c5d89d9c749ca970c6bd4e69fb467f5309e9a7",
+      "source_hash": "03427ee5ccffa9281030908d1cb6bd0620c2de44cf370622ab011180a61d7837",
       "country_code": "IT",
       "email_domain": "barzano-zanardo.com",
       "designation_date": "2025-03-06",
@@ -1494,8 +1628,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 50,
@@ -1512,7 +1646,7 @@
       "legal_form": null,
       "address_raw": "263 rue de Paris, Montreuil, 93100, France",
       "postal_code": null,
-      "source_hash": "7bbb56c483ca163207f0f3602ae140f9ded80c58344f8540315d51c1219ac3a4",
+      "source_hash": "b488d41954f557629017f276a30fee35092fd775314ea9fdd3443b879b41f2c9",
       "country_code": "FR",
       "email_domain": "cgt.fr",
       "designation_date": "2025-03-05",
@@ -1526,8 +1660,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 51,
@@ -1544,7 +1678,7 @@
       "legal_form": null,
       "address_raw": "212, Cannon Road, Sta. Venera, SVR9034, Malta",
       "postal_code": null,
-      "source_hash": "6c706264a7a37fc87bb2dcef1af9dee33459f7973255c13c9834a5387b7dee10",
+      "source_hash": "b7d47381db4f59fb10ff3a89488ed0997dec49fb19bc57ff5082380421561fde",
       "country_code": "MT",
       "email_domain": "gov.mt",
       "designation_date": "2025-02-25",
@@ -1556,8 +1690,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 52,
@@ -1574,7 +1708,7 @@
       "legal_form": null,
       "address_raw": "Gammel Kongevej 60, Frederiksberg, 1850, Denmark",
       "postal_code": null,
-      "source_hash": "95f9dd72dcfa63973d6449715fae1393b120dc043911b18ea046062b51a62c37",
+      "source_hash": "24b981c1f6f4c70d60e22236830f2b5f0265065a9dca06d5507907318f2c036e",
       "country_code": "DK",
       "email_domain": "redbarnet.dk",
       "designation_date": "2025-01-28",
@@ -1596,8 +1730,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 53,
@@ -1614,7 +1748,7 @@
       "legal_form": null,
       "address_raw": "Viale degli  Angeli 6, Cuneo, 12100, Italy",
       "postal_code": null,
-      "source_hash": "4ac99a852a949890c2feb81fd46725493d45f4eb919ac9752109b38815e688be",
+      "source_hash": "4b4fac0533da6e23ae990f933c876c14a5239bf8dc50891a09e4c530d145c308",
       "country_code": "IT",
       "email_domain": "argobs.com",
       "designation_date": "2025-01-22",
@@ -1628,8 +1762,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 54,
@@ -1646,7 +1780,7 @@
       "legal_form": null,
       "address_raw": "Perkūnkiemio g. 6-1, Vilnius, LT-12130, Lithuania",
       "postal_code": null,
-      "source_hash": "db9315e4eaa0193a8f18c3a89a4532a434d17e29aa223a8884db86231866812b",
+      "source_hash": "cd75994a56895a6c6bda09183a1238bb14a169043670864400380f7ffb9d8fe7",
       "country_code": "LT",
       "email_domain": "croplifelietuva.lt",
       "designation_date": "2024-12-10",
@@ -1658,8 +1792,8 @@
         "Illegal products"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 55,
@@ -1676,7 +1810,7 @@
       "legal_form": null,
       "address_raw": "Επαρχιακή Οδός Ναυπάκτου Πλατάνου (Provincial road Nafpaktou Platanou), Ναύπακτος (Nafpaktos), 30300, Greece",
       "postal_code": null,
-      "source_hash": "62f850660c52e8f5c1212c028ad62d390537f8f9192bc82c312bb205498900f9",
+      "source_hash": "87275da3f35eec09db672a449a86ee14f9be63c17c5e6c3b5c4fffff150f8bd4",
       "country_code": "EL",
       "email_domain": "factchecker.gr",
       "designation_date": "2024-11-29",
@@ -1698,8 +1832,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 56,
@@ -1716,7 +1850,7 @@
       "legal_form": null,
       "address_raw": "Prinz-Eugen-Straße 20-22, 1040, Vienna, Austria",
       "postal_code": null,
-      "source_hash": "147886d33f8a961db28fa7ea53fa211affa6e09bab64c847350787a73b2918d6",
+      "source_hash": "28f99cec58ff8cff0673dbbfa9590ec289d185c1c295e7970d44f7bf6be3e052",
       "country_code": "AT",
       "email_domain": "akwien.at",
       "designation_date": "2024-11-28",
@@ -1730,8 +1864,8 @@
         "Data protection and privacy violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 57,
@@ -1748,7 +1882,7 @@
       "legal_form": null,
       "address_raw": "Ostrom 23-25, Budapest, Hungary",
       "postal_code": null,
-      "source_hash": "66bcc42e99de0559b18ff8947fa85a3e6e4b0abf92137e369db57968578d7fa9",
+      "source_hash": "014ed1b0e098a62407056e0fd86c6e6f1454dc873f4101b5e074b1f07334f344",
       "country_code": "HU",
       "email_domain": "internethotline.hu",
       "designation_date": "2024-11-12",
@@ -1766,8 +1900,8 @@
         "Illegal products"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 58,
@@ -1784,7 +1918,7 @@
       "legal_form": null,
       "address_raw": "Seilerstätte 18-20, 1010, Vienna, Austria",
       "postal_code": null,
-      "source_hash": "e7de2320e22336cc6c7f48afe5c46a0dd32afdd420839f7ff153755b3556afed",
+      "source_hash": "299bfb0fde99d3767a673cc5a3e186e055cf6a2840cdcf4fbaae65634e3b641a",
       "country_code": "AT",
       "email_domain": "lsg.at",
       "designation_date": "2024-11-08",
@@ -1796,8 +1930,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 59,
@@ -1814,7 +1948,7 @@
       "legal_form": null,
       "address_raw": "30 rue Notre Dame des Victoires, Paris, 750002, France",
       "postal_code": null,
-      "source_hash": "46e3fa878cfce9fd547d5ce7bde0443e874fa3072e8525760bf757cb98c18efd",
+      "source_hash": "7e4258bbdd3aa2ace9f9dc4322bafc6854d3855620a684f3e48337038fd01087",
       "country_code": "FR",
       "email_domain": "e-enfance.org",
       "designation_date": "2024-11-06",
@@ -1840,8 +1974,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 60,
@@ -1858,7 +1992,7 @@
       "legal_form": null,
       "address_raw": "100 Nikolaou Plastira str., Vassilika Vouton, Heraklion, Greece",
       "postal_code": null,
-      "source_hash": "594fab853e83ba55fbc601b76dc1990c99f05070e78779d19b3b2853e942d32d",
+      "source_hash": "286c81080e9932c844ed0d1469fc8635dd9f9646b9a43752ac0f78e212d30d68",
       "country_code": "EL",
       "email_domain": "safeline.gr",
       "designation_date": "2024-11-05",
@@ -1880,8 +2014,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 61,
@@ -1898,7 +2032,7 @@
       "legal_form": null,
       "address_raw": "Ορέστη 14 (Oresti 14), Λάρισα (Larissa), 41335, Greece",
       "postal_code": null,
-      "source_hash": "fdfebc2e35fff8f1886af638ae61240e0dd05c539eb89b401d818641f5297742",
+      "source_hash": "e220a0946a592d00ffafa1f98e62e464b41112eff43101c8808d823cf7fb13ce",
       "country_code": "EL",
       "email_domain": "factreview.gr",
       "designation_date": "2024-11-05",
@@ -1918,8 +2052,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 62,
@@ -1936,7 +2070,7 @@
       "legal_form": null,
       "address_raw": "Bd. Dacia, no. 89, Bucharest, Romania",
       "postal_code": null,
-      "source_hash": "e0e31e80829da0229a370a656c5015f0e0112dd13fa53ddb5d6dcdd23a22e662",
+      "source_hash": "b2100cca8310bec97106e9542f8c49c0fdfb7cfcbaf98ae083ecd74a70956c17",
       "country_code": "RO",
       "email_domain": "inshr-ew.ro",
       "designation_date": "2024-11-04",
@@ -1948,8 +2082,8 @@
         "Illegal Speech"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 63,
@@ -1966,7 +2100,7 @@
       "legal_form": null,
       "address_raw": "Intrarea Ștefan Furtună, nr. 3, sect. 1, Bucharest, Romania",
       "postal_code": null,
-      "source_hash": "4c3d94d044a5008ec9681ef7428749a61eec00cb1031b5675c65bf93157405cb",
+      "source_hash": "56ce52cfaa3b3aa642c6f924ae5aef70e48f8ed0feb1d51114b43cd915970121",
       "country_code": "RO",
       "email_domain": "salvaticopiii.ro",
       "designation_date": "2024-10-02",
@@ -1978,8 +2112,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 64,
@@ -1996,7 +2130,7 @@
       "legal_form": null,
       "address_raw": "Schloßstraße 23, Sersheim, 74372, Germany",
       "postal_code": null,
-      "source_hash": "f12c5d8f931b6fd697d234c71ca89d7e4f984b61897442061fc640f663d7a0d8",
+      "source_hash": "59a7e83d99543537aa3544289ffdff22ca0fa55e2b61c19f1264ba281a3c34c5",
       "country_code": "DE",
       "email_domain": "jugendstiftung.de",
       "designation_date": "2024-10-01",
@@ -2016,8 +2150,8 @@
         "Violence"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 65,
@@ -2034,7 +2168,7 @@
       "legal_form": null,
       "address_raw": "Ungargasse 64-66/3/404, Wien, Austria",
       "postal_code": null,
-      "source_hash": "98b414a5d2b147d3ff17a8587a1c319ca4ca880f9ff650e2c9afda2db35db59c",
+      "source_hash": "7f2800c28cedc07fafd6562c9cb5c461d6112b61456131b23d0acfcf0e181272",
       "country_code": "AT",
       "email_domain": "oiat.at",
       "designation_date": "2024-08-27",
@@ -2048,8 +2182,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 66,
@@ -2066,7 +2200,7 @@
       "legal_form": null,
       "address_raw": "Vesterbrogade 15, 1. Sal, Copenhagen, 1620, Denmark",
       "postal_code": null,
-      "source_hash": "a2922ad1415315df89c80a9f047b089027233eb111c39e81c1de8c8b7da48a7d",
+      "source_hash": "98e44739c0d1164123537105a7baaafdfd8d3f150b30080ca0950c692794b0c6",
       "country_code": "DK",
       "email_domain": "rettighedsalliancen.dk",
       "designation_date": "2024-08-14",
@@ -2078,8 +2212,8 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 67,
@@ -2096,7 +2230,7 @@
       "legal_form": null,
       "address_raw": "Garvargatan 20, 112 21 Stockholm, Sweden",
       "postal_code": null,
-      "source_hash": "308fdb682909d4261a65ee7d542930fef41b8745afc36203f0a10ccdc51b4593",
+      "source_hash": "ab927c1eaf622a4dac97e8ea98dc3d44d7a089e11e840a5668a3618a830ca0c7",
       "country_code": "SE",
       "email_domain": "ecpathotline.se",
       "designation_date": "2024-07-04",
@@ -2108,8 +2242,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 68,
@@ -2126,7 +2260,7 @@
       "legal_form": null,
       "address_raw": "Vivenotgasse 3, Vienna, 1120, Austria",
       "postal_code": null,
-      "source_hash": "cc548948840bef59bd669f242e42b11c950010289d11ea126906120a0dccf249",
+      "source_hash": "b32994643802e72ef9c70e70055f55f663bedb31f055a654d75637915ee443da",
       "country_code": "AT",
       "email_domain": "rataufdraht.at",
       "designation_date": "2024-06-21",
@@ -2138,8 +2272,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 69,
@@ -2156,7 +2290,7 @@
       "legal_form": null,
       "address_raw": "Koskelantie 38, Helsinki, 00601, Finland",
       "postal_code": null,
-      "source_hash": "9d4ddfb909956b5d5d578ae8cdf9230600fbd1c3e4cd3dca82b082aa320900e0",
+      "source_hash": "747fff024309fa249fd5273670e3567a405ec5cbbd7664b2e44db7f834ef58a3",
       "country_code": "FI",
       "email_domain": "pelastakaalapset.fi",
       "designation_date": "2024-06-18",
@@ -2168,8 +2302,8 @@
         "Protection of minors violations"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 70,
@@ -2186,7 +2320,7 @@
       "legal_form": null,
       "address_raw": "Köydenpunojankatu 2 D, Helsinki, 00180, Finland",
       "postal_code": null,
-      "source_hash": "d55ae69ca284484ee62bdde8254e6f49c0549bae79da0af34eb3e9c5e28c204c",
+      "source_hash": "8f73395c7f937ee859313b1c6992d6308fc157ebf5f3142200b5aed04a6469bb",
       "country_code": "FI",
       "email_domain": "someturva.fi",
       "designation_date": "2024-06-18",
@@ -2204,8 +2338,8 @@
         "Scams and fraud"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 71,
@@ -2222,7 +2356,7 @@
       "legal_form": null,
       "address_raw": "Ditscheinergasse 4, Vienna, 1030, Austria",
       "postal_code": null,
-      "source_hash": "963c4315bb455485b5f430d1485b16b3a5f73df7684671246f53fb73aa054332",
+      "source_hash": "90fec4ec513ec6e2bebc27baf28dbb6ae4f35192ad3578f4267c5982cdd06ebf",
       "country_code": "AT",
       "email_domain": "schutzverband.at",
       "designation_date": "2024-06-05",
@@ -2236,8 +2370,8 @@
         "Consumer information infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   },
   {
     "event_id": 72,
@@ -2254,7 +2388,7 @@
       "legal_form": null,
       "address_raw": "Keilasatama;2 A, FI-02150 Espoo, Finland",
       "postal_code": null,
-      "source_hash": "a158d3ae6d6ddf18d027252eed49ba7b6646149c5c8d70960b910b359f7a784b",
+      "source_hash": "b8fc1e8dc2c71592b616f3efe56314f4addd6dc79c6459ab45aa7ca887a97251",
       "country_code": "FI",
       "email_domain": "ttvk.fi",
       "designation_date": "2024-03-07",
@@ -2266,141 +2400,7 @@
         "Intellectual property infringements"
       ]
     },
-    "scrape_run_id": "6a65bb87-a8e0-43b9-b079-abc37089308f",
-    "occurred_at": "2026-05-28T20:29:16.314518+00:00"
-  },
-  {
-    "event_id": 73,
-    "tf_id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
-    "event_type": "created",
-    "diff": null,
-    "snapshot": {
-      "id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
-      "city": null,
-      "name": "ABI Lab– Centro di ricerca e sviluppo delle tecnologie per la banca",
-      "email": "ISAC@certfin.it",
-      "website": "https://www.abilab.it",
-      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
-      "legal_form": null,
-      "address_raw": "Piazza del Gesù 49, Rome, 00186, Italy",
-      "postal_code": null,
-      "source_hash": "90f1bed3fe12ed3d710df85f1ad5772f093b4a63009cf80118f58d095931b469",
-      "country_code": "IT",
-      "email_domain": "certfin.it",
-      "designation_date": "2025-12-03",
-      "dsc_country_code": "IT",
-      "areas_of_expertise": [
-        "data_privacy",
-        "illegal_products",
-        "scams_fraud"
-      ],
-      "areas_of_expertise_raw": [
-        "Data protection and privacy violations",
-        "Illegal products",
-        "Scams and fraud"
-      ]
-    },
-    "scrape_run_id": "21b6f2bf-ecc1-4e67-aaec-79a773001233",
-    "occurred_at": "2026-05-29T19:12:43.536522+00:00"
-  },
-  {
-    "event_id": 74,
-    "tf_id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
-    "event_type": "created",
-    "diff": null,
-    "snapshot": {
-      "id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
-      "city": null,
-      "name": "Asociația eLiberare",
-      "email": "alert@eliberare.com",
-      "website": "https://eliberare.com/",
-      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) |National Authority for Management and Regulation in Communications",
-      "legal_form": null,
-      "address_raw": "Calea Văcărești nr. 338, bl. 15, sc. 2, apt. 30, sect. 4, Bucharest, Romania",
-      "postal_code": null,
-      "source_hash": "95f00a446eb26cbed2767d2deeaed079ea4e6a2722a6707438e0599110fe7559",
-      "country_code": "RO",
-      "email_domain": "eliberare.com",
-      "designation_date": "2025-10-13",
-      "dsc_country_code": "RO",
-      "areas_of_expertise": [
-        "cyber_violence",
-        "gender_based_violence",
-        "illegal_speech",
-        "protection_of_minors",
-        "public_security",
-        "violence"
-      ],
-      "areas_of_expertise_raw": [
-        "Cyberviolence",
-        "Cyber violence against women",
-        "Illegal Speech",
-        "Protection of minors violations",
-        "Risk for public security",
-        "Violence"
-      ]
-    },
-    "scrape_run_id": "335eda83-f33b-44f1-9b22-18fa49cc6968",
-    "occurred_at": "2026-05-29T19:17:48.420638+00:00"
-  },
-  {
-    "event_id": 75,
-    "tf_id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
-    "event_type": "created",
-    "diff": null,
-    "snapshot": {
-      "id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
-      "city": null,
-      "name": "Axghouse antipiracy OÜ",
-      "email": "removals@axghouse.com",
-      "website": "https://axghouse.com",
-      "dsc_name": "Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA) | Consumer Protection and Technical Regulatory Authority (CPTRA)",
-      "legal_form": null,
-      "address_raw": "Vesivärava tn 50-201, Tallin 10152, Estonia",
-      "postal_code": null,
-      "source_hash": "70c47b60a6cee3f445a18ea54f173f6cbc86c56b7170a1d4fa003c4fa4e87fff",
-      "country_code": "EE",
-      "email_domain": "axghouse.com",
-      "designation_date": "2025-09-30",
-      "dsc_country_code": "EE",
-      "areas_of_expertise": [
-        "ip_infringement"
-      ],
-      "areas_of_expertise_raw": [
-        "Intellectual property infringements"
-      ]
-    },
-    "scrape_run_id": "01e5d955-0ca1-4e31-9a65-c8127ce9b04f",
-    "occurred_at": "2026-05-29T19:18:06.229160+00:00"
-  },
-  {
-    "event_id": 76,
-    "tf_id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
-    "event_type": "created",
-    "diff": null,
-    "snapshot": {
-      "id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
-      "city": null,
-      "name": "Central Bank of Ireland",
-      "email": "Financial_Crime@centralbank.ie",
-      "website": "https://www.centralbank.ie/",
-      "dsc_name": "Coimisiún na Meán (CnaM) | Media Commission",
-      "legal_form": null,
-      "address_raw": "New Wapping Street, North Wall Quay, Dublin 1, D01 F7X3, Ireland",
-      "postal_code": null,
-      "source_hash": "486ed51ddf605257c7bf088e9e767f31bbf0d60fccbf4b59718286d63b3ffc6e",
-      "country_code": "IE",
-      "email_domain": "centralbank.ie",
-      "designation_date": "2025-04-02",
-      "dsc_country_code": "IE",
-      "areas_of_expertise": [
-        "scams_fraud"
-      ],
-      "areas_of_expertise_raw": [
-        "Scams and fraud"
-      ]
-    },
-    "scrape_run_id": "592882d0-817e-478f-980a-c5d569c1b038",
-    "occurred_at": "2026-05-29T19:59:58.589383+00:00"
+    "scrape_run_id": "20815351-c923-48b9-a89b-034508ddaf7b",
+    "occurred_at": "2026-06-02T19:49:57.788772+00:00"
   }
 ]
