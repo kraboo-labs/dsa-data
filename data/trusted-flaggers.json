@@ -1742,6 +1742,32 @@
     "status": "active"
   },
   {
+    "id": "743ceb5b-99f9-5cb9-8a8d-29b06677dc68",
+    "name": "Zveza potrošnikov Slovenije - društvo",
+    "legal_form": null,
+    "website": "https://www.zps.si/",
+    "email": "petra.loviscek@zps.si",
+    "email_domain": "zps.si",
+    "address_raw": "Tržaška cesta 2, Ljubljana, 1000, Slovenia",
+    "country_code": "SI",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Agencija za komunikacijska omrežja in storitve Republike Slovenije (AKOS) | Agency for Communication Networks and Services of the Republic of Slovenia (AKOS)",
+    "dsc_country_code": "SI",
+    "areas_of_expertise_raw": [
+      "Consumer information infringements",
+      "Illegal products",
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "consumer_protection",
+      "illegal_products",
+      "scams_fraud"
+    ],
+    "designation_date": "2026-06-01",
+    "status": "active"
+  },
+  {
     "id": "3ff8447f-caa0-5f8e-8397-0eeb48e7924e",
     "name": "Εταιρία Προστασίας Οπτικοακουστικών Έργων Α.Μ.Κ.Ε. Audiovisual Works Protection Society",
     "legal_form": null,
