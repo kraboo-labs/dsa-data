@@ -5200,5 +5200,2844 @@
     },
     "scrape_run_id": "75dff050-17f9-4b50-a82c-47d78b101529",
     "occurred_at": "2026-06-08T12:00:18.989626+00:00"
+  },
+  {
+    "event_id": 146,
+    "tf_id": "b0ff86bd-76ea-52aa-9880-2f663ddf9a93",
+    "event_type": "created",
+    "diff": null,
+    "snapshot": {
+      "id": "b0ff86bd-76ea-52aa-9880-2f663ddf9a93",
+      "city": null,
+      "name": "Hoopoz UAB",
+      "email": "ringaile@hoopoz.com",
+      "website": "https://www.hoopoz.com/",
+      "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority (RRT)",
+      "legal_form": null,
+      "address_raw": "Perkūnkiemio g. 19, Vilnius, LT-12120, Lithuania",
+      "postal_code": null,
+      "source_hash": "89485e4ff5e20d72fea28923383607717a86de5e7c29a7f2dbed693a90b99439",
+      "country_code": "LT",
+      "email_domain": "hoopoz.com",
+      "designation_date": "2026-06-03",
+      "dsc_country_code": "LT",
+      "areas_of_expertise": [
+        "consumer_protection",
+        "illegal_products"
+      ],
+      "areas_of_expertise_raw": [
+        "Consumer information infringements",
+        "Illegal products"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 147,
+    "tf_id": "743ceb5b-99f9-5cb9-8a8d-29b06677dc68",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "4507936d1c61ba481940ffda6a7905963c1887fcc272962040d7102524f494d5",
+        "from": "7d2c86c8d5345253f43ab300bf26d486e611a4569f532ffdf105c3725c893d18"
+      }
+    },
+    "snapshot": {
+      "id": "743ceb5b-99f9-5cb9-8a8d-29b06677dc68",
+      "city": null,
+      "name": "Zveza potrošnikov Slovenije - društvo",
+      "email": "petra.loviscek@zps.si",
+      "website": "https://www.zps.si/",
+      "dsc_name": "Agencija za komunikacijska omrežja in storitve Republike Slovenije (AKOS) | Agency for Communication Networks and Services of the Republic of Slovenia (AKOS)",
+      "legal_form": null,
+      "address_raw": "Tržaška cesta 2, Ljubljana, 1000, Slovenia",
+      "postal_code": null,
+      "source_hash": "4507936d1c61ba481940ffda6a7905963c1887fcc272962040d7102524f494d5",
+      "country_code": "SI",
+      "email_domain": "zps.si",
+      "designation_date": "2026-06-01",
+      "dsc_country_code": "SI",
+      "areas_of_expertise": [
+        "consumer_protection",
+        "illegal_products",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Consumer information infringements",
+        "Illegal products",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 148,
+    "tf_id": "c45c6bd0-ece6-5593-8f91-cf403a17e03b",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "75a462ca6cc44f9e269e748a5e7e0f1184710ce967508814f0fbc4a7bef61645",
+        "from": "cbd649459f8401b755f42945ca59049851eb2ca47bdef881681f8c7a279eaf89"
+      }
+    },
+    "snapshot": {
+      "id": "c45c6bd0-ece6-5593-8f91-cf403a17e03b",
+      "city": null,
+      "name": "Asociatia Serviciul Iezuitilor pentru Refugiatii din Romania",
+      "email": "flagger@jrsromania.ro",
+      "website": "https://jrsromania.org/ro/acasa/",
+      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) | National Authority for Management and Regulation in Communications (ANCOM) (RO)",
+      "legal_form": null,
+      "address_raw": "strada Maior Ilie Opriș nr. 54, sector 4, Bucharest, Romania",
+      "postal_code": null,
+      "source_hash": "75a462ca6cc44f9e269e748a5e7e0f1184710ce967508814f0fbc4a7bef61645",
+      "country_code": "RO",
+      "email_domain": "jrsromania.ro",
+      "designation_date": "2026-05-17",
+      "dsc_country_code": "RO",
+      "areas_of_expertise": [
+        "illegal_speech"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal Speech"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 149,
+    "tf_id": "673ea232-53ea-52f9-8bd5-cb716505d821",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "0e0e74a220cb9a2cd4559d3630a199cd83da8fd59360d0f36e9f98f0f96dd830",
+        "from": "9de15be6de22ddc5f182b9eb56d00750430592380c61c68be20ed8f4e15c5ad5"
+      }
+    },
+    "snapshot": {
+      "id": "673ea232-53ea-52f9-8bd5-cb716505d821",
+      "city": null,
+      "name": "VšĮ \"Vaikų Linija\"",
+      "email": "info@vaikulinija.lt",
+      "website": "https://vaikulinija.lt/",
+      "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority (RRT)",
+      "legal_form": null,
+      "address_raw": "Algirdo g. 31, Vilnius, 03219, Lithuania",
+      "postal_code": null,
+      "source_hash": "0e0e74a220cb9a2cd4559d3630a199cd83da8fd59360d0f36e9f98f0f96dd830",
+      "country_code": "LT",
+      "email_domain": "vaikulinija.lt",
+      "designation_date": "2026-03-31",
+      "dsc_country_code": "LT",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 150,
+    "tf_id": "cb983b7f-1197-5b0d-aaa0-e5d5aa6ae145",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "dec1fde58253cae89f1c2d8f26f9bbae5be6145fcddcc2c52a72ab96d78209cc",
+        "from": "d2e4d3fc17bd3cbd91628a16aae729cbeb4bd2b9b6a03c957dbfd877f8ac733f"
+      }
+    },
+    "snapshot": {
+      "id": "cb983b7f-1197-5b0d-aaa0-e5d5aa6ae145",
+      "city": null,
+      "name": "Digitálna inteligencia o. z.",
+      "email": "info@digiq.sk",
+      "website": "https://digiq.sk/",
+      "dsc_name": "Rada pre mediálne služby | Council for Media Services",
+      "legal_form": null,
+      "address_raw": "Rubínová 12852/28, Bratislava, 831 52, Slovakia",
+      "postal_code": null,
+      "source_hash": "dec1fde58253cae89f1c2d8f26f9bbae5be6145fcddcc2c52a72ab96d78209cc",
+      "country_code": "SK",
+      "email_domain": "digiq.sk",
+      "designation_date": "2026-03-31",
+      "dsc_country_code": "SK",
+      "areas_of_expertise": [
+        "illegal_speech"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal Speech"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 151,
+    "tf_id": "93e70139-dd9a-562f-8cdb-5ad29052ae80",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "4deb48b9c770c3b747aeaf40790bc08795a68ae8ffb0864f3e3469a0f7e94964",
+        "from": "8c641a138def92e98a14a6629a96bc49e8d09b03fd7a6cc3c4cffb376f2826e6"
+      }
+    },
+    "snapshot": {
+      "id": "93e70139-dd9a-562f-8cdb-5ad29052ae80",
+      "city": null,
+      "name": "LU MII Kiberincidentu novēršanas institūcija CERT.LV",
+      "email": "cert@cert.lv",
+      "website": "https://cert.lv",
+      "dsc_name": "Patērētāju tiesību aizsardzības centrs | Consumer Rights Protection Centre",
+      "legal_form": null,
+      "address_raw": "Raiņa bulvāris 29, Riga, LV-1459, Latvia",
+      "postal_code": null,
+      "source_hash": "4deb48b9c770c3b747aeaf40790bc08795a68ae8ffb0864f3e3469a0f7e94964",
+      "country_code": "LV",
+      "email_domain": "cert.lv",
+      "designation_date": "2026-03-25",
+      "dsc_country_code": "LV",
+      "areas_of_expertise": [
+        "cyber_violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 152,
+    "tf_id": "8ffbc3fe-0c27-508c-bb3e-2f170f84e4a8",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "1c7f6a05618c4ca7a19c108e69a9e9509da309fb12decfec9e11ea6e2105c6fe",
+        "from": "3ba9cde6450842eed8f32c5cf1393647565eb6e9a51c6905f5a1e766a7ec53a0"
+      }
+    },
+    "snapshot": {
+      "id": "8ffbc3fe-0c27-508c-bb3e-2f170f84e4a8",
+      "city": null,
+      "name": "APAV – Associação Portuguesa de Apoio à Vítima",
+      "email": "carolinasoares@apav.pt",
+      "website": "https://www.apav.pt",
+      "dsc_name": "Autoridade Nacional de Comunicações (ANACOM)  |  National Communications Authority (ANACOM)",
+      "legal_form": null,
+      "address_raw": "Unidade de Cibercrime | Linha Internet Segura; Rua José Estêvão 135 A, 1150-201 Lisbon, Portugal",
+      "postal_code": null,
+      "source_hash": "1c7f6a05618c4ca7a19c108e69a9e9509da309fb12decfec9e11ea6e2105c6fe",
+      "country_code": "PT",
+      "email_domain": "apav.pt",
+      "designation_date": "2026-03-20",
+      "dsc_country_code": "PT",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "data_privacy",
+        "illegal_speech",
+        "protection_of_minors",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Data protection and privacy violations",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 153,
+    "tf_id": "46fb4a14-5c2c-52e5-b8b7-3011ad10e6c7",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "effbaf78233821dfbb59c75989afe572a4a034bc083c6da2cfc1325ac7e06a16",
+        "from": "e2ee14732bc6e906dde6fcc5cb2b3b6fafd15aeea6a6035834db6da25a9c98c5"
+      }
+    },
+    "snapshot": {
+      "id": "46fb4a14-5c2c-52e5-b8b7-3011ad10e6c7",
+      "city": null,
+      "name": "ISCTE - Instituto Universitário de Lisboa",
+      "email": "gustavo.cardoso@iscte-iul.pt",
+      "website": "https://www.cies.iscte-iul.pt",
+      "dsc_name": "Autoridade Nacional de Comunicações (ANACOM)  |  National Communications Authority (ANACOM)",
+      "legal_form": null,
+      "address_raw": "Av. das Forças Armadas, 1649-026 Lisbon, Portugal",
+      "postal_code": null,
+      "source_hash": "effbaf78233821dfbb59c75989afe572a4a034bc083c6da2cfc1325ac7e06a16",
+      "country_code": "PT",
+      "email_domain": "iscte-iul.pt",
+      "designation_date": "2026-03-20",
+      "dsc_country_code": "PT",
+      "areas_of_expertise": [
+        "illegal_speech",
+        "civil_discourse",
+        "public_security",
+        "scams_fraud",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal Speech",
+        "Negative effects on civil discourse and elections",
+        "Risk for public security",
+        "Scams and fraud",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 154,
+    "tf_id": "906389fa-5b2b-5918-b916-e85c9282fe72",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "1b0e9008de860aec5e309eb1ccc39e8c63c7f0e5e2f6e76d49780c887e75fb7e",
+        "from": "58b82d25cd0cb06d9eb7f0cea0647fb0bac28b72518dabd83ba98fa1349ddee2"
+      }
+    },
+    "snapshot": {
+      "id": "906389fa-5b2b-5918-b916-e85c9282fe72",
+      "city": null,
+      "name": "Nexa Watch",
+      "email": "laura.seryte@nexa.watch",
+      "website": "https://nexa.watch",
+      "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority (RRT)",
+      "legal_form": null,
+      "address_raw": "Saltoniškių str. 2-12, Vilnius, LT-08105, Lithuania",
+      "postal_code": null,
+      "source_hash": "1b0e9008de860aec5e309eb1ccc39e8c63c7f0e5e2f6e76d49780c887e75fb7e",
+      "country_code": "LT",
+      "email_domain": "nexa.watch",
+      "designation_date": "2026-03-20",
+      "dsc_country_code": "LT",
+      "areas_of_expertise": [
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 155,
+    "tf_id": "0df0f4d5-739c-52e4-a095-81849d2ca5f4",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "9335be179296082964f89a0a4cc639cbe602e2110d88c371d335ffee3a52097e",
+        "from": "375f63e8e05e121923cea404617a12bb00601dbd3082310b738742e1125bc1b2"
+      }
+    },
+    "snapshot": {
+      "id": "0df0f4d5-739c-52e4-a095-81849d2ca5f4",
+      "city": null,
+      "name": "Kinder- und Jugendanwaltschaft OÖ",
+      "email": "TrustedFlagger.KiJA@ooe.gv.at",
+      "website": "https://www.kija.at/",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Energiestraße 2, Linz, 4021, Austria",
+      "postal_code": null,
+      "source_hash": "9335be179296082964f89a0a4cc639cbe602e2110d88c371d335ffee3a52097e",
+      "country_code": "AT",
+      "email_domain": "ooe.gv.at",
+      "designation_date": "2026-02-10",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech",
+        "protection_of_minors",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 156,
+    "tf_id": "3ff8447f-caa0-5f8e-8397-0eeb48e7924e",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "2aae60c1be1528c340852283960156dd3d475f5636b7715d12d707c513e8b782",
+        "from": "ca0a23afbbd4ad4e9268fcc04a05313cb05a961f8c7d5c903363577222b9e0d0"
+      }
+    },
+    "snapshot": {
+      "id": "3ff8447f-caa0-5f8e-8397-0eeb48e7924e",
+      "city": null,
+      "name": "Εταιρία Προστασίας Οπτικοακουστικών Έργων Α.Μ.Κ.Ε. Audiovisual Works Protection Society",
+      "email": "epoe@epoe.org",
+      "website": "https://www.epoe.org/",
+      "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission (EETT)",
+      "legal_form": null,
+      "address_raw": "VIOPA, Pallini, Vakalopoulou Street, 153 51/GP Studios/building K1, Pallini-Attiki, 15351, Greece",
+      "postal_code": null,
+      "source_hash": "2aae60c1be1528c340852283960156dd3d475f5636b7715d12d707c513e8b782",
+      "country_code": "EL",
+      "email_domain": "epoe.org",
+      "designation_date": "2026-02-04",
+      "dsc_country_code": "EL",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 157,
+    "tf_id": "c5c0ec7a-6344-5af8-9526-55f2a332f77e",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "8c5de1cb260e868bb260bf191aee898cc21cf6c4bdae27d7b3cb0006b255d172",
+        "from": "085d56dc7421202ad81f3d9380550f2a801258d059cb13ede3f6931d4e336c38"
+      }
+    },
+    "snapshot": {
+      "id": "c5c0ec7a-6344-5af8-9526-55f2a332f77e",
+      "city": null,
+      "name": "FAPAV",
+      "email": "dsa-trustedflagger@fapav.it",
+      "website": "https://www.fapav.it",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Viale Regina Margherita 286, Rome, Italy",
+      "postal_code": null,
+      "source_hash": "8c5de1cb260e868bb260bf191aee898cc21cf6c4bdae27d7b3cb0006b255d172",
+      "country_code": "IT",
+      "email_domain": "fapav.it",
+      "designation_date": "2026-01-28",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "data_privacy",
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 158,
+    "tf_id": "6f0826a0-4bab-5558-b2f5-54d7b7ee46a4",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "abc9f02b20e4d4b8dd117bf378f62c194a56036bd60fe99add437723d66cab13",
+        "from": "ae650ab05747365af632477f1fce4e7f5a8431590721603766b3dea302bd9477"
+      }
+    },
+    "snapshot": {
+      "id": "6f0826a0-4bab-5558-b2f5-54d7b7ee46a4",
+      "city": null,
+      "name": "Društvo Kopriva",
+      "email": "info@kopriva.si",
+      "website": "https://www.kopriva.si/",
+      "dsc_name": "Agencija za komunikacijska omrežja in storitve Republike Slovenije (AKOS) | Agency for Communication Networks and Services of the Republic of Slovenia (AKOS)",
+      "legal_form": null,
+      "address_raw": "Kolodvorska ulica 7, Ljubljana, 1000, Slovenia",
+      "postal_code": null,
+      "source_hash": "abc9f02b20e4d4b8dd117bf378f62c194a56036bd60fe99add437723d66cab13",
+      "country_code": "SI",
+      "email_domain": "kopriva.si",
+      "designation_date": "2026-01-19",
+      "dsc_country_code": "SI",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 159,
+    "tf_id": "e9c32124-1328-5379-a681-a8f23fad2bbf",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "83026a3fa8cced2bcd6d7347dce437ca8d31e74e6565ccba9161af89df52067b",
+        "from": "bf8ff1fee37589c5eda057e26cc361ae10d47451514dde5e3ac0afae989258a1"
+      }
+    },
+    "snapshot": {
+      "id": "e9c32124-1328-5379-a681-a8f23fad2bbf",
+      "city": null,
+      "name": "Eesti Pangaliit",
+      "email": "riisalu@pangaliit.ee",
+      "website": "https://pangaliit.ee/",
+      "dsc_name": "Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA) | Consumer Protection and Technical Regulatory Authority (CPTRA)",
+      "legal_form": null,
+      "address_raw": "Maakri tn 30, Tallinn, 10145, Estonia",
+      "postal_code": null,
+      "source_hash": "83026a3fa8cced2bcd6d7347dce437ca8d31e74e6565ccba9161af89df52067b",
+      "country_code": "EE",
+      "email_domain": "pangaliit.ee",
+      "designation_date": "2026-01-12",
+      "dsc_country_code": "EE",
+      "areas_of_expertise": [
+        "illegal_products",
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal products",
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 160,
+    "tf_id": "84236f67-fbe4-578e-a02c-1414bfb75252",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "76215f3e933625d8ebf853478e1e427b648e5e423265857916c9abe77a386cf0",
+        "from": "3f8aebe57a6c3720569c3af99fe689a7b0e6cabd8d5d038e4bd54b778168607f"
+      }
+    },
+    "snapshot": {
+      "id": "84236f67-fbe4-578e-a02c-1414bfb75252",
+      "city": null,
+      "name": "Belgische Stichting voor Vermiste en Seksueel Uitgebuite Kinderen",
+      "email": "DSATrustedflagger@childfocus.org",
+      "website": "https://www.childfocus.be",
+      "dsc_name": "Institut belge des services postaux et des télécommunications | Belgisch Instituut voor postdiensten en telecommunicatie | Belgisches Institut für Postdienste und Telekommunikation | Belgian Institute for Postal Services and Telecommunications",
+      "legal_form": null,
+      "address_raw": "Houba de Strooperlaan 292, Brussels, 1020, Belgium",
+      "postal_code": null,
+      "source_hash": "76215f3e933625d8ebf853478e1e427b648e5e423265857916c9abe77a386cf0",
+      "country_code": "BE",
+      "email_domain": "childfocus.org",
+      "designation_date": "2025-12-22",
+      "dsc_country_code": "BE",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 161,
+    "tf_id": "d22b85e2-3c3c-5718-b97c-ddc16f536c1e",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "7ab369117dd81e9fb313f016ff77db0d13b6167b75a16a3bcdf18a19eaf36109",
+        "from": "2f666fee31521b54eeb2defabf425e3e032eaff8c1064ea7d67ec6e1565fbce2"
+      }
+    },
+    "snapshot": {
+      "id": "d22b85e2-3c3c-5718-b97c-ddc16f536c1e",
+      "city": null,
+      "name": "Latvijas Interneta asociācija",
+      "email": "zinojumi@drossinternets.lv",
+      "website": "https://drossinternets.lv",
+      "dsc_name": "Patērētāju tiesību aizsardzības centrs | Consumer Rights Protection Centre",
+      "legal_form": null,
+      "address_raw": "Gustava Zemgala gatve 78 - 1, Riga, LV-1039, Latvia",
+      "postal_code": null,
+      "source_hash": "7ab369117dd81e9fb313f016ff77db0d13b6167b75a16a3bcdf18a19eaf36109",
+      "country_code": "LV",
+      "email_domain": "drossinternets.lv",
+      "designation_date": "2025-12-18",
+      "dsc_country_code": "LV",
+      "areas_of_expertise": [
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 162,
+    "tf_id": "02bc1dfb-4c1a-511e-9bbd-cc3d702b92ac",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "1c4e279a67bf6a2da94d44ed89b9c2ac89e44bdae9d3e77f65b71d80ed1a12fe",
+        "from": "570d6199e3fc9b94373a86cf92837c91b0d6c75cb837eedae9067c675e143698"
+      }
+    },
+    "snapshot": {
+      "id": "02bc1dfb-4c1a-511e-9bbd-cc3d702b92ac",
+      "city": null,
+      "name": "Ochráň ma",
+      "email": "ochranma@ochranma.sk",
+      "website": "https://ochranma.sk",
+      "dsc_name": "Rada pre mediálne služby | Council for Media Services",
+      "legal_form": null,
+      "address_raw": "Bezručova 4942/8A, Bratislava, 811 09, Slovakia",
+      "postal_code": null,
+      "source_hash": "1c4e279a67bf6a2da94d44ed89b9c2ac89e44bdae9d3e77f65b71d80ed1a12fe",
+      "country_code": "SK",
+      "email_domain": "ochranma.sk",
+      "designation_date": "2025-12-17",
+      "dsc_country_code": "SK",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech",
+        "self_harm",
+        "protection_of_minors",
+        "public_security",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech",
+        "Incitement to self-harm",
+        "Protection of minors violations",
+        "Risk for public security",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 163,
+    "tf_id": "889c4762-ae46-51f4-981e-033b80089c58",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "0cd9a4d369d1e3eaaad1242e7468e2a7104ac4bc7ab5ed52310b597f091e51ac",
+        "from": "605a401c686b3e70fba61f00b43c3889573f64fc9e2a2d806f152d014a7e48e9"
+      }
+    },
+    "snapshot": {
+      "id": "889c4762-ae46-51f4-981e-033b80089c58",
+      "city": null,
+      "name": "AUSTRO-MECHANA Gesellschaft zur Wahrnehmung mechanisch-musikalischer Urheberrechte Gesellschaft mbH",
+      "email": "paul.fischer@akm.at",
+      "website": "https://www.akm.at/",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Baumannstraße 10, Vienna, 1030, Austria",
+      "postal_code": null,
+      "source_hash": "0cd9a4d369d1e3eaaad1242e7468e2a7104ac4bc7ab5ed52310b597f091e51ac",
+      "country_code": "AT",
+      "email_domain": "akm.at",
+      "designation_date": "2025-12-17",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "illegal_products"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal products"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 164,
+    "tf_id": "e8a75015-6bf7-5b8c-a38f-c527a1e8d1c9",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "8150407b50720ae80fa06bd13ee127db2ccd2d64001cb7d639ea751ef2bec92f",
+        "from": "5b016c167f8564f2c125a14b774e3d7c64380e607b693e40561ffad3e6f19d3a"
+      }
+    },
+    "snapshot": {
+      "id": "e8a75015-6bf7-5b8c-a38f-c527a1e8d1c9",
+      "city": null,
+      "name": "Kopjra S.r.L.",
+      "email": "trusted-flagger@kopjra.com",
+      "website": "https://www.kopjra.com",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Via Rizzoli 1/2, Bologna, Italy",
+      "postal_code": null,
+      "source_hash": "8150407b50720ae80fa06bd13ee127db2ccd2d64001cb7d639ea751ef2bec92f",
+      "country_code": "IT",
+      "email_domain": "kopjra.com",
+      "designation_date": "2025-12-17",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 165,
+    "tf_id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "d8af70c20d6cd6122f68507da5b618dc42f227508cce3d2d92d007c21fcee6ab",
+        "from": "e5d5a41612e474f8bf0ab7c03c7ed3638793de23b50a0df48e599bf8e2deb002"
+      }
+    },
+    "snapshot": {
+      "id": "197efe89-4628-5147-9ddc-7b7a8d1f3cc1",
+      "city": null,
+      "name": "ABI Lab– Centro di ricerca e sviluppo delle tecnologie per la banca",
+      "email": "ISAC@certfin.it",
+      "website": "https://www.abilab.it",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Piazza del Gesù 49, Rome, 00186, Italy",
+      "postal_code": null,
+      "source_hash": "d8af70c20d6cd6122f68507da5b618dc42f227508cce3d2d92d007c21fcee6ab",
+      "country_code": "IT",
+      "email_domain": "certfin.it",
+      "designation_date": "2025-12-03",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "data_privacy",
+        "illegal_products",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Illegal products",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 166,
+    "tf_id": "05943ef4-49e9-5c62-8043-8f390968227f",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "c5bf23946119e4a3756708b2eb54a4298fd4460b1389efcde9147beaf93ee192",
+        "from": "e36060415157af19b02a7913a8402c2350cdd42059905380c981b977e196e89c"
+      }
+    },
+    "snapshot": {
+      "id": "05943ef4-49e9-5c62-8043-8f390968227f",
+      "city": null,
+      "name": "Permesso Negato ETS",
+      "email": "segreteria@permessonegato.it",
+      "website": "https://www.permessonegato.it/",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Via Vitruvio 1, Milano, 20124, Italy",
+      "postal_code": null,
+      "source_hash": "c5bf23946119e4a3756708b2eb54a4298fd4460b1389efcde9147beaf93ee192",
+      "country_code": "IT",
+      "email_domain": "permessonegato.it",
+      "designation_date": "2025-12-03",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "data_privacy",
+        "illegal_speech",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Data protection and privacy violations",
+        "Illegal Speech",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 167,
+    "tf_id": "05dc4bec-e30f-565e-902e-0fa42a16cc68",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "0ac4fb16f1b29d9eaa0a22f98baef61ff1967ac00b3402820d99a83b9c9e5042",
+        "from": "d41e61f9898a869d776e7475235d54d34665f89bd9b3016a0b111676ea74ceab"
+      }
+    },
+    "snapshot": {
+      "id": "05dc4bec-e30f-565e-902e-0fa42a16cc68",
+      "city": null,
+      "name": "Centre interfédéral pour l’égalité des chances et la lutte contre le racisme et les discriminations",
+      "email": "info@unia.be",
+      "website": "https://www.unia.be/",
+      "dsc_name": "Institut belge des services postaux et des télécommunications | Belgisch Instituut voor postdiensten en telecommunicatie | Belgisches Institut für Postdienste und Telekommunikation | Belgian Institute for Postal Services and Telecommunications",
+      "legal_form": null,
+      "address_raw": "Place Victor Horta, Saint-Gilles, 1060, Belgium",
+      "postal_code": null,
+      "source_hash": "0ac4fb16f1b29d9eaa0a22f98baef61ff1967ac00b3402820d99a83b9c9e5042",
+      "country_code": "BE",
+      "email_domain": "unia.be",
+      "designation_date": "2025-11-12",
+      "dsc_country_code": "BE",
+      "areas_of_expertise": [
+        "illegal_speech"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal Speech"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 168,
+    "tf_id": "174191cb-c118-53a0-aff6-4264603bf3ca",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "0bafdeaf9708e5572f71f5ca053f8b1b06ed1d676dc19909f2b4e0b7011ceb63",
+        "from": "49ec0d906d7c3da6aa8bf716e8a5c853b5deda3d3f04e3a82181853c48fbc476"
+      }
+    },
+    "snapshot": {
+      "id": "174191cb-c118-53a0-aff6-4264603bf3ca",
+      "city": null,
+      "name": "Associazione METER ETS di Don Fortunato di Noto",
+      "email": "segreteria@associazionemeter.org",
+      "website": "https://associazionemeter.org",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Via Domenico Cirillo 2, Avola, 96012, Italy",
+      "postal_code": null,
+      "source_hash": "0bafdeaf9708e5572f71f5ca053f8b1b06ed1d676dc19909f2b4e0b7011ceb63",
+      "country_code": "IT",
+      "email_domain": "associazionemeter.org",
+      "designation_date": "2025-10-28",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "data_privacy",
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Data protection and privacy violations",
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 169,
+    "tf_id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "41fbc23aad56f8181d78d83f8b49077efd3f98e45ac6e31824e458df78963f57",
+        "from": "bcb6184a0d62efabd3b79923edac54d0f0ad74521e072a4036622aac6e264c2a"
+      }
+    },
+    "snapshot": {
+      "id": "15a7bbee-4928-57bf-b8c3-1fdef191c7d9",
+      "city": null,
+      "name": "Asociația eLiberare",
+      "email": "alert@eliberare.com",
+      "website": "https://eliberare.com/",
+      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) |National Authority for Management and Regulation in Communications",
+      "legal_form": null,
+      "address_raw": "Calea Văcărești nr. 338, bl. 15, sc. 2, apt. 30, sect. 4, Bucharest, Romania",
+      "postal_code": null,
+      "source_hash": "41fbc23aad56f8181d78d83f8b49077efd3f98e45ac6e31824e458df78963f57",
+      "country_code": "RO",
+      "email_domain": "eliberare.com",
+      "designation_date": "2025-10-13",
+      "dsc_country_code": "RO",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_speech",
+        "protection_of_minors",
+        "public_security",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Risk for public security",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 170,
+    "tf_id": "f80b7674-8075-5f87-b0ef-edeb1ee055ca",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "047601e3b971be63fb51e1f71edf6252dc2cdc096a5a74ba8cb79bcb8d1923d8",
+        "from": "42bd99fb388ebfb6c4b1fb24d9b67182bce5955b5a77a77b8b2aa92799eaef49"
+      }
+    },
+    "snapshot": {
+      "id": "f80b7674-8075-5f87-b0ef-edeb1ee055ca",
+      "city": null,
+      "name": "Vlaams Mensenrechteninstituut",
+      "email": "contact@vmri.be",
+      "website": "https://www.vlaamsmensenrechteninstituut.be",
+      "dsc_name": "Institut belge des services postaux et des télécommunications | Belgisch Instituut voor postdiensten en telecommunicatie | Belgisches Institut für Postdienste und Telekommunikation | Belgian Institute for Postal Services and Telecommunications",
+      "legal_form": null,
+      "address_raw": "Marie-Elisabeth Belpaire Building, Simon Bolivarlaan 17, Brussels, Belgium",
+      "postal_code": null,
+      "source_hash": "047601e3b971be63fb51e1f71edf6252dc2cdc096a5a74ba8cb79bcb8d1923d8",
+      "country_code": "BE",
+      "email_domain": "vmri.be",
+      "designation_date": "2025-10-13",
+      "dsc_country_code": "BE",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "data_privacy",
+        "illegal_speech",
+        "civil_discourse",
+        "protection_of_minors",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Data protection and privacy violations",
+        "Illegal Speech",
+        "Negative effects on civil discourse and elections",
+        "Protection of minors violations",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 171,
+    "tf_id": "bbd652aa-e84f-5330-9079-e8a4a24e9cce",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "49eb99e35b3309eedc01e9c9e4035f0a4e64f6dadcfa77cb31083817bb322a84",
+        "from": "24b0648aded693725999873a24a4139c6d68acfa5d9efdb68ce0e7bff4b2db38"
+      }
+    },
+    "snapshot": {
+      "id": "bbd652aa-e84f-5330-9079-e8a4a24e9cce",
+      "city": null,
+      "name": "Stichting NL Confidential",
+      "email": "mail@onlinediscriminatie.nl",
+      "website": "https://meld.onlinediscriminatie.nl",
+      "dsc_name": "Autoriteit Consument en Markt  |  Authority for Consumers and Markets",
+      "legal_form": null,
+      "address_raw": "Postbus 200, Hoevelaken, 3870 CE, Netherlands",
+      "postal_code": null,
+      "source_hash": "49eb99e35b3309eedc01e9c9e4035f0a4e64f6dadcfa77cb31083817bb322a84",
+      "country_code": "NL",
+      "email_domain": "onlinediscriminatie.nl",
+      "designation_date": "2025-10-08",
+      "dsc_country_code": "NL",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 172,
+    "tf_id": "3b555c7f-b71b-5c52-b409-864a78f83d0b",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "5b5856f7d9d2816485a7da77097ec61fdd4fcfd79bd460d8a40c94137e02eac7",
+        "from": "2e4855c0e28d6c4bb2d0d0b32b49e76be4ad6505d95d61614d8d017341eb0932"
+      }
+    },
+    "snapshot": {
+      "id": "3b555c7f-b71b-5c52-b409-864a78f83d0b",
+      "city": null,
+      "name": "Coöperatie SNB-REACT U.A.",
+      "email": "notices@react.org",
+      "website": "https://www.react.org/",
+      "dsc_name": "Autoriteit Consument en Markt  |  Authority for Consumers and Markets",
+      "legal_form": null,
+      "address_raw": "de Cuserstraat 89, Amsterdam, 1081 CN, Netherlands",
+      "postal_code": null,
+      "source_hash": "5b5856f7d9d2816485a7da77097ec61fdd4fcfd79bd460d8a40c94137e02eac7",
+      "country_code": "NL",
+      "email_domain": "react.org",
+      "designation_date": "2025-10-01",
+      "dsc_country_code": "NL",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 173,
+    "tf_id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "ec410b3289af8a9a2f794ce5219293f827a9b0a608a67926682405031621c40a",
+        "from": "8ea9ea9919893734cabcbe269be3fed3e4b20277029ead68ea49c2b80203e47d"
+      }
+    },
+    "snapshot": {
+      "id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
+      "city": null,
+      "name": "Axghouse antipiracy OÜ",
+      "email": "removals@axghouse.com",
+      "website": "https://axghouse.com",
+      "dsc_name": "Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA) | Consumer Protection and Technical Regulatory Authority (CPTRA)",
+      "legal_form": null,
+      "address_raw": "Vesivärava tn 50-201, Tallin 10152, Estonia",
+      "postal_code": null,
+      "source_hash": "ec410b3289af8a9a2f794ce5219293f827a9b0a608a67926682405031621c40a",
+      "country_code": "EE",
+      "email_domain": "axghouse.com",
+      "designation_date": "2025-09-30",
+      "dsc_country_code": "EE",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 174,
+    "tf_id": "3a987ca5-bda0-5244-a899-2e9a12873109",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "f4446b8f003be081af724ce19a9e65c8a0b21867c25a1e1d3b60aba451a91ad5",
+        "from": "f3a6d044333ec2436fef5b3748c5eb9667228d02d927c1627f6cd3a1f9047fb2"
+      }
+    },
+    "snapshot": {
+      "id": "3a987ca5-bda0-5244-a899-2e9a12873109",
+      "city": null,
+      "name": "Stichting BREIN",
+      "email": "brein@stichtingbrein.nl",
+      "website": "https://stichtingbrein.nl/",
+      "dsc_name": "Autoriteit Consument en Markt  |  Authority for Consumers and Markets",
+      "legal_form": null,
+      "address_raw": "Kruisweg 813 A, Hoofddorp, 2132 NG, Netherlands",
+      "postal_code": null,
+      "source_hash": "f4446b8f003be081af724ce19a9e65c8a0b21867c25a1e1d3b60aba451a91ad5",
+      "country_code": "NL",
+      "email_domain": "stichtingbrein.nl",
+      "designation_date": "2025-09-29",
+      "dsc_country_code": "NL",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 175,
+    "tf_id": "1ff0088b-5f85-5e30-9ff3-b948c9c0c338",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "d21f0ec8fd0cd3a3fb785a12a7ac0e19b986cf7577b78223aaee42db629e1292",
+        "from": "fb1a3df12a0f20917af161b3b809c359601ecc31680ee7f6f4afb2c794f59270"
+      }
+    },
+    "snapshot": {
+      "id": "1ff0088b-5f85-5e30-9ff3-b948c9c0c338",
+      "city": null,
+      "name": "Stichting Offlimits",
+      "email": "helpline@trustedflagger.offlimits.nl",
+      "website": "https://offlimits.nl/",
+      "dsc_name": "Autoriteit Consument en Markt  |  Authority for Consumers and Markets",
+      "legal_form": null,
+      "address_raw": "Postbus 51323, Amsterdam, 1007EH, Netherlands",
+      "postal_code": null,
+      "source_hash": "d21f0ec8fd0cd3a3fb785a12a7ac0e19b986cf7577b78223aaee42db629e1292",
+      "country_code": "NL",
+      "email_domain": "trustedflagger.offlimits.nl",
+      "designation_date": "2025-09-09",
+      "dsc_country_code": "NL",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "protection_of_minors",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Protection of minors violations",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 176,
+    "tf_id": "e53119db-d68d-587d-8568-903d3158bd7a",
+    "event_type": "updated",
+    "diff": {
+      "email": {
+        "to": "info@zavodpip.si",
+        "from": "miha.simon@zavodpip.si"
+      },
+      "source_hash": {
+        "to": "988cf5b3000114a8610dcfa203b89afd637c7cd51ecab619d4c3db2d3163846e",
+        "from": "35a4e983e3dd4974069a7528874a7a5063da1fc179228b087d0f3ab8ffec96e5"
+      }
+    },
+    "snapshot": {
+      "id": "e53119db-d68d-587d-8568-903d3158bd7a",
+      "city": null,
+      "name": "Zavod PIP",
+      "email": "info@zavodpip.si",
+      "website": "https://zavodpip.si/",
+      "dsc_name": "Agencija za komunikacijska omrežja in storitve Republike Slovenije (AKOS) | Agency for Communication Networks and Services of the Republic of Slovenia (AKOS)",
+      "legal_form": null,
+      "address_raw": "Gosposvetska cesta 83, Maribor, 2000, Slovenia",
+      "postal_code": null,
+      "source_hash": "988cf5b3000114a8610dcfa203b89afd637c7cd51ecab619d4c3db2d3163846e",
+      "country_code": "SI",
+      "email_domain": "zavodpip.si",
+      "designation_date": "2025-08-01",
+      "dsc_country_code": "SI",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech",
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech",
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 177,
+    "tf_id": "769bf357-ff03-5765-9338-0a253cd374ba",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "2537cf29a807e0389cdcee0b0b04f691c744586e80331619ba3b74127c02fa38",
+        "from": "54b55b9c6f15bd0a78eab40f80f6b85c021dc20df278c12b80a64665fa32423b"
+      }
+    },
+    "snapshot": {
+      "id": "769bf357-ff03-5765-9338-0a253cd374ba",
+      "city": null,
+      "name": "Caritas - Jeunes et Familles A.s.b.l. - entity Kanner-Jugendtelefon (KJT)",
+      "email": "ntf@kjt.lu",
+      "website": "https://www.bee-secure.lu/fr/",
+      "dsc_name": "Autorité de la concurrence | Competition Authority",
+      "legal_form": null,
+      "address_raw": "2, Rue Peternelchen – Cubus C2, Howald, L-2370, Luxembourg",
+      "postal_code": null,
+      "source_hash": "2537cf29a807e0389cdcee0b0b04f691c744586e80331619ba3b74127c02fa38",
+      "country_code": "LU",
+      "email_domain": "kjt.lu",
+      "designation_date": "2025-07-29",
+      "dsc_country_code": "LU",
+      "areas_of_expertise": [
+        "data_privacy",
+        "illegal_speech",
+        "protection_of_minors",
+        "public_security"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Risk for public security"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 178,
+    "tf_id": "eabb696c-9680-5461-9f4d-f96d2ca593d9",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "8354997e8dfcec453739686c797228c6871308f329523e7735e6520ae659b7ef",
+        "from": "c7d2d1d1510e12589d48b6873827ee45d0f7aeab165ae1ee79bb9a85deac4b7f"
+      }
+    },
+    "snapshot": {
+      "id": "eabb696c-9680-5461-9f4d-f96d2ca593d9",
+      "city": null,
+      "name": "Ligue Internationale Contre le Racisme et l’Antisémitisme",
+      "email": "signaleur@licra.org",
+      "website": "https://www.licra.org",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "42 rue du Louvre, 75001, Paris, France",
+      "postal_code": null,
+      "source_hash": "8354997e8dfcec453739686c797228c6871308f329523e7735e6520ae659b7ef",
+      "country_code": "FR",
+      "email_domain": "licra.org",
+      "designation_date": "2025-07-23",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "illegal_speech",
+        "public_security"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal Speech",
+        "Risk for public security"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 179,
+    "tf_id": "e0d5f60a-987f-585f-907f-eb338109b680",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "6e759b6e3eb02aad3ec2f5b6cd0baac34021f78088526cc7bd5164d880753bc9",
+        "from": "6b03bf32a1e5f73ff5da1ab9a63b749b2069aa17fb0a223ee59ac40141decb66"
+      }
+    },
+    "snapshot": {
+      "id": "e0d5f60a-987f-585f-907f-eb338109b680",
+      "city": null,
+      "name": "SP Tech srl",
+      "email": "info@sptechlegal.it",
+      "website": "https://www.sptechlegal.com",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Via Cicerone 60, Rome, Italy",
+      "postal_code": null,
+      "source_hash": "6e759b6e3eb02aad3ec2f5b6cd0baac34021f78088526cc7bd5164d880753bc9",
+      "country_code": "IT",
+      "email_domain": "sptechlegal.it",
+      "designation_date": "2025-07-23",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "data_privacy",
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 180,
+    "tf_id": "494fdfe3-5325-5c6b-acba-0668a7a11fe4",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "5f4526ad4c976733ed4c8cdfad31a22f2724a76ca4416af8887db1de9db51798",
+        "from": "ca8ce26f646096ad53972e8c1a8ec5074c0fd158d2bc795bea88b369f59f48f9"
+      }
+    },
+    "snapshot": {
+      "id": "494fdfe3-5325-5c6b-acba-0668a7a11fe4",
+      "city": null,
+      "name": "Eesti Autoriõiguste Kaitse Organisatsioon",
+      "email": "erik@eako.ee",
+      "website": "https://www.eako.ee",
+      "dsc_name": "Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA) | Consumer Protection and Technical Regulatory Authority (CPTRA)",
+      "legal_form": null,
+      "address_raw": "Laki tn 25, Tallinn, 12915, Estonia",
+      "postal_code": null,
+      "source_hash": "5f4526ad4c976733ed4c8cdfad31a22f2724a76ca4416af8887db1de9db51798",
+      "country_code": "EE",
+      "email_domain": "eako.ee",
+      "designation_date": "2025-07-21",
+      "dsc_country_code": "EE",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 181,
+    "tf_id": "a0cbcf8e-8888-53d8-8316-bfdc67da6a2a",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "13430480e5610b3b75a14e6714a44ea3a17825b2d749f54e88b581d5cca2fb93",
+        "from": "b6c8b7e433e8d97afc725f39394eb4be3a54660ce6874663d3dcd77af55b26e7"
+      }
+    },
+    "snapshot": {
+      "id": "a0cbcf8e-8888-53d8-8316-bfdc67da6a2a",
+      "city": null,
+      "name": "Bundesverband Onlinehandel e.V. (BVOH)",
+      "email": "trustedflagger@bvoh.de",
+      "website": "https://www.bvoh.de",
+      "dsc_name": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (BNetzA) | Federal Network Agency for Electricity, Gas, Telecommunications, Post and Railways (BNetzA)",
+      "legal_form": null,
+      "address_raw": "Blasewitzer Straße 41, 01307 Dresden, Germany",
+      "postal_code": null,
+      "source_hash": "13430480e5610b3b75a14e6714a44ea3a17825b2d749f54e88b581d5cca2fb93",
+      "country_code": "DE",
+      "email_domain": "bvoh.de",
+      "designation_date": "2025-06-02",
+      "dsc_country_code": "DE",
+      "areas_of_expertise": [
+        "consumer_protection",
+        "illegal_products",
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Consumer information infringements",
+        "Illegal products",
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 182,
+    "tf_id": "6a9a3c93-caf6-5ab2-829a-9a86ce317a58",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "1d83a41b84806b7bd762e83a2ac9b3885c77ed42458380882e28bb2a34d018eb",
+        "from": "ebc9266d27264e23b29d90f97c5a530b55ff2f9e0dbdd14f351082b36c7bae24"
+      }
+    },
+    "snapshot": {
+      "id": "6a9a3c93-caf6-5ab2-829a-9a86ce317a58",
+      "city": null,
+      "name": "Verbraucherzentrale Bundesverband (vzbv)",
+      "email": "trustedflagger@vzbv.de",
+      "website": "https://www.vzbv.de/",
+      "dsc_name": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (BNetzA) | Federal Network Agency for Electricity, Gas, Telecommunications, Post and Railways (BNetzA)",
+      "legal_form": null,
+      "address_raw": "Rudi-Dutschke-Str. 17, 10969 Berlin, Germany",
+      "postal_code": null,
+      "source_hash": "1d83a41b84806b7bd762e83a2ac9b3885c77ed42458380882e28bb2a34d018eb",
+      "country_code": "DE",
+      "email_domain": "vzbv.de",
+      "designation_date": "2025-06-02",
+      "dsc_country_code": "DE",
+      "areas_of_expertise": [
+        "consumer_protection",
+        "data_privacy",
+        "illegal_products",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Consumer information infringements",
+        "Data protection and privacy violations",
+        "Illegal products",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 183,
+    "tf_id": "a307b8a6-5923-565d-a0cc-1ae1a117f1b7",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "7687250a9a7588b6c07d0f06e759c54c010944f0e0ffb3c9b6d560e24190f334",
+        "from": "104b9d4aed556b8215b3059f46c09ca2a3f0dd2eb105ad17e559c3915ebd6611"
+      }
+    },
+    "snapshot": {
+      "id": "a307b8a6-5923-565d-a0cc-1ae1a117f1b7",
+      "city": null,
+      "name": "HateAid gGmbH",
+      "email": "trustedflagger@hateaid.org",
+      "website": "https://www.hateaid.org",
+      "dsc_name": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (BNetzA) | Federal Network Agency for Electricity, Gas, Telecommunications, Post and Railways (BNetzA)",
+      "legal_form": null,
+      "address_raw": "Greifswalder Str. 4, 10405 Berlin, Germany",
+      "postal_code": null,
+      "source_hash": "7687250a9a7588b6c07d0f06e759c54c010944f0e0ffb3c9b6d560e24190f334",
+      "country_code": "DE",
+      "email_domain": "hateaid.org",
+      "designation_date": "2025-06-02",
+      "dsc_country_code": "DE",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_speech"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal Speech"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 184,
+    "tf_id": "23817ca9-63d2-513b-bb4b-5ef8ab0333df",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "a5981e33cf12cfcd6c2685b2dd8a10a886ea3ad9fc03c31750465136a8492739",
+        "from": "55e28d07f4e83de928e266fdbc126f64ba5c473e3930453bca2f9220bee59341"
+      }
+    },
+    "snapshot": {
+      "id": "23817ca9-63d2-513b-bb4b-5ef8ab0333df",
+      "city": null,
+      "name": "Svenska Stöldskyddsföreningen",
+      "email": "info@stoldskyddsforeningen.se",
+      "website": "https://www.stoldskyddsforeningen.se",
+      "dsc_name": "Post- och telestyrelsen | Post and Telecom Authority",
+      "legal_form": null,
+      "address_raw": "Rosenlundsgatan 29A Stockholm 118 63 Sweden",
+      "postal_code": null,
+      "source_hash": "a5981e33cf12cfcd6c2685b2dd8a10a886ea3ad9fc03c31750465136a8492739",
+      "country_code": "SE",
+      "email_domain": "stoldskyddsforeningen.se",
+      "designation_date": "2025-05-22",
+      "dsc_country_code": "SE",
+      "areas_of_expertise": [
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 185,
+    "tf_id": "de7aed7a-3824-58ab-966a-e370ac2911f5",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "6c8c8fb33650f01943b77e7af31bd95eb259536542e3f2be012af833048c6fdc",
+        "from": "10bb41be075d636b8d5db43c1791030d1553163c09bd3743cc06afef7a453162"
+      }
+    },
+    "snapshot": {
+      "id": "de7aed7a-3824-58ab-966a-e370ac2911f5",
+      "city": null,
+      "name": "ZARA - Zivilcourage und Anti-Rassismus Arbeit",
+      "email": "tf@zara.or.at",
+      "website": "https://www.zara.or.at",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Schönbrunner Straße 119/13, 1050 Wien, Austria",
+      "postal_code": null,
+      "source_hash": "6c8c8fb33650f01943b77e7af31bd95eb259536542e3f2be012af833048c6fdc",
+      "country_code": "AT",
+      "email_domain": "zara.or.at",
+      "designation_date": "2025-05-15",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech",
+        "gender_based_violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech",
+        "Cyber violence against women"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 186,
+    "tf_id": "8dffc873-6657-50c1-bfa0-89364f353beb",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "8c8bb03b5cf0fdc3627f07350b8356afa8c0ced77606f8d2a45cbc2f6760e471",
+        "from": "e1d0fcdca8d94b6027e95c4f82d5f64e281c3c8ec0e0585e26437912caa67d73"
+      }
+    },
+    "snapshot": {
+      "id": "8dffc873-6657-50c1-bfa0-89364f353beb",
+      "city": null,
+      "name": "Federazione contro la pirateria musicale e multimediale",
+      "email": "dsa-trustedflagger@fpm-antipiracy.it",
+      "website": "https://www.fimi.it/chi-siamo/tutela-dei-contenuti/fpm.kl",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Via Leone XIII n. 14, Milano, 20145, Italy",
+      "postal_code": null,
+      "source_hash": "8c8bb03b5cf0fdc3627f07350b8356afa8c0ced77606f8d2a45cbc2f6760e471",
+      "country_code": "IT",
+      "email_domain": "fpm-antipiracy.it",
+      "designation_date": "2025-04-30",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "data_privacy",
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 187,
+    "tf_id": "48ce08ff-64e5-50e1-9c8c-edb4b3402668",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "3e632cfd09ac522ac0ea5e4f2716fefee702227a957872ada45a79090cac9b0d",
+        "from": "ba542587522e6dabc099f57060f7b54088754a8eca20f724cb11c6d480a5fe9b"
+      }
+    },
+    "snapshot": {
+      "id": "48ce08ff-64e5-50e1-9c8c-edb4b3402668",
+      "city": null,
+      "name": "Conseil représentatif des Institutions juives de France (CRIF)",
+      "email": "jesignale@crif.org",
+      "website": "https://www.crif.org/",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "Rue Broca 39, 75005, Paris, France",
+      "postal_code": null,
+      "source_hash": "3e632cfd09ac522ac0ea5e4f2716fefee702227a957872ada45a79090cac9b0d",
+      "country_code": "FR",
+      "email_domain": "crif.org",
+      "designation_date": "2025-04-16",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech",
+        "public_security"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech",
+        "Risk for public security"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 188,
+    "tf_id": "9f88fb4e-1a93-56f2-bd54-1a06570e0f87",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "3df288dff65eb586b46b604c894bb16ea2c9a45a8fe97f9aee02fa88e994a770",
+        "from": "f0f0c1135ba10ca24f5f98fb79d0983985ed043c3e55802e4df5c39e9839d71d"
+      }
+    },
+    "snapshot": {
+      "id": "9f88fb4e-1a93-56f2-bd54-1a06570e0f87",
+      "city": null,
+      "name": "Fondazione S.O.S Il Telefono Azzurro ETS",
+      "email": "trusted.flagger@azzurro.it",
+      "website": "https://azzurro.it",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Via Copernico 1, Milano, 20125, Italy",
+      "postal_code": null,
+      "source_hash": "3df288dff65eb586b46b604c894bb16ea2c9a45a8fe97f9aee02fa88e994a770",
+      "country_code": "IT",
+      "email_domain": "azzurro.it",
+      "designation_date": "2025-04-08",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "data_privacy",
+        "cyber_violence",
+        "protection_of_minors",
+        "violence",
+        "self_harm"
+      ],
+      "areas_of_expertise_raw": [
+        "Data protection and privacy violations",
+        "Cyberviolence",
+        "Protection of minors violations",
+        "Violence",
+        "Incitement to self-harm"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 189,
+    "tf_id": "351274ec-6089-51e8-aee2-7286968ddea8",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "9312f6e8350be442fa79ccd486fd51ee75974bc25933c0091bc7c3d921324a5d",
+        "from": "ef70f32e077038452b442afae386b1db7c180df86946296df2ae56c491034930"
+      }
+    },
+    "snapshot": {
+      "id": "351274ec-6089-51e8-aee2-7286968ddea8",
+      "city": null,
+      "name": "Association nationale de prévention en alcoologie et addictologie (ANPAA)",
+      "email": "loi.evin@addictions-france.org",
+      "website": "https://addictions-france.org/",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "20 rue Saint-Fiacre, Paris, France",
+      "postal_code": null,
+      "source_hash": "9312f6e8350be442fa79ccd486fd51ee75974bc25933c0091bc7c3d921324a5d",
+      "country_code": "FR",
+      "email_domain": "addictions-france.org",
+      "designation_date": "2025-04-02",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "public_security"
+      ],
+      "areas_of_expertise_raw": [
+        "Risk for public security"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 190,
+    "tf_id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "3ae3866005ff4950050e27deed6e7eb7f070c894f0297d48e6429435d8f4d11a",
+        "from": "9a9dae808caf1abb5bc65990c4adb9dda2ac43c13342165b1ce8087991c4eecb"
+      }
+    },
+    "snapshot": {
+      "id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
+      "city": null,
+      "name": "Central Bank of Ireland",
+      "email": "Financial_Crime@centralbank.ie",
+      "website": "https://www.centralbank.ie/",
+      "dsc_name": "Coimisiún na Meán (CnaM) | Media Commission",
+      "legal_form": null,
+      "address_raw": "New Wapping Street, North Wall Quay, Dublin 1, D01 F7X3, Ireland",
+      "postal_code": null,
+      "source_hash": "3ae3866005ff4950050e27deed6e7eb7f070c894f0297d48e6429435d8f4d11a",
+      "country_code": "IE",
+      "email_domain": "centralbank.ie",
+      "designation_date": "2025-04-02",
+      "dsc_country_code": "IE",
+      "areas_of_expertise": [
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 191,
+    "tf_id": "2b15d6cd-c306-53ef-a081-447d942dfdbe",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "81759f2c737e47989262a1ab3ee6d84c1a83770f05ba86373db5ef81ffba080f",
+        "from": "d6fff6da19c55d453c6a4bbff2d9a6b8bdebd9d51b3c5782cb36a6037abbdd9e"
+      }
+    },
+    "snapshot": {
+      "id": "2b15d6cd-c306-53ef-a081-447d942dfdbe",
+      "city": null,
+      "name": "Debunk EU",
+      "email": "info@debunk.org",
+      "website": "https://www.debunk.org/",
+      "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority",
+      "legal_form": null,
+      "address_raw": "Šturmanų g. 4-1, Klaipėda, LT-93201, Lithuania",
+      "postal_code": null,
+      "source_hash": "81759f2c737e47989262a1ab3ee6d84c1a83770f05ba86373db5ef81ffba080f",
+      "country_code": "LT",
+      "email_domain": "debunk.org",
+      "designation_date": "2025-03-21",
+      "dsc_country_code": "LT",
+      "areas_of_expertise": [
+        "illegal_speech",
+        "ip_infringement",
+        "civil_discourse",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal Speech",
+        "Intellectual property infringements",
+        "Negative effects on civil discourse and elections",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 192,
+    "tf_id": "7c53d1dc-5cd5-5a07-b5ae-1768c559ced4",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "3bf3b6d75cd60852e56cabcd9e6837a0723b2bfd54112c5281a780f5ecb7431f",
+        "from": "936e54645864884afd5908bc04093312fd787e198609575a64a798b6d6fe1058"
+      }
+    },
+    "snapshot": {
+      "id": "7c53d1dc-5cd5-5a07-b5ae-1768c559ced4",
+      "city": null,
+      "name": "UAB Piracymeter",
+      "email": "info@piracymeter.com",
+      "website": "https://piracymeter.com/",
+      "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority",
+      "legal_form": null,
+      "address_raw": "J. Savickio g. 4-7, Vilnius, LT-011-8, Lithuania",
+      "postal_code": null,
+      "source_hash": "3bf3b6d75cd60852e56cabcd9e6837a0723b2bfd54112c5281a780f5ecb7431f",
+      "country_code": "LT",
+      "email_domain": "piracymeter.com",
+      "designation_date": "2025-03-21",
+      "dsc_country_code": "LT",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 193,
+    "tf_id": "0467acd4-cd64-5c3e-b575-a97ec3632b77",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "e9fb53e75716e264066df5b8bb2ff5d2fd9434199afcb51491989b3557820afb",
+        "from": "84236084523ccecedb608d8a9c1ebb56f5d19b6a5c10e6618cd2eabcbe6c3eb5"
+      }
+    },
+    "snapshot": {
+      "id": "0467acd4-cd64-5c3e-b575-a97ec3632b77",
+      "city": null,
+      "name": "Association de lutte contre la piraterie audiovisuelle",
+      "email": "sdc@alpa.asso.fr",
+      "website": "https://www.alpa.paris",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "6 rue de Madrid, Paris, 75008, France",
+      "postal_code": null,
+      "source_hash": "e9fb53e75716e264066df5b8bb2ff5d2fd9434199afcb51491989b3557820afb",
+      "country_code": "FR",
+      "email_domain": "alpa.asso.fr",
+      "designation_date": "2025-03-12",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 194,
+    "tf_id": "ddf53b73-4064-5dff-8c38-1e1233109bfa",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "870367e0049bf1c378ff025a40e575ad8b9898dd3a51d7c36f8f49e9e9969fbc",
+        "from": "d92db106b6523d5a6bb9259d9701e11e64f7a8e6cbeb299607574b80e978b7d7"
+      }
+    },
+    "snapshot": {
+      "id": "ddf53b73-4064-5dff-8c38-1e1233109bfa",
+      "city": null,
+      "name": "Association Point de Contact",
+      "email": "contact@pointdecontact.net",
+      "website": "https://www.pointdecontact.net",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "2 rue de la roquette, Paris, France",
+      "postal_code": null,
+      "source_hash": "870367e0049bf1c378ff025a40e575ad8b9898dd3a51d7c36f8f49e9e9969fbc",
+      "country_code": "FR",
+      "email_domain": "pointdecontact.net",
+      "designation_date": "2025-03-12",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_speech",
+        "self_harm",
+        "protection_of_minors",
+        "public_security",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal Speech",
+        "Incitement to self-harm",
+        "Protection of minors violations",
+        "Risk for public security",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 195,
+    "tf_id": "23e5daf7-f763-5fa4-8f1b-be6f86743b16",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "ebe2aee712b7e7bffcf7d19df21003afba2594bfe5647f61a7a01cb35c7c1ef4",
+        "from": "efadc31e28b244596743598d36b07791215711a822d07e3c8a2e177a443eb6ca"
+      }
+    },
+    "snapshot": {
+      "id": "23e5daf7-f763-5fa4-8f1b-be6f86743b16",
+      "city": null,
+      "name": "Fonds international pour la protection des animaux (IFAW France)",
+      "email": "trustedflagger@ifaw.org",
+      "website": "https://www.ifaw.org/fr",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "14 rue Edouard Mignot, Reims, 51100, France",
+      "postal_code": null,
+      "source_hash": "ebe2aee712b7e7bffcf7d19df21003afba2594bfe5647f61a7a01cb35c7c1ef4",
+      "country_code": "FR",
+      "email_domain": "ifaw.org",
+      "designation_date": "2025-03-12",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "animal_welfare"
+      ],
+      "areas_of_expertise_raw": [
+        "Animal Welfare"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 196,
+    "tf_id": "e1e5af41-5c74-56b1-9486-1536d7a963a7",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "5e50795afeaaee8cd8217fe305d6a700e7d912148506340371a70f4e16f99ffe",
+        "from": "ccd4f1eab88ce7d7046d7b37f60d772f2944cfa089c12eb0aed20eaa571ec77a"
+      }
+    },
+    "snapshot": {
+      "id": "e1e5af41-5c74-56b1-9486-1536d7a963a7",
+      "city": null,
+      "name": "Barzanò & Zanardo S.p.A.",
+      "email": "b-zmilano@barzano-zanardo.com",
+      "website": "https://barzano-zanardo.com/it/",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Via Piemonte 26, ROMA, 00187, Italy",
+      "postal_code": null,
+      "source_hash": "5e50795afeaaee8cd8217fe305d6a700e7d912148506340371a70f4e16f99ffe",
+      "country_code": "IT",
+      "email_domain": "barzano-zanardo.com",
+      "designation_date": "2025-03-06",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 197,
+    "tf_id": "5a21dd13-0c9f-569b-a09c-6731878cb2c7",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "a8b43d811ddd75ce1dba516a5d8baca2fce4f4bf55de8c45827f68b0a56633ff",
+        "from": "f1f2442bb9533c5103d19810f1a93ec394c29d3f659b3e93bdf1b7070b100789"
+      }
+    },
+    "snapshot": {
+      "id": "5a21dd13-0c9f-569b-a09c-6731878cb2c7",
+      "city": null,
+      "name": "Information et Défense des Consommateurs Salariés – Confédération Générale du Travail",
+      "email": "signalconfiance.indecosa@cgt.fr",
+      "website": "https://www.indecosa.fr",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "263 rue de Paris, Montreuil, 93100, France",
+      "postal_code": null,
+      "source_hash": "a8b43d811ddd75ce1dba516a5d8baca2fce4f4bf55de8c45827f68b0a56633ff",
+      "country_code": "FR",
+      "email_domain": "cgt.fr",
+      "designation_date": "2025-03-05",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "illegal_products",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal products",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 198,
+    "tf_id": "d8c8c398-11fc-5bd7-a577-eea09cb2cf53",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "f07e6c0e0b4b4fd744f94b7fc1a561462e034f5f2efba468227781101f48a069",
+        "from": "dbeff54dfe2ca42b45fcd356dc3e18d938e4e5eb02ac4399fce12473395c68b9"
+      }
+    },
+    "snapshot": {
+      "id": "d8c8c398-11fc-5bd7-a577-eea09cb2cf53",
+      "city": null,
+      "name": "Foundation for Social Welfare Services",
+      "email": "179.appogg@gov.mt",
+      "website": "https://fsws.gov.mt/",
+      "dsc_name": "Malta Communications Authority (MCA)",
+      "legal_form": null,
+      "address_raw": "212, Cannon Road, Sta. Venera, SVR9034, Malta",
+      "postal_code": null,
+      "source_hash": "f07e6c0e0b4b4fd744f94b7fc1a561462e034f5f2efba468227781101f48a069",
+      "country_code": "MT",
+      "email_domain": "gov.mt",
+      "designation_date": "2025-02-25",
+      "dsc_country_code": "MT",
+      "areas_of_expertise": [
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 199,
+    "tf_id": "86f18e66-8e3e-52ec-b553-5962188e874b",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "543763656e4066d5da1e391247e859efafaac619105d80ac0490c63ff3d240f7",
+        "from": "ae8f1358eb6e629b14ee68eb47809641e797f7c032b38f9c0ad4f25d122e7cb2"
+      }
+    },
+    "snapshot": {
+      "id": "86f18e66-8e3e-52ec-b553-5962188e874b",
+      "city": null,
+      "name": "Red Barnet",
+      "email": "sletdet@redbarnet.dk",
+      "website": "https://redbarnet.dk",
+      "dsc_name": "Digitaliseringsstyrelsen | Agency for Digital Government",
+      "legal_form": null,
+      "address_raw": "Gammel Kongevej 60, Frederiksberg, 1850, Denmark",
+      "postal_code": null,
+      "source_hash": "543763656e4066d5da1e391247e859efafaac619105d80ac0490c63ff3d240f7",
+      "country_code": "DK",
+      "email_domain": "redbarnet.dk",
+      "designation_date": "2025-01-28",
+      "dsc_country_code": "DK",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "data_privacy",
+        "illegal_speech",
+        "protection_of_minors",
+        "scams_fraud",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Data protection and privacy violations",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Scams and fraud",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 200,
+    "tf_id": "72a58c96-eb56-50b9-a7e4-d62531e6e155",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "2758b1926ac577a2802f5ff87f2ee76a9ed553cff739139d4c89c3555e4d9c0d",
+        "from": "5c3c88d55c77945160baa0e14f439327144ab8b886f954b23fc41c880f15ed80"
+      }
+    },
+    "snapshot": {
+      "id": "72a58c96-eb56-50b9-a7e4-d62531e6e155",
+      "city": null,
+      "name": "Argo Business Solutions S.r.L.",
+      "email": "info@argobs.com",
+      "website": "https://www.argobs.com",
+      "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+      "legal_form": null,
+      "address_raw": "Viale degli  Angeli 6, Cuneo, 12100, Italy",
+      "postal_code": null,
+      "source_hash": "2758b1926ac577a2802f5ff87f2ee76a9ed553cff739139d4c89c3555e4d9c0d",
+      "country_code": "IT",
+      "email_domain": "argobs.com",
+      "designation_date": "2025-01-22",
+      "dsc_country_code": "IT",
+      "areas_of_expertise": [
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 201,
+    "tf_id": "998292dd-b18d-502d-a348-39afc2b9395a",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "4c114280e2af53c22aef54b97c9104238400a2bbd84ddb5e9dfc58cd46032bd1",
+        "from": "2298a801c8f00d9c96ec81f21ac0852c6947e4e66549ccf7e4b311a90e1d3c4c"
+      }
+    },
+    "snapshot": {
+      "id": "998292dd-b18d-502d-a348-39afc2b9395a",
+      "city": null,
+      "name": "CropLife Lietuva",
+      "email": "v.grinkevicius@croplifelietuva.lt",
+      "website": "https://croplifelietuva.lt",
+      "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority",
+      "legal_form": null,
+      "address_raw": "Perkūnkiemio g. 6-1, Vilnius, LT-12130, Lithuania",
+      "postal_code": null,
+      "source_hash": "4c114280e2af53c22aef54b97c9104238400a2bbd84ddb5e9dfc58cd46032bd1",
+      "country_code": "LT",
+      "email_domain": "croplifelietuva.lt",
+      "designation_date": "2024-12-10",
+      "dsc_country_code": "LT",
+      "areas_of_expertise": [
+        "illegal_products"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal products"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 202,
+    "tf_id": "f19205e5-0574-5770-96f6-424c1f2c3f9c",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "decf534a8ddfcb0ae123c862fec20485919bc9d6243fe2db606093251c038c6f",
+        "from": "4defcdf33dc27190622bae0035e16145b19223189714a466b507250f85d18e6c"
+      }
+    },
+    "snapshot": {
+      "id": "f19205e5-0574-5770-96f6-424c1f2c3f9c",
+      "city": null,
+      "name": "Παρατηρητήριο κατά της Παραπληροφόρησης (Disinformation Observatory 'Greece Fact Check')",
+      "email": "info@factchecker.gr",
+      "website": "https://www.factchecker.gr",
+      "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission",
+      "legal_form": null,
+      "address_raw": "Επαρχιακή Οδός Ναυπάκτου Πλατάνου (Provincial road Nafpaktou Platanou), Ναύπακτος (Nafpaktos), 30300, Greece",
+      "postal_code": null,
+      "source_hash": "decf534a8ddfcb0ae123c862fec20485919bc9d6243fe2db606093251c038c6f",
+      "country_code": "EL",
+      "email_domain": "factchecker.gr",
+      "designation_date": "2024-11-29",
+      "dsc_country_code": "EL",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech",
+        "civil_discourse",
+        "public_security",
+        "scams_fraud",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech",
+        "Negative effects on civil discourse and elections",
+        "Risk for public security",
+        "Scams and fraud",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 203,
+    "tf_id": "ed03410f-14f7-55eb-8554-a8b02ae17b0b",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "783e93eec8e34af5b693c3088a2cca08da7fbeeab0df3fd52574935189d6e680",
+        "from": "599c610908d4571bfb7ed186a1dd3122b41dd95b956691f5b8bdcd4d3a7b08b4"
+      }
+    },
+    "snapshot": {
+      "id": "ed03410f-14f7-55eb-8554-a8b02ae17b0b",
+      "city": null,
+      "name": "Kammer für Arbeiter und Angestellte für Wien",
+      "email": "dsa@akwien.at",
+      "website": "https://wien.arbeiterkammer.at",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Prinz-Eugen-Straße 20-22, 1040, Vienna, Austria",
+      "postal_code": null,
+      "source_hash": "783e93eec8e34af5b693c3088a2cca08da7fbeeab0df3fd52574935189d6e680",
+      "country_code": "AT",
+      "email_domain": "akwien.at",
+      "designation_date": "2024-11-28",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "consumer_protection",
+        "data_privacy"
+      ],
+      "areas_of_expertise_raw": [
+        "Consumer information infringements",
+        "Data protection and privacy violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 204,
+    "tf_id": "4370c3ef-19c6-5cad-aef3-287f4500a3d1",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "de32e0736fa4dabbd84b9ca87df964166550ff92d814f29df25d9d9eadea38fc",
+        "from": "7b043207bc31d72c7cbe933946353c65e6dfa36df28a9f296fc993e4ba69a39f"
+      }
+    },
+    "snapshot": {
+      "id": "4370c3ef-19c6-5cad-aef3-287f4500a3d1",
+      "city": null,
+      "name": "Internet Hotline",
+      "email": "internethotline@internethotline.hu",
+      "website": "https://nmhh.hu/internethotline",
+      "dsc_name": "Nemzeti Média és Hírközlési Hatóság | National Media and Infocommunications Authority",
+      "legal_form": null,
+      "address_raw": "Ostrom 23-25, Budapest, Hungary",
+      "postal_code": null,
+      "source_hash": "de32e0736fa4dabbd84b9ca87df964166550ff92d814f29df25d9d9eadea38fc",
+      "country_code": "HU",
+      "email_domain": "internethotline.hu",
+      "designation_date": "2024-11-12",
+      "dsc_country_code": "HU",
+      "areas_of_expertise": [
+        "animal_welfare",
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_products"
+      ],
+      "areas_of_expertise_raw": [
+        "Animal Welfare",
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal products"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 205,
+    "tf_id": "2654a620-94cb-58f8-b003-e70ff28fa375",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "94354f73d0de2f01d93aee7fa9d8d0bf05be49401ccd9bd141d2b67c35bf9494",
+        "from": "e98272640bea002ad6c9f36496da926d208ea0e51d2bd05af0ca2eb5a37c275f"
+      }
+    },
+    "snapshot": {
+      "id": "2654a620-94cb-58f8-b003-e70ff28fa375",
+      "city": null,
+      "name": "LSG Wahrnehmung von Leistungsschutzrechten GmbH",
+      "email": "office@lsg.at",
+      "website": "https://www.lsg.at/",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Seilerstätte 18-20, 1010, Vienna, Austria",
+      "postal_code": null,
+      "source_hash": "94354f73d0de2f01d93aee7fa9d8d0bf05be49401ccd9bd141d2b67c35bf9494",
+      "country_code": "AT",
+      "email_domain": "lsg.at",
+      "designation_date": "2024-11-08",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 206,
+    "tf_id": "395a61af-4c36-5fbc-95a4-2e7016cb0504",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "76812f53f647af870fa14eb31eed46f9039d51f09aa5daf0872c51e2e1898e22",
+        "from": "b6c79d0ceb5f7c1784a9ecee6c97235574758988f426d4c26ebbdaf5cb61fcaa"
+      }
+    },
+    "snapshot": {
+      "id": "395a61af-4c36-5fbc-95a4-2e7016cb0504",
+      "city": null,
+      "name": "e-Enfance (3018)",
+      "email": "3018-signalement@e-enfance.org",
+      "website": "https://e-enfance.org",
+      "dsc_name": "Autorité de régulation de la communication audiovisuelle et numérique (Arcom) | Regulatory Authority for Audiovisual and Digital Communication (Arcom)",
+      "legal_form": null,
+      "address_raw": "30 rue Notre Dame des Victoires, Paris, 750002, France",
+      "postal_code": null,
+      "source_hash": "76812f53f647af870fa14eb31eed46f9039d51f09aa5daf0872c51e2e1898e22",
+      "country_code": "FR",
+      "email_domain": "e-enfance.org",
+      "designation_date": "2024-11-06",
+      "dsc_country_code": "FR",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "data_privacy",
+        "illegal_products",
+        "illegal_speech",
+        "protection_of_minors",
+        "public_security",
+        "scams_fraud",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Data protection and privacy violations",
+        "Illegal products",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Risk for public security",
+        "Scams and fraud",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 207,
+    "tf_id": "717eac4b-4208-536d-8251-195df8f4fca5",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "e89a782b057445fc2157d0196dc0a97fceb4999163b8ec9ccbd12673d9c5722d",
+        "from": "bb904e8100572d7d0619ef8cb5c63bb01b06880daad82449f98494a19e97c39a"
+      }
+    },
+    "snapshot": {
+      "id": "717eac4b-4208-536d-8251-195df8f4fca5",
+      "city": null,
+      "name": "Ίδρυμα Τεχνολογίας και Έρευνας Foundation for Research and Technology – Hellas",
+      "email": "contact@safeline.gr",
+      "website": "https://www.safeline.gr",
+      "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission",
+      "legal_form": null,
+      "address_raw": "100 Nikolaou Plastira str., Vassilika Vouton, Heraklion, Greece",
+      "postal_code": null,
+      "source_hash": "e89a782b057445fc2157d0196dc0a97fceb4999163b8ec9ccbd12673d9c5722d",
+      "country_code": "EL",
+      "email_domain": "safeline.gr",
+      "designation_date": "2024-11-05",
+      "dsc_country_code": "EL",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_speech",
+        "protection_of_minors",
+        "scams_fraud",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Scams and fraud",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 208,
+    "tf_id": "ae1ccc3f-5ba8-56bd-82e6-fdee080edf67",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "84922160d3bdc76c108371d3abeac17b0cc8f036b7872662568f72268fb40cf2",
+        "from": "838533fc57e48e2ecdd7cf41b61998a0135bda8c9a95c48abcb5852ef8b06000"
+      }
+    },
+    "snapshot": {
+      "id": "ae1ccc3f-5ba8-56bd-82e6-fdee080edf67",
+      "city": null,
+      "name": "DIGITAT ΔΙΑΔΙΚΤΥΑΚΗ ΕΝΗΜΕΡΩΣΗ Ο.Ε.",
+      "email": "sarchontis@factreview.gr",
+      "website": "https://factreview.gr",
+      "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission",
+      "legal_form": null,
+      "address_raw": "Ορέστη 14 (Oresti 14), Λάρισα (Larissa), 41335, Greece",
+      "postal_code": null,
+      "source_hash": "84922160d3bdc76c108371d3abeac17b0cc8f036b7872662568f72268fb40cf2",
+      "country_code": "EL",
+      "email_domain": "factreview.gr",
+      "designation_date": "2024-11-05",
+      "dsc_country_code": "EL",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_products",
+        "civil_discourse",
+        "scams_fraud",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal products",
+        "Negative effects on civil discourse and elections",
+        "Scams and fraud",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 209,
+    "tf_id": "a58d0d27-76bc-5afd-9020-a153bfa9e99f",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "4c5d2042779a153f919ee37ee58c8f11a689255ddcb531120aa27d8c2e496edb",
+        "from": "5c1569136b4cb147b1ccc0c9f13aacf28a383910b7f63df70b5e19422d405cb8"
+      }
+    },
+    "snapshot": {
+      "id": "a58d0d27-76bc-5afd-9020-a153bfa9e99f",
+      "city": null,
+      "name": "Institutul Național pentru Studierea Holocaustului din România \"Elie Wiesel\"",
+      "email": "office@inshr-ew.ro",
+      "website": "https://www.inshr-ew.ro",
+      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) |National Authority for Management and Regulation in Communications",
+      "legal_form": null,
+      "address_raw": "Bd. Dacia, no. 89, Bucharest, Romania",
+      "postal_code": null,
+      "source_hash": "4c5d2042779a153f919ee37ee58c8f11a689255ddcb531120aa27d8c2e496edb",
+      "country_code": "RO",
+      "email_domain": "inshr-ew.ro",
+      "designation_date": "2024-11-04",
+      "dsc_country_code": "RO",
+      "areas_of_expertise": [
+        "illegal_speech"
+      ],
+      "areas_of_expertise_raw": [
+        "Illegal Speech"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 210,
+    "tf_id": "e76c0609-6842-5d78-b21e-10103d8f3de9",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "1df7f101ee4c2fc664b2b28f193d0d6fc21b9559f7c1222ed81a1bc5063ce1cc",
+        "from": "097adc898bb2ccede7640a49f6b099c353e90bf64218b3ce534c8a4379ecd8d4"
+      }
+    },
+    "snapshot": {
+      "id": "e76c0609-6842-5d78-b21e-10103d8f3de9",
+      "city": null,
+      "name": "Organizația Salvați Copiii",
+      "email": "secretariat@salvaticopiii.ro",
+      "website": "https://www.salvaticopiii.ro",
+      "dsc_name": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii (ANCOM) |National Authority for Management and Regulation in Communications",
+      "legal_form": null,
+      "address_raw": "Intrarea Ștefan Furtună, nr. 3, sect. 1, Bucharest, Romania",
+      "postal_code": null,
+      "source_hash": "1df7f101ee4c2fc664b2b28f193d0d6fc21b9559f7c1222ed81a1bc5063ce1cc",
+      "country_code": "RO",
+      "email_domain": "salvaticopiii.ro",
+      "designation_date": "2024-10-02",
+      "dsc_country_code": "RO",
+      "areas_of_expertise": [
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 218,
+    "tf_id": "52ab992b-54a8-566d-b31e-e88091b5fb91",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "e995439fe2eb90652160566967dd8ef51da02bad0f7919b2f9046ade8676c8b6",
+        "from": "dd96651a66b76397f59e1c09c0ce25ab67b71aa3a60c65dce4b5684301e1b083"
+      }
+    },
+    "snapshot": {
+      "id": "52ab992b-54a8-566d-b31e-e88091b5fb91",
+      "city": null,
+      "name": "Schutzverband gegen unlauteren Wettbewerb",
+      "email": "office@schutzverband.at",
+      "website": "https://www.schutzverband.at",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Ditscheinergasse 4, Vienna, 1030, Austria",
+      "postal_code": null,
+      "source_hash": "e995439fe2eb90652160566967dd8ef51da02bad0f7919b2f9046ade8676c8b6",
+      "country_code": "AT",
+      "email_domain": "schutzverband.at",
+      "designation_date": "2024-06-05",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "ip_infringement",
+        "consumer_protection"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements",
+        "Consumer information infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 211,
+    "tf_id": "d39c8ca6-3c55-529c-8367-28421cfa80aa",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "e58cd8c3f412d41863cdedfac13b7cacab49e5541a0b58ff5cddab793119d850",
+        "from": "608da0630aaafbd073b061f8ea925233c9816ca22b28da936209f54e30f29ecd"
+      }
+    },
+    "snapshot": {
+      "id": "d39c8ca6-3c55-529c-8367-28421cfa80aa",
+      "city": null,
+      "name": "Stiftung zur Förderung der Jugend in Baden-Württemberg – Meldestelle REspect!",
+      "email": "info@jugendstiftung.de",
+      "website": "https://www.jugendstiftung.de",
+      "dsc_name": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (BNetzA) | Federal Network Agency for Electricity, Gas, Telecommunications, Post and Railways (BNetzA)",
+      "legal_form": null,
+      "address_raw": "Schloßstraße 23, Sersheim, 74372, Germany",
+      "postal_code": null,
+      "source_hash": "e58cd8c3f412d41863cdedfac13b7cacab49e5541a0b58ff5cddab793119d850",
+      "country_code": "DE",
+      "email_domain": "jugendstiftung.de",
+      "designation_date": "2024-10-01",
+      "dsc_country_code": "DE",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "gender_based_violence",
+        "illegal_speech",
+        "public_security",
+        "violence"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Cyber violence against women",
+        "Illegal Speech",
+        "Risk for public security",
+        "Violence"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 212,
+    "tf_id": "dcd54a49-b566-5a84-a499-5710a31b8ee7",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "b4aca9bd720efcd294ba77cb5ff0abd224be76792b12d3954d4f6cd5992b117d",
+        "from": "59af7d08cad07634fbd3798c86c45901cabc1b69c8808e77b1333332818d0592"
+      }
+    },
+    "snapshot": {
+      "id": "dcd54a49-b566-5a84-a499-5710a31b8ee7",
+      "city": null,
+      "name": "Österreichisches Institut für angewandte Telekommunikation",
+      "email": "dsa@oiat.at",
+      "website": "https://oiat.at",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Ungargasse 64-66/3/404, Wien, Austria",
+      "postal_code": null,
+      "source_hash": "b4aca9bd720efcd294ba77cb5ff0abd224be76792b12d3954d4f6cd5992b117d",
+      "country_code": "AT",
+      "email_domain": "oiat.at",
+      "designation_date": "2024-08-27",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "ip_infringement",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 213,
+    "tf_id": "840b8ec9-0316-5435-bb18-322e2c0c21e0",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "765baae730c8e388786b56ebb7491637b1fdf9a982e88ca5160d1819d46c6039",
+        "from": "21ce54c85423f0aeaba362a9ff81afeb9f7c19fa62ab5f28779acc4d298825fb"
+      }
+    },
+    "snapshot": {
+      "id": "840b8ec9-0316-5435-bb18-322e2c0c21e0",
+      "city": null,
+      "name": "RettighedsAlliancen",
+      "email": "dsatrustedflagger@rettighedsalliancen.dk",
+      "website": "https://rettighedsalliancen.dk",
+      "dsc_name": "Digitaliseringsstyrelsen | Agency for Digital Government",
+      "legal_form": null,
+      "address_raw": "Vesterbrogade 15, 1. Sal, Copenhagen, 1620, Denmark",
+      "postal_code": null,
+      "source_hash": "765baae730c8e388786b56ebb7491637b1fdf9a982e88ca5160d1819d46c6039",
+      "country_code": "DK",
+      "email_domain": "rettighedsalliancen.dk",
+      "designation_date": "2024-08-14",
+      "dsc_country_code": "DK",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 214,
+    "tf_id": "db016449-892b-5e1e-b195-aae7d5953145",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "3389547c5caa3695916fcbf4b912b4f6f0f31ce013b9c98ccee4a3291ef67b7c",
+        "from": "493c8bb939d904b68c59a37089286c0498a285b859c547c575caee2b51b0544e"
+      }
+    },
+    "snapshot": {
+      "id": "db016449-892b-5e1e-b195-aae7d5953145",
+      "city": null,
+      "name": "ECPAT Sweden",
+      "email": "info@ecpathotline.se",
+      "website": "https://ecpat.se",
+      "dsc_name": "Post- och telestyrelsen | Post and Telecom Authority",
+      "legal_form": null,
+      "address_raw": "Garvargatan 20, 112 21 Stockholm, Sweden",
+      "postal_code": null,
+      "source_hash": "3389547c5caa3695916fcbf4b912b4f6f0f31ce013b9c98ccee4a3291ef67b7c",
+      "country_code": "SE",
+      "email_domain": "ecpathotline.se",
+      "designation_date": "2024-07-04",
+      "dsc_country_code": "SE",
+      "areas_of_expertise": [
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 215,
+    "tf_id": "a68ecc9e-c511-53ff-b241-bdf9f06aafd1",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "fb4ab9e1ee6447a61a6517913c26379f3a22237b16e7567c8aed35331a256b88",
+        "from": "a2022f19f1160d1b73235c51a1041b03b6036a44da300be9865f87adf21f0986"
+      }
+    },
+    "snapshot": {
+      "id": "a68ecc9e-c511-53ff-b241-bdf9f06aafd1",
+      "city": null,
+      "name": "Rat auf Draht gemeinnützige GmbH",
+      "email": "trustedflagger@rataufdraht.at",
+      "website": "https://www.rataufdraht.at",
+      "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+      "legal_form": null,
+      "address_raw": "Vivenotgasse 3, Vienna, 1120, Austria",
+      "postal_code": null,
+      "source_hash": "fb4ab9e1ee6447a61a6517913c26379f3a22237b16e7567c8aed35331a256b88",
+      "country_code": "AT",
+      "email_domain": "rataufdraht.at",
+      "designation_date": "2024-06-21",
+      "dsc_country_code": "AT",
+      "areas_of_expertise": [
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 216,
+    "tf_id": "8ae4638d-4c8c-520e-aba3-8229c2bf5ad3",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "09768229af84054d6977c284df05eaa87f723f995bbf5b26c050d0f8f3a169fe",
+        "from": "47a4d28012feb0861fc6c0fe18713d27b8cb2bf52180fdc2a6f0ded1390e3462"
+      }
+    },
+    "snapshot": {
+      "id": "8ae4638d-4c8c-520e-aba3-8229c2bf5ad3",
+      "city": null,
+      "name": "Pelastakaa Lapset ry",
+      "email": "info@pelastakaalapset.fi",
+      "website": "https://www.pelastakaalapset.fi",
+      "dsc_name": "Liikenne- ja viestintävirasto Traficom | Finnish Transport and Communications Agency",
+      "legal_form": null,
+      "address_raw": "Koskelantie 38, Helsinki, 00601, Finland",
+      "postal_code": null,
+      "source_hash": "09768229af84054d6977c284df05eaa87f723f995bbf5b26c050d0f8f3a169fe",
+      "country_code": "FI",
+      "email_domain": "pelastakaalapset.fi",
+      "designation_date": "2024-06-18",
+      "dsc_country_code": "FI",
+      "areas_of_expertise": [
+        "protection_of_minors"
+      ],
+      "areas_of_expertise_raw": [
+        "Protection of minors violations"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 217,
+    "tf_id": "37ae1211-c8d1-5a7f-a1bc-deef4078d6b0",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "1a781551227f0525a88f38c127efcdee800bd3f1b11a5774d6add72194c558ed",
+        "from": "ecd7dcd57f05566ce7de868123181bf5eb3cc802fedace997ea2f10feab8cf1d"
+      }
+    },
+    "snapshot": {
+      "id": "37ae1211-c8d1-5a7f-a1bc-deef4078d6b0",
+      "city": null,
+      "name": "Somis Enterprises Oy",
+      "email": "info@someturva.fi",
+      "website": "https://www.someturva.fi",
+      "dsc_name": "Liikenne- ja viestintävirasto Traficom | Finnish Transport and Communications Agency",
+      "legal_form": null,
+      "address_raw": "Köydenpunojankatu 2 D, Helsinki, 00180, Finland",
+      "postal_code": null,
+      "source_hash": "1a781551227f0525a88f38c127efcdee800bd3f1b11a5774d6add72194c558ed",
+      "country_code": "FI",
+      "email_domain": "someturva.fi",
+      "designation_date": "2024-06-18",
+      "dsc_country_code": "FI",
+      "areas_of_expertise": [
+        "cyber_violence",
+        "illegal_speech",
+        "protection_of_minors",
+        "scams_fraud"
+      ],
+      "areas_of_expertise_raw": [
+        "Cyberviolence",
+        "Illegal Speech",
+        "Protection of minors violations",
+        "Scams and fraud"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
+  },
+  {
+    "event_id": 219,
+    "tf_id": "a60ce4be-c8c7-5561-94f1-6cab2497ff27",
+    "event_type": "updated",
+    "diff": {
+      "source_hash": {
+        "to": "22845283dc47fe3d48176248ca66cf723805b2a91c0a2306531e1ee495750091",
+        "from": "779cb2d970618c8770c76124218ad6ecd67ad2ff1b04c2342f408614d757466e"
+      }
+    },
+    "snapshot": {
+      "id": "a60ce4be-c8c7-5561-94f1-6cab2497ff27",
+      "city": null,
+      "name": "Tekijänoikeuden tiedotus- ja valvontakeskus ry",
+      "email": "Info@ttvk.fi",
+      "website": "https://ttvk.fi/en/front-page",
+      "dsc_name": "Liikenne- ja viestintävirasto Traficom | Finnish Transport and Communications Agency",
+      "legal_form": null,
+      "address_raw": "Keilasatama;2 A, FI-02150 Espoo, Finland",
+      "postal_code": null,
+      "source_hash": "22845283dc47fe3d48176248ca66cf723805b2a91c0a2306531e1ee495750091",
+      "country_code": "FI",
+      "email_domain": "ttvk.fi",
+      "designation_date": "2024-03-07",
+      "dsc_country_code": "FI",
+      "areas_of_expertise": [
+        "ip_infringement"
+      ],
+      "areas_of_expertise_raw": [
+        "Intellectual property infringements"
+      ]
+    },
+    "scrape_run_id": "8bc8fa7a-43bf-46b5-899d-f2ff8962a260",
+    "occurred_at": "2026-06-16T18:00:16.204414+00:00"
   }
 ]

@@ -858,6 +858,30 @@
     "status": "active"
   },
   {
+    "id": "b0ff86bd-76ea-52aa-9880-2f663ddf9a93",
+    "name": "Hoopoz UAB",
+    "legal_form": null,
+    "website": "https://www.hoopoz.com/",
+    "email": "ringaile@hoopoz.com",
+    "email_domain": "hoopoz.com",
+    "address_raw": "Perkūnkiemio g. 19, Vilnius, LT-12120, Lithuania",
+    "country_code": "LT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority (RRT)",
+    "dsc_country_code": "LT",
+    "areas_of_expertise_raw": [
+      "Consumer information infringements",
+      "Illegal products"
+    ],
+    "areas_of_expertise": [
+      "consumer_protection",
+      "illegal_products"
+    ],
+    "designation_date": "2026-06-03",
+    "status": "active"
+  },
+  {
     "id": "5a21dd13-0c9f-569b-a09c-6731878cb2c7",
     "name": "Information et Défense des Consommateurs Salariés – Confédération Générale du Travail",
     "legal_form": null,
@@ -1720,7 +1744,7 @@
     "name": "Zavod PIP",
     "legal_form": null,
     "website": "https://zavodpip.si/",
-    "email": "miha.simon@zavodpip.si",
+    "email": "info@zavodpip.si",
     "email_domain": "zavodpip.si",
     "address_raw": "Gosposvetska cesta 83, Maribor, 2000, Slovenia",
     "country_code": "SI",
