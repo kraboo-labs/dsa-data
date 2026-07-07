@@ -1,9 +1,17 @@
 # dsa-data — open mirror of the EU Trusted Flaggers register
 
+[![Trusted flaggers](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.dsa-api.com%2Fv1%2Fbadge%2Fflaggers)](https://api.dsa-api.com/v1/trusted-flaggers)
+[![Last sync](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.dsa-api.com%2Fv1%2Fbadge%2Ffreshness)](https://status.dsa-api.com)
+[![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](LICENSE)
+[![API](https://img.shields.io/badge/API-dsa--api.com-3346ea.svg)](https://dsa-api.com)
+
 Machine-readable copy of the list of designated Trusted Flaggers under the
 EU Digital Services Act (Article 22(5)). Refreshed automatically by the
 scraper at https://github.com/kraboo-labs/dsa-api whenever the upstream
 list changes.
+
+> Prefer to query by country, area, or domain, or get a change stream? Use the
+> REST API: **https://dsa-api.com** · citing this dataset? See [`CITATION.cff`](CITATION.cff).
 
 ## Authoritative source
 
