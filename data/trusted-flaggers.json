@@ -906,6 +906,32 @@
     "status": "active"
   },
   {
+    "id": "7424417c-3001-50c0-b531-47f03ba3502f",
+    "name": "Institut pour l'égalité des femmes et des hommes",
+    "legal_form": null,
+    "website": "https://igvm-iefh.belgium.be",
+    "email": "info@iefh.be",
+    "email_domain": "iefh.be",
+    "address_raw": "Place Victor Horta 40, Brussels, 1060, Belgium",
+    "country_code": "BE",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Institut belge des services postaux et des télécommunications | Belgisch Instituut voor postdiensten en telecommunicatie | Belgisches Institut für Postdienste und Telekommunikation | Belgian Institute for Postal Services and Telecommunications",
+    "dsc_country_code": "BE",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Cyber violence against women",
+      "Illegal Speech"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "gender_based_violence",
+      "illegal_speech"
+    ],
+    "designation_date": "2026-06-24",
+    "status": "active"
+  },
+  {
     "id": "a58d0d27-76bc-5afd-9020-a153bfa9e99f",
     "name": "Institutul Național pentru Studierea Holocaustului din România \"Elie Wiesel\"",
     "legal_form": null,
@@ -956,6 +982,54 @@
     "status": "active"
   },
   {
+    "id": "41fa200b-92d0-5b1f-a2ea-c926f2217772",
+    "name": "Irish Internet Hotline",
+    "legal_form": null,
+    "website": "https://hotline.ie/",
+    "email": "dsatrustedflagger@hotline.ie",
+    "email_domain": "hotline.ie",
+    "address_raw": "Internet House, 26-34 Temple Bar, Dublin 2, Ireland, D02 E838",
+    "country_code": "IE",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Coimisiún na Meán | Media Commission",
+    "dsc_country_code": "IE",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Cyber violence against women",
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "gender_based_violence",
+      "scams_fraud"
+    ],
+    "designation_date": "2026-06-11",
+    "status": "active"
+  },
+  {
+    "id": "b33a7442-4cba-5039-8e67-43a13f6586d6",
+    "name": "Irish Music Rights Organisation (‘IMRO’)",
+    "legal_form": null,
+    "website": "https://imro.ie/",
+    "email": "TrustedFlagger@imro.ie",
+    "email_domain": "imro.ie",
+    "address_raw": "Copyright House, Pembroke Row, Lower Baggot Street, Dublin 2, Ireland, D02 HW59",
+    "country_code": "IE",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Coimisiún na Meán | Media Commission",
+    "dsc_country_code": "IE",
+    "areas_of_expertise_raw": [
+      "Intellectual property infringements"
+    ],
+    "areas_of_expertise": [
+      "ip_infringement"
+    ],
+    "designation_date": "2026-05-28",
+    "status": "active"
+  },
+  {
     "id": "46fb4a14-5c2c-52e5-b8b7-3011ad10e6c7",
     "name": "ISCTE - Instituto Universitário de Lisboa",
     "legal_form": null,
@@ -983,6 +1057,28 @@
       "violence"
     ],
     "designation_date": "2026-03-20",
+    "status": "active"
+  },
+  {
+    "id": "05653e97-ad5b-522d-b8f0-3a5eac57f3b9",
+    "name": "Jewish Representative Council of Ireland (‘JRCI’)",
+    "legal_form": null,
+    "website": "https://jrci.ie/",
+    "email": "trustedflagger@jrci.ie",
+    "email_domain": "jrci.ie",
+    "address_raw": "PO Box 12628, Rathmines, Dublin 6, Ireland",
+    "country_code": "IE",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Coimisiún na Meán | Media Commission",
+    "dsc_country_code": "IE",
+    "areas_of_expertise_raw": [
+      "Illegal Speech"
+    ],
+    "areas_of_expertise": [
+      "illegal_speech"
+    ],
+    "designation_date": "2026-06-11",
     "status": "active"
   },
   {
@@ -1770,7 +1866,7 @@
     "name": "Zveza potrošnikov Slovenije - društvo",
     "legal_form": null,
     "website": "https://www.zps.si/",
-    "email": "petra.loviscek@zps.si",
+    "email": "prijavi-prevaro@zps.si",
     "email_domain": "zps.si",
     "address_raw": "Tržaška cesta 2, Ljubljana, 1000, Slovenia",
     "country_code": "SI",
