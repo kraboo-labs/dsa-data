@@ -30,7 +30,7 @@
     "name": "APAV – Associação Portuguesa de Apoio à Vítima",
     "legal_form": null,
     "website": "https://www.apav.pt",
-    "email": "carolinasoares@apav.pt",
+    "email": "internetsegura@apav.pt",
     "email_domain": "apav.pt",
     "address_raw": "Unidade de Cibercrime | Linha Internet Segura; Rua José Estêvão 135 A, 1150-201 Lisbon, Portugal",
     "country_code": "PT",
@@ -997,12 +997,16 @@
     "areas_of_expertise_raw": [
       "Cyberviolence",
       "Cyber violence against women",
-      "Scams and fraud"
+      "Scams and fraud",
+      "Protection of minors violations",
+      "Illegal Speech"
     ],
     "areas_of_expertise": [
       "cyber_violence",
       "gender_based_violence",
-      "scams_fraud"
+      "scams_fraud",
+      "protection_of_minors",
+      "illegal_speech"
     ],
     "designation_date": "2026-06-11",
     "status": "active"
