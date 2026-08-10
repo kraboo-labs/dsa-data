@@ -384,6 +384,38 @@
     "status": "active"
   },
   {
+    "id": "856021d0-57fb-5dc0-a181-09f011d26d36",
+    "name": "Centar za nestalu i zlostavljanu djecu",
+    "legal_form": null,
+    "website": "https://cnzd.org/",
+    "email": "info@cnzd.org",
+    "email_domain": "cnzd.org",
+    "address_raw": "Ulica bana Josipa Jelačića 83, Višnjevac, Croatia",
+    "country_code": "HR",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Hrvatska regulatorna agencija za mrežne djelatnosti (HAKOM) | Croatian Regulatory Authority for Network Industries (HAKOM)",
+    "dsc_country_code": "HR",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Cyber violence against women",
+      "Illegal Speech",
+      "Protection of minors violations",
+      "Scams and fraud",
+      "Violence"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "gender_based_violence",
+      "illegal_speech",
+      "protection_of_minors",
+      "scams_fraud",
+      "violence"
+    ],
+    "designation_date": "2026-07-23",
+    "status": "active"
+  },
+  {
     "id": "0c0b7e09-7ec8-5179-b1af-f6c49aeed2cd",
     "name": "Central Bank of Ireland",
     "legal_form": null,
@@ -680,6 +712,32 @@
     "status": "active"
   },
   {
+    "id": "a44e1377-46cd-57db-aaba-4e8f028322e6",
+    "name": "Eesti Kohtunike Ühing",
+    "legal_form": null,
+    "website": "https://www.ekou.ee/",
+    "email": "ekou@ekou.ee",
+    "email_domain": "ekou.ee",
+    "address_raw": "Lubja 4, Tallinn, 10115, Estonia",
+    "country_code": "EE",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA) | Consumer Protection and Technical Regulatory Authority (CPTRA)",
+    "dsc_country_code": "EE",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Data protection and privacy violations",
+      "Illegal products"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "data_privacy",
+      "illegal_products"
+    ],
+    "designation_date": "2026-07-27",
+    "status": "active"
+  },
+  {
     "id": "e9c32124-1328-5379-a681-a8f23fad2bbf",
     "name": "Eesti Pangaliit",
     "legal_form": null,
@@ -855,6 +913,28 @@
       "illegal_speech"
     ],
     "designation_date": "2025-06-02",
+    "status": "active"
+  },
+  {
+    "id": "87b2bb55-4e27-5d2c-8ed2-adb64dbefe92",
+    "name": "Háttér Társaság",
+    "legal_form": null,
+    "website": "https://jelentsd-a-homofobiat.hu",
+    "email": "hatter@hatter.hu",
+    "email_domain": "hatter.hu",
+    "address_raw": "Balzac utca 8-10. fszt./1., Budapest, 1136, Hungary",
+    "country_code": "HU",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Nemzeti Média és Hírközlési Hatóság | National Media and Infocommunications Authority",
+    "dsc_country_code": "HU",
+    "areas_of_expertise_raw": [
+      "Illegal Speech"
+    ],
+    "areas_of_expertise": [
+      "illegal_speech"
+    ],
+    "designation_date": "2026-07-30",
     "status": "active"
   },
   {
@@ -1138,6 +1218,38 @@
     "status": "active"
   },
   {
+    "id": "23267c50-5306-5410-9a3f-8d7693a5c429",
+    "name": "Kivon Μονοπροσωπη Ι.Κ.Ε. / Kivon Single Member P.C.",
+    "legal_form": null,
+    "website": "https://kivon.gr",
+    "email": "report@kivon.gr",
+    "email_domain": "kivon.gr",
+    "address_raw": "Evripidou 55, Kallithea, Notiou Tomea Athinon, Athens, 17674, Greece",
+    "country_code": "EL",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission",
+    "dsc_country_code": "EL",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Data protection and privacy violations",
+      "Illegal products",
+      "Intellectual property infringements",
+      "Protection of minors violations",
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "data_privacy",
+      "illegal_products",
+      "ip_infringement",
+      "protection_of_minors",
+      "scams_fraud"
+    ],
+    "designation_date": "2026-07-24",
+    "status": "active"
+  },
+  {
     "id": "e8a75015-6bf7-5b8c-a38f-c527a1e8d1c9",
     "name": "Kopjra S.r.L.",
     "legal_form": null,
@@ -1403,6 +1515,28 @@
       "violence"
     ],
     "designation_date": "2025-12-03",
+    "status": "active"
+  },
+  {
+    "id": "1de1164a-d7f8-5b4a-b82f-9c5e33ff0366",
+    "name": "ProArt Szövetség a Szerzői Jogokért",
+    "legal_form": null,
+    "website": "https://www.proart.hu",
+    "email": "horvath.peter@proart.hu",
+    "email_domain": "proart.hu",
+    "address_raw": "Pálya utca 4-6., Budapest, 1012, Hungary",
+    "country_code": "HU",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Nemzeti Média és Hírközlési Hatóság | National Media and Infocommunications Authority",
+    "dsc_country_code": "HU",
+    "areas_of_expertise_raw": [
+      "Intellectual property infringements"
+    ],
+    "areas_of_expertise": [
+      "ip_infringement"
+    ],
+    "designation_date": "2026-07-30",
     "status": "active"
   },
   {
@@ -1690,7 +1824,7 @@
     "website": "https://ttvk.fi/en/front-page",
     "email": "Info@ttvk.fi",
     "email_domain": "ttvk.fi",
-    "address_raw": "Keilasatama;2 A, FI-02150 Espoo, Finland",
+    "address_raw": "Keilasatama, 2 A, FI-02150 Espoo, Finland",
     "country_code": "FI",
     "city": null,
     "postal_code": null,
