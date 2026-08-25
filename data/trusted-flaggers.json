@@ -263,10 +263,10 @@
     "id": "c42fe03a-79d1-57dd-b9fd-44b5801def3a",
     "name": "Axghouse antipiracy OÜ",
     "legal_form": null,
-    "website": "https://axghouse.com",
+    "website": "https://removee.org",
     "email": "removals@axghouse.com",
     "email_domain": "axghouse.com",
-    "address_raw": "Vesivärava tn 50-201, Tallin 10152, Estonia",
+    "address_raw": "Vesivärava tn 50-201, Tallinn 10152, Estonia",
     "country_code": "EE",
     "city": null,
     "postal_code": null,
@@ -727,12 +727,12 @@
     "areas_of_expertise_raw": [
       "Cyberviolence",
       "Data protection and privacy violations",
-      "Illegal products"
+      "Illegal speech"
     ],
     "areas_of_expertise": [
       "cyber_violence",
       "data_privacy",
-      "illegal_products"
+      "illegal_speech"
     ],
     "designation_date": "2026-07-27",
     "status": "active"
@@ -1361,6 +1361,28 @@
       "cyber_violence"
     ],
     "designation_date": "2026-03-25",
+    "status": "active"
+  },
+  {
+    "id": "666cd9f8-25f7-5bc2-a597-f0e66c2554ff",
+    "name": "MAPINET - Movimento Anti Pirataria na Internet",
+    "legal_form": null,
+    "website": "https://www.mapinet.org",
+    "email": "geral@mapinet.org",
+    "email_domain": "mapinet.org",
+    "address_raw": "Av. Infante D. Henrique, 306, Lt6, 1.º, 1950-421, Lisabon, Portugal",
+    "country_code": "PT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Autoridade Nacional de Comunicações (ANACOM)  |  National Communications Authority (ANACOM)",
+    "dsc_country_code": "PT",
+    "areas_of_expertise_raw": [
+      "Intellectual property infringements"
+    ],
+    "areas_of_expertise": [
+      "ip_infringement"
+    ],
+    "designation_date": "2026-08-04",
     "status": "active"
   },
   {
