@@ -1862,6 +1862,32 @@
     "status": "active"
   },
   {
+    "id": "001e2ee4-bb79-5c15-a36f-fd8c0c6a8c24",
+    "name": "Tutela Digitale Srl",
+    "legal_form": null,
+    "website": "https://www.tuteladigitale.it",
+    "email": "legale@tuteladigitale.it",
+    "email_domain": "tuteladigitale.it",
+    "address_raw": "via San Vitale n. 23, Bologna, Italy",
+    "country_code": "IT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Autorità per le Garanzie nelle Comunicazioni | Authority for Communications Guarantees",
+    "dsc_country_code": "IT",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Data protection and privacy violations",
+      "Intellectual property infringements"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "data_privacy",
+      "ip_infringement"
+    ],
+    "designation_date": "2026-09-02",
+    "status": "active"
+  },
+  {
     "id": "7c53d1dc-5cd5-5a07-b5ae-1768c559ced4",
     "name": "UAB Piracymeter",
     "legal_form": null,
