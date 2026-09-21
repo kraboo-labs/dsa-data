@@ -30,7 +30,7 @@
     "name": "APAV – Associação Portuguesa de Apoio à Vítima",
     "legal_form": null,
     "website": "https://www.apav.pt",
-    "email": "internetsegura@apav.pt",
+    "email": "linhainternetsegura@apav.pt",
     "email_domain": "apav.pt",
     "address_raw": "Unidade de Cibercrime | Linha Internet Segura; Rua José Estêvão 135 A, 1150-201 Lisbon, Portugal",
     "country_code": "PT",
@@ -813,6 +813,28 @@
       "scams_fraud"
     ],
     "designation_date": "2025-04-30",
+    "status": "active"
+  },
+  {
+    "id": "1c622228-86ee-5816-b880-27c7dac96693",
+    "name": "Financial Services and Markets Authority (FSMA)",
+    "legal_form": null,
+    "website": "https://www.fsma.be",
+    "email": "info@fsma.be",
+    "email_domain": "fsma.be",
+    "address_raw": "rue du Congrès 12/14, Brussels, Belgium",
+    "country_code": "BE",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Institut belge des services postaux et des télécommunications | Belgisch Instituut voor postdiensten en telecommunicatie | Belgisches Institut für Postdienste und Telekommunikation | Belgian Institute for Postal Services and Telecommunications",
+    "dsc_country_code": "BE",
+    "areas_of_expertise_raw": [
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "scams_fraud"
+    ],
+    "designation_date": "2026-09-15",
     "status": "active"
   },
   {
@@ -1616,6 +1638,30 @@
     "status": "active"
   },
   {
+    "id": "0e867395-3e00-5974-b3d3-87785bc6a767",
+    "name": "Repsense, UAB",
+    "legal_form": null,
+    "website": "https://repsense.io/",
+    "email": "liudvikas.andriulis@repsense.io",
+    "email_domain": "repsense.io",
+    "address_raw": "V. Nagevičiaus g. 3, Vilnius, Lithuania",
+    "country_code": "LT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Lietuvos Respublikos ryšių reguliavimo tarnyba (RRT) | Communications Regulatory Authority (RRT)",
+    "dsc_country_code": "LT",
+    "areas_of_expertise_raw": [
+      "Negative effects on civil discourse and elections",
+      "Risk for public security"
+    ],
+    "areas_of_expertise": [
+      "civil_discourse",
+      "public_security"
+    ],
+    "designation_date": "2026-09-08",
+    "status": "active"
+  },
+  {
     "id": "840b8ec9-0316-5435-bb18-322e2c0c21e0",
     "name": "RettighedsAlliancen",
     "legal_form": null,
@@ -1976,7 +2022,7 @@
     "name": "VšĮ \"Vaikų Linija\"",
     "legal_form": null,
     "website": "https://vaikulinija.lt/",
-    "email": "info@vaikulinija.lt",
+    "email": "pranesu@vaikulinija.lt",
     "email_domain": "vaikulinija.lt",
     "address_raw": "Algirdo g. 31, Vilnius, 03219, Lithuania",
     "country_code": "LT",
