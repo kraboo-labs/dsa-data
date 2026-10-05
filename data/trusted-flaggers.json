@@ -388,7 +388,7 @@
     "name": "Centar za nestalu i zlostavljanu djecu",
     "legal_form": null,
     "website": "https://cnzd.org/",
-    "email": "info@cnzd.org",
+    "email": "dsa@cnzd.org",
     "email_domain": "cnzd.org",
     "address_raw": "Ulica bana Josipa Jelačića 83, Višnjevac, Croatia",
     "country_code": "HR",
@@ -727,7 +727,7 @@
     "areas_of_expertise_raw": [
       "Cyberviolence",
       "Data protection and privacy violations",
-      "Illegal speech"
+      "Illegal Speech"
     ],
     "areas_of_expertise": [
       "cyber_violence",
@@ -820,7 +820,7 @@
     "name": "Financial Services and Markets Authority (FSMA)",
     "legal_form": null,
     "website": "https://www.fsma.be",
-    "email": "info@fsma.be",
+    "email": "dsa-trustedflagger@fsma.be",
     "email_domain": "fsma.be",
     "address_raw": "rue du Congrès 12/14, Brussels, Belgium",
     "country_code": "BE",
@@ -1072,13 +1072,25 @@
       "Animal Welfare",
       "Cyberviolence",
       "Cyber violence against women",
-      "Illegal products"
+      "Illegal products",
+      "Illegal Speech",
+      "Incitement to self-harm",
+      "Protection of minors violations",
+      "Risk for public security",
+      "Scams and fraud",
+      "Violence"
     ],
     "areas_of_expertise": [
       "animal_welfare",
       "cyber_violence",
       "gender_based_violence",
-      "illegal_products"
+      "illegal_products",
+      "illegal_speech",
+      "self_harm",
+      "protection_of_minors",
+      "public_security",
+      "scams_fraud",
+      "violence"
     ],
     "designation_date": "2024-11-12",
     "status": "active"
@@ -1566,7 +1578,7 @@
     "name": "ProArt Szövetség a Szerzői Jogokért",
     "legal_form": null,
     "website": "https://www.proart.hu",
-    "email": "horvath.peter@proart.hu",
+    "email": "info@proart.hu",
     "email_domain": "proart.hu",
     "address_raw": "Pálya utca 4-6., Budapest, 1012, Hungary",
     "country_code": "HU",
@@ -1868,7 +1880,7 @@
     "name": "Svenska Stöldskyddsföreningen",
     "legal_form": null,
     "website": "https://www.stoldskyddsforeningen.se",
-    "email": "info@stoldskyddsforeningen.se",
+    "email": "betroddanmalare@stoldskyddsforeningen.se",
     "email_domain": "stoldskyddsforeningen.se",
     "address_raw": "Rosenlundsgatan 29A Stockholm 118 63 Sweden",
     "country_code": "SE",
@@ -1972,13 +1984,15 @@
       "Consumer information infringements",
       "Data protection and privacy violations",
       "Illegal products",
-      "Scams and fraud"
+      "Scams and fraud",
+      "Protection of minors violations"
     ],
     "areas_of_expertise": [
       "consumer_protection",
       "data_privacy",
       "illegal_products",
-      "scams_fraud"
+      "scams_fraud",
+      "protection_of_minors"
     ],
     "designation_date": "2025-06-02",
     "status": "active"
@@ -2133,10 +2147,12 @@
     "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission (EETT)",
     "dsc_country_code": "EL",
     "areas_of_expertise_raw": [
-      "Intellectual property infringements"
+      "Intellectual property infringements",
+      "Illegal products"
     ],
     "areas_of_expertise": [
-      "ip_infringement"
+      "ip_infringement",
+      "illegal_products"
     ],
     "designation_date": "2026-02-04",
     "status": "active"
@@ -2160,7 +2176,8 @@
       "Illegal Speech",
       "Protection of minors violations",
       "Scams and fraud",
-      "Violence"
+      "Violence",
+      "Incitement to self-harm"
     ],
     "areas_of_expertise": [
       "cyber_violence",
@@ -2168,7 +2185,8 @@
       "illegal_speech",
       "protection_of_minors",
       "scams_fraud",
-      "violence"
+      "violence",
+      "self_harm"
     ],
     "designation_date": "2024-11-05",
     "status": "active"
@@ -2192,7 +2210,8 @@
       "Negative effects on civil discourse and elections",
       "Risk for public security",
       "Scams and fraud",
-      "Violence"
+      "Violence",
+      "Illegal products"
     ],
     "areas_of_expertise": [
       "cyber_violence",
@@ -2200,7 +2219,8 @@
       "civil_discourse",
       "public_security",
       "scams_fraud",
-      "violence"
+      "violence",
+      "illegal_products"
     ],
     "designation_date": "2024-11-29",
     "status": "active"
