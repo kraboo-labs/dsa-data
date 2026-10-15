@@ -26,6 +26,36 @@
     "status": "active"
   },
   {
+    "id": "32e203e0-c503-5d89-ad12-9ccccf3a2e4d",
+    "name": "ALPHA ΤΡΑΠΕΖΑ AΝΩΝΥΜΗ EΤΑΙΡΙΑ - ALPHA BANK S.A.",
+    "legal_form": null,
+    "website": "https://www.alpha.gr",
+    "email": "eFraud.Admin@alpha.gr",
+    "email_domain": "alpha.gr",
+    "address_raw": "Stadiou 40, Athens, 10252, Greece",
+    "country_code": "EL",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (EETT) | Hellenic Telecommunications and Post Commission",
+    "dsc_country_code": "EL",
+    "areas_of_expertise_raw": [
+      "Cyberviolence",
+      "Data protection and privacy violations",
+      "Illegal products",
+      "Intellectual property infringements",
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "cyber_violence",
+      "data_privacy",
+      "illegal_products",
+      "ip_infringement",
+      "scams_fraud"
+    ],
+    "designation_date": "2026-10-09",
+    "status": "active"
+  },
+  {
     "id": "8ffbc3fe-0c27-508c-bb3e-2f170f84e4a8",
     "name": "APAV – Associação Portuguesa de Apoio à Vítima",
     "legal_form": null,
@@ -835,6 +865,28 @@
       "scams_fraud"
     ],
     "designation_date": "2026-09-15",
+    "status": "active"
+  },
+  {
+    "id": "08d4fde6-58e2-5341-a065-aa8a4f4bf469",
+    "name": "Finanzmarktaufsichtsbehörde (FMA)",
+    "legal_form": null,
+    "website": "https://www.fma.gv.at/",
+    "email": "trustedflagger@fma.gv.at",
+    "email_domain": "fma.gv.at",
+    "address_raw": "Otto-Wagner-Platz 5, Vienna, Austria",
+    "country_code": "AT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Kommunikationsbehörde Austria | Austria Communications Authority",
+    "dsc_country_code": "AT",
+    "areas_of_expertise_raw": [
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "scams_fraud"
+    ],
+    "designation_date": "2026-10-02",
     "status": "active"
   },
   {
