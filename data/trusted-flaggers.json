@@ -1886,11 +1886,13 @@
     "dsc_country_code": "NL",
     "areas_of_expertise_raw": [
       "Cyberviolence",
+      "Data protection and privacy violations",
       "Protection of minors violations",
       "Scams and fraud"
     ],
     "areas_of_expertise": [
       "cyber_violence",
+      "data_privacy",
       "protection_of_minors",
       "scams_fraud"
     ],
