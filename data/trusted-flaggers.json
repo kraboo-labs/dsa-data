@@ -312,6 +312,32 @@
     "status": "active"
   },
   {
+    "id": "5fe343d5-a9e9-583e-9e2a-452b6b00b3f7",
+    "name": "Banco de Portugal",
+    "legal_form": null,
+    "website": "https://www.bportugal.pt",
+    "email": "ciber@bportugal.pt",
+    "email_domain": "bportugal.pt",
+    "address_raw": "Rua do Comércio,148, Lisbon, 1100-150, Portugal",
+    "country_code": "PT",
+    "city": null,
+    "postal_code": null,
+    "dsc_name": "Autoridade Nacional de Comunicações (ANACOM)  |  National Communications Authority (ANACOM)",
+    "dsc_country_code": "PT",
+    "areas_of_expertise_raw": [
+      "Data protection and privacy violations",
+      "Intellectual property infringements",
+      "Scams and fraud"
+    ],
+    "areas_of_expertise": [
+      "data_privacy",
+      "ip_infringement",
+      "scams_fraud"
+    ],
+    "designation_date": "2026-10-28",
+    "status": "active"
+  },
+  {
     "id": "e1e5af41-5c74-56b1-9486-1536d7a963a7",
     "name": "Barzanò & Zanardo S.p.A.",
     "legal_form": null,
@@ -757,7 +783,7 @@
     "areas_of_expertise_raw": [
       "Cyberviolence",
       "Data protection and privacy violations",
-      "Illegal Speech"
+      "Illegal speech"
     ],
     "areas_of_expertise": [
       "cyber_violence",
